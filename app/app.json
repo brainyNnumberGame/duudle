@@ -1,0 +1,25 @@
+{
+ "apps" : [{
+   "name"        : "duudle",
+   "script"      : "bin/www",
+   "log_date_format"  : "YYYY-MM-DD HH:mm:SS",
+   "merge_logs" : true,
+   "log_file"   : "../duudle_log/logs/duudle.log",
+   "error_file" : "../duudle_log/logs/duudle-err.log",
+   "out_file"   : "../duudle_log/logs/duudle-out.log",
+   "pid_file"   : "../duudle_log/logs/duudle.pid",
+   "exec_mode"  : "cluster",
+   "instances"  : 8,
+   "max_restarts": 15000,
+   "max_memory_restart" : "5G",
+   "watch"      :  true,
+   "env": {
+      "NODE_ENV": "development",
+      "PORT": 8080
+    },
+   "env_production" : {
+     "NODE_ENV": "production",
+     "PORT":8080
+   }
+  }]
+}

@@ -1,0 +1,27 @@
+
+  <div id="app">
+
+    <h1>\{{ greeting }}</h1>
+    <p>
+      <a :href="roomURL">
+        <img src="/images/draw.png">
+      </a>
+    </p>
+  </div>
+
+  <script>
+    new Vue({
+      el: '#app',
+      data: {
+        greeting: '欢迎来到你画我猜!',
+        roomURL: '/room/'+new Date().getTime()
+      },
+      methods: {
+        humanizeURL: function (url) {
+          return url
+            .replace(/^https?:\/\//, '')
+            .replace(/\/$/, '')
+        }
+      }
+    })
+  </script>

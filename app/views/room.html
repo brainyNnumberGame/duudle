@@ -1,0 +1,18 @@
+
+  <div id="app">
+
+    <h1>\{{ greeting }}</h1>
+    <draw_component></draw_component>
+  </div>
+
+  <script>
+    Vue.component('draw_component', {
+      template: '<canvas id="canvas" width="520" height="350" style="border: 1px solid #999;"></canvas>'
+    })
+    new Vue({
+      el: '#app',
+      data: {
+        greeting: '开始画画吧!',
+      }
+    })
+  </script>
