@@ -1,8 +1,20 @@
+html{font-size: 14px;}
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  padding: 1rem;
+  font: 1rem "Lucida Grande", Helvetica, Arial, sans-serif;
+  color: #666;
 }
 
 a {
   color: #00B7FF;
 }
+h1{font-size: 2rem;}
+.content{text-align: center;}
+.startDraw{text-align: center;}
+canvas{margin: 0 0 1rem 0;background: #085148;border: 1rem solid #f7cb67;}
+#answer{width: 13rem;}
+#keyword-box{font-size: 2rem;font-weight: bold;margin: 0 0 1rem 0;}
+.clearCanvasButton{border-radius: 0.2rem;width: 8rem;height: 3rem;font-size: 1.5rem;color: #666;-webkit-tap-highlight-color:transparent;}
+#answer-box{font-size: 2rem;font-weight: bold;margin: 0 0 1rem 0;}
+.answer{border-radius: 0.2rem;width: 3rem;height: 1.5rem;font-size:1.5rem;vertical-align: middle;}
+.submitButton{margin:1rem 0 0 0;border-radius: 0.2rem;width: 8rem;height: 2.35rem;font-size: 1.5rem;color: #666;-webkit-tap-highlight-color:transparent;}

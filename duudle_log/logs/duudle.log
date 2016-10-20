@@ -10471,3 +10471,1731 @@ TypeError: Cannot read property 'use' of undefined
 2016-10-13 19:06:95: [0mGET /stylesheets/style.css [36m304 [0m5.656 ms - -[0m
 2016-10-13 19:06:97: [0mGET /javascripts/vue.js [36m304 [0m12.542 ms - -[0m
 2016-10-13 19:06:97: [0mGET /javascripts/socket.io.js [36m304 [0m12.663 ms - -[0m
+2016-10-13 19:29:71: true
+2016-10-13 19:29:75: [0mGET /room/147615633778699?draw=true [32m200 [0m46.541 ms - 5995[0m
+2016-10-13 19:29:83: [0mGET /stylesheets/style.css [32m200 [0m18.094 ms - 111[0m
+2016-10-13 19:29:92: [0mGET /javascripts/vue.js [32m200 [0m41.651 ms - 63200[0m
+2016-10-13 19:29:95: [0mGET /javascripts/socket.io.js [32m200 [0m28.295 ms - 184656[0m
+2016-10-14 09:24:98: true
+2016-10-14 09:24:04: [0mGET /room/147615633778699?draw=true [32m200 [0m57.759 ms - 6000[0m
+2016-10-14 09:24:26: [0mGET /javascripts/vue.js [32m200 [0m15.928 ms - 63200[0m
+2016-10-14 09:24:27: [0mGET /stylesheets/style.css [32m200 [0m32.878 ms - 111[0m
+2016-10-14 09:24:29: [0mGET /javascripts/socket.io.js [32m200 [0m46.244 ms - 184656[0m
+2016-10-14 09:39:61: true
+2016-10-14 09:39:65: [0mGET /room/147615633778699?draw=true [32m200 [0m33.840 ms - 5319[0m
+2016-10-14 09:39:71: [0mGET /stylesheets/style.css [32m200 [0m5.486 ms - 111[0m
+2016-10-14 09:39:74: [0mGET /javascripts/socket.io.js [32m200 [0m13.908 ms - 184656[0m
+2016-10-14 09:39:74: [0mGET /javascripts/vue.js [32m200 [0m14.126 ms - 63200[0m
+2016-10-14 09:41:56: true
+2016-10-14 09:41:62: [0mGET /room/147615633778699?draw=true [32m200 [0m55.529 ms - 5310[0m
+2016-10-14 09:41:76: [0mGET /javascripts/socket.io.js [32m200 [0m43.552 ms - 184656[0m
+2016-10-14 09:41:77: [0mGET /javascripts/vue.js [32m200 [0m47.878 ms - 63200[0m
+2016-10-14 09:41:87: [0mGET /stylesheets/style.css [32m200 [0m41.183 ms - 111[0m
+2016-10-14 09:42:61: true
+2016-10-14 09:42:64: [0mGET /room/147615633778699?draw=true [32m200 [0m36.640 ms - 5321[0m
+2016-10-14 09:42:70: [0mGET /stylesheets/style.css [32m200 [0m22.853 ms - 111[0m
+2016-10-14 09:42:74: [0mGET /javascripts/socket.io.js [32m200 [0m15.412 ms - 184656[0m
+2016-10-14 09:42:75: [0mGET /javascripts/vue.js [32m200 [0m15.636 ms - 63200[0m
+2016-10-14 09:43:14: true
+2016-10-14 09:43:17: [0mGET /room/147615633778699?draw=true [32m200 [0m31.468 ms - 5322[0m
+2016-10-14 09:43:24: [0mGET /stylesheets/style.css [32m200 [0m27.040 ms - 111[0m
+2016-10-14 09:43:27: [0mGET /javascripts/vue.js [32m200 [0m21.320 ms - 63200[0m
+2016-10-14 09:43:28: [0mGET /javascripts/socket.io.js [32m200 [0m16.710 ms - 184656[0m
+2016-10-14 09:44:77: true
+2016-10-14 09:44:79: [0mGET /room/147615633778699?draw=true [32m200 [0m33.731 ms - 5322[0m
+2016-10-14 09:44:83: [0mGET /stylesheets/style.css [32m200 [0m8.138 ms - 111[0m
+2016-10-14 09:44:85: [0mGET /javascripts/socket.io.js [32m200 [0m7.049 ms - 184656[0m
+2016-10-14 09:44:86: [0mGET /javascripts/vue.js [32m200 [0m13.455 ms - 63200[0m
+2016-10-14 09:45:10: true
+2016-10-14 09:45:13: [0mGET /room/147615633778699?draw=true [32m200 [0m34.024 ms - 5322[0m
+2016-10-14 09:45:25: [0mGET /javascripts/socket.io.js [32m200 [0m32.474 ms - 184656[0m
+2016-10-14 09:45:26: [0mGET /javascripts/vue.js [32m200 [0m43.796 ms - 63200[0m
+2016-10-14 09:45:27: [0mGET /stylesheets/style.css [32m200 [0m7.068 ms - 111[0m
+2016-10-14 09:45:90: true
+2016-10-14 09:45:92: [0mGET /room/147615633778699?draw=true [32m200 [0m25.576 ms - 5323[0m
+2016-10-14 09:45:96: [0mGET /stylesheets/style.css [32m200 [0m1.974 ms - 111[0m
+2016-10-14 09:45:02: [0mGET /javascripts/socket.io.js [32m200 [0m11.845 ms - 184656[0m
+2016-10-14 09:45:02: [0mGET /javascripts/vue.js [32m200 [0m12.377 ms - 63200[0m
+2016-10-14 09:52:93: true
+2016-10-14 09:52:97: [0mGET /room/147615633778699?draw=true [32m200 [0m39.153 ms - 5514[0m
+2016-10-14 09:52:04: [0mGET /stylesheets/style.css [32m200 [0m22.997 ms - 111[0m
+2016-10-14 09:52:08: [0mGET /javascripts/vue.js [32m200 [0m12.837 ms - 63200[0m
+2016-10-14 09:52:10: [0mGET /javascripts/socket.io.js [32m200 [0m21.131 ms - 184656[0m
+2016-10-14 10:07:49: true
+2016-10-14 10:07:53: [0mGET /room/147615633778699?draw=true [32m200 [0m37.470 ms - 5514[0m
+2016-10-14 10:07:59: [0mGET /stylesheets/style.css [32m200 [0m11.295 ms - 111[0m
+2016-10-14 10:07:66: [0mGET /javascripts/vue.js [32m200 [0m21.395 ms - 63200[0m
+2016-10-14 10:07:66: [0mGET /javascripts/socket.io.js [32m200 [0m19.652 ms - 184656[0m
+2016-10-14 10:08:05: undefined
+2016-10-14 10:08:08: [0mGET /room/147615633778699 [32m200 [0m28.593 ms - 5514[0m
+2016-10-14 10:08:13: [0mGET /javascripts/socket.io.js [36m304 [0m6.628 ms - -[0m
+2016-10-14 10:08:14: [0mGET /stylesheets/style.css [36m304 [0m11.304 ms - -[0m
+2016-10-14 10:08:14: [0mGET /javascripts/vue.js [36m304 [0m8.075 ms - -[0m
+2016-10-14 10:08:63: [0mGET /stylesheets/style.css [36m304 [0m2.353 ms - -[0m
+2016-10-14 14:29:53: true
+2016-10-14 14:29:57: [0mGET /room/147615633778699?draw=true [32m200 [0m37.717 ms - 5514[0m
+2016-10-14 14:29:66: [0mGET /javascripts/socket.io.js [32m200 [0m5.569 ms - 184656[0m
+2016-10-14 14:29:66: [0mGET /javascripts/vue.js [32m200 [0m7.148 ms - 63200[0m
+2016-10-14 14:29:67: [0mGET /stylesheets/style.css [32m200 [0m34.665 ms - 111[0m
+2016-10-14 14:29:57: true
+2016-10-14 14:29:58: [0mGET /room/147615633778699?draw=true [32m200 [0m10.247 ms - 5514[0m
+2016-10-14 14:29:63: [0mGET /stylesheets/style.css [32m200 [0m1.970 ms - 111[0m
+2016-10-14 14:29:64: [0mGET /javascripts/vue.js [32m200 [0m9.289 ms - 63200[0m
+2016-10-14 14:29:65: [0mGET /javascripts/socket.io.js [32m200 [0m4.628 ms - 184656[0m
+2016-10-14 14:30:98: undefined
+2016-10-14 14:30:01: [0mGET /room/147615633778699 [32m200 [0m45.080 ms - 5514[0m
+2016-10-14 14:30:07: [0mGET /javascripts/vue.js [32m200 [0m1.150 ms - 63200[0m
+2016-10-14 14:30:08: [0mGET /javascripts/socket.io.js [32m200 [0m0.921 ms - 184656[0m
+2016-10-14 14:30:09: [0mGET /stylesheets/style.css [32m200 [0m2.666 ms - 111[0m
+2016-10-14 14:31:51: undefined
+2016-10-14 14:31:52: [0mGET /room/147615633778699 [36m304 [0m8.820 ms - -[0m
+2016-10-14 14:31:53: [0mGET /stylesheets/style.css [36m304 [0m1.324 ms - -[0m
+2016-10-14 14:31:53: [0mGET /javascripts/vue.js [36m304 [0m2.067 ms - -[0m
+2016-10-14 14:31:69: [0mGET /javascripts/socket.io.js [36m304 [0m0.558 ms - -[0m
+2016-10-14 14:31:60: [0mGET /stylesheets/style.css [36m304 [0m0.463 ms - -[0m
+2016-10-14 15:20:88: true
+2016-10-14 15:20:92: [0mGET /room/147615633778699?draw=true [32m200 [0m55.336 ms - 5514[0m
+2016-10-14 15:20:99: [0mGET /javascripts/socket.io.js [32m200 [0m7.246 ms - 184656[0m
+2016-10-14 15:20:02: [0mGET /stylesheets/style.css [32m200 [0m47.109 ms - 111[0m
+2016-10-14 15:20:05: [0mGET /javascripts/vue.js [32m200 [0m17.144 ms - 63200[0m
+2016-10-14 15:22:59: true
+2016-10-14 15:22:60: [0mGET /room/147615633778699?draw=true [32m200 [0m4.151 ms - 5514[0m
+2016-10-14 15:22:65: [0mGET /stylesheets/style.css [32m200 [0m3.435 ms - 111[0m
+2016-10-14 15:22:66: [0mGET /javascripts/vue.js [32m200 [0m4.351 ms - 63200[0m
+2016-10-14 15:22:69: [0mGET /javascripts/socket.io.js [32m200 [0m17.597 ms - 184656[0m
+2016-10-14 15:23:55: true
+2016-10-14 15:23:58: [0mGET /room/147615633778699?draw=true [32m200 [0m35.843 ms - 5521[0m
+2016-10-14 15:23:66: [0mGET /javascripts/vue.js [32m200 [0m1.060 ms - 63200[0m
+2016-10-14 15:23:67: [0mGET /stylesheets/style.css [32m200 [0m5.036 ms - 111[0m
+2016-10-14 15:23:70: [0mGET /javascripts/socket.io.js [32m200 [0m26.263 ms - 184656[0m
+2016-10-14 15:23:22: true
+2016-10-14 15:23:42: [0mGET /javascripts/vue.js [32m200 [0m13.556 ms - 63200[0m
+2016-10-14 15:23:44: [0mGET /room/147615633778699?draw=true [32m200 [0m86.616 ms - 5545[0m
+2016-10-14 15:23:48: [0mGET /javascripts/socket.io.js [32m200 [0m19.806 ms - 184656[0m
+2016-10-14 15:23:48: [0mGET /stylesheets/style.css [32m200 [0m15.218 ms - 111[0m
+2016-10-17 16:27:97: [0mGET / [32m200 [0m29.473 ms - 701[0m
+2016-10-17 16:27:99: [0mGET /stylesheets/style.css [36m304 [0m3.985 ms - -[0m
+2016-10-17 16:27:00: [0mGET /images/draw.png [32m200 [0m6.403 ms - 2061[0m
+2016-10-17 16:27:00: [0mGET /javascripts/vue.js [36m304 [0m11.302 ms - -[0m
+2016-10-17 16:27:55: [0mGET /favicon.ico [33m404 [0m12.990 ms - 1308[0m
+2016-10-17 16:27:24: undefined
+2016-10-17 16:27:24: [0mGET /room/1476692845234 [32m200 [0m10.996 ms - 5599[0m
+2016-10-17 16:27:27: [0mGET /stylesheets/style.css [36m304 [0m1.184 ms - -[0m
+2016-10-17 16:27:27: [0mGET /javascripts/vue.js [36m304 [0m2.903 ms - -[0m
+2016-10-17 16:27:30: [0mGET /javascripts/socket.io.js [36m304 [0m12.769 ms - -[0m
+2016-10-17 16:27:32: undefined
+2016-10-17 16:27:35: [0mGET /room/1476692845234 [36m304 [0m26.489 ms - -[0m
+2016-10-17 16:27:37: [0mGET /javascripts/socket.io.js [36m304 [0m0.518 ms - -[0m
+2016-10-17 16:27:38: [0mGET /stylesheets/style.css [36m304 [0m1.174 ms - -[0m
+2016-10-17 16:27:38: [0mGET /javascripts/vue.js [36m304 [0m3.459 ms - -[0m
+2016-10-17 16:31:38: undefined
+2016-10-17 16:31:43: [0mGET /room/1476692845234 [32m200 [0m57.148 ms - 5599[0m
+2016-10-17 16:31:51: [0mGET /stylesheets/style.css [36m304 [0m3.844 ms - -[0m
+2016-10-17 16:31:53: [0mGET /javascripts/socket.io.js [36m304 [0m17.927 ms - -[0m
+2016-10-17 16:31:55: [0mGET /javascripts/vue.js [36m304 [0m42.023 ms - -[0m
+2016-10-17 16:33:16: [0mGET /stylesheets/style.css [36m304 [0m0.707 ms - -[0m
+2016-10-17 16:34:59: undefined
+2016-10-17 16:34:61: [0mGET /room/1476692845234 [36m304 [0m10.872 ms - -[0m
+2016-10-17 16:34:66: [0mGET /stylesheets/style.css [36m304 [0m0.423 ms - -[0m
+2016-10-17 16:34:66: [0mGET /javascripts/vue.js [36m304 [0m2.924 ms - -[0m
+2016-10-17 16:34:67: [0mGET /javascripts/socket.io.js [36m304 [0m2.665 ms - -[0m
+2016-10-17 16:41:80: undefined
+2016-10-17 16:41:84: [0mGET /room/1476692845234 [32m200 [0m32.098 ms - 5746[0m
+2016-10-17 16:41:87: [0mGET /stylesheets/style.css [36m304 [0m4.103 ms - -[0m
+2016-10-17 16:41:91: [0mGET /javascripts/vue.js [36m304 [0m25.683 ms - -[0m
+2016-10-17 16:41:91: [0mGET /javascripts/socket.io.js [36m304 [0m21.756 ms - -[0m
+2016-10-17 16:41:94: undefined
+2016-10-17 16:41:97: [0mGET /room/1476692845234 [32m200 [0m28.803 ms - 5751[0m
+2016-10-17 16:41:01: [0mGET /javascripts/socket.io.js [36m304 [0m1.300 ms - -[0m
+2016-10-17 16:41:02: [0mGET /javascripts/vue.js [36m304 [0m4.424 ms - -[0m
+2016-10-17 16:41:03: [0mGET /stylesheets/style.css [36m304 [0m1.812 ms - -[0m
+2016-10-17 16:49:00: undefined
+2016-10-17 16:49:03: [0mGET /room/1476692845234 [32m200 [0m32.692 ms - 5761[0m
+2016-10-17 16:49:10: [0mGET /stylesheets/style.css [36m304 [0m3.843 ms - -[0m
+2016-10-17 16:49:12: [0mGET /javascripts/socket.io.js [36m304 [0m15.046 ms - -[0m
+2016-10-17 16:49:14: [0mGET /javascripts/vue.js [36m304 [0m15.845 ms - -[0m
+2016-10-17 17:03:60: undefined
+2016-10-17 17:03:65: [0mGET /room/1476692845234 [32m200 [0m51.291 ms - 5773[0m
+2016-10-17 17:03:74: [0mGET /javascripts/vue.js [36m304 [0m17.565 ms - -[0m
+2016-10-17 17:03:77: [0mGET /javascripts/socket.io.js [36m304 [0m18.392 ms - -[0m
+2016-10-17 17:03:79: [0mGET /stylesheets/style.css [36m304 [0m6.551 ms - -[0m
+2016-10-17 17:12:90: undefined
+2016-10-17 17:12:93: [0mGET /room/1476692845234 [32m200 [0m34.980 ms - 5902[0m
+2016-10-17 17:12:94: [0mGET /stylesheets/style.css [36m304 [0m3.762 ms - -[0m
+2016-10-17 17:12:96: [0mGET /javascripts/vue.js [36m304 [0m9.595 ms - -[0m
+2016-10-17 17:12:96: [0mGET /javascripts/socket.io.js [36m304 [0m9.502 ms - -[0m
+2016-10-17 17:21:03: undefined
+2016-10-17 17:21:08: [0mGET /room/1476692845234 [32m200 [0m46.232 ms - 5940[0m
+2016-10-17 17:21:17: [0mGET /javascripts/vue.js [36m304 [0m15.248 ms - -[0m
+2016-10-17 17:21:19: [0mGET /javascripts/socket.io.js [36m304 [0m11.592 ms - -[0m
+2016-10-17 17:21:21: [0mGET /stylesheets/style.css [36m304 [0m44.782 ms - -[0m
+2016-10-17 17:22:82: undefined
+2016-10-17 17:22:83: [0mGET /room/1476692845234 [36m304 [0m7.153 ms - -[0m
+2016-10-17 17:22:86: [0mGET /stylesheets/style.css [36m304 [0m0.682 ms - -[0m
+2016-10-17 17:22:88: [0mGET /javascripts/vue.js [36m304 [0m2.370 ms - -[0m
+2016-10-17 17:22:89: [0mGET /javascripts/socket.io.js [36m304 [0m2.126 ms - -[0m
+2016-10-17 18:27:01: undefined
+2016-10-17 18:27:05: [0mGET /room/1476692845234 [32m200 [0m36.432 ms - 6161[0m
+2016-10-17 18:27:11: [0mGET /stylesheets/style.css [36m304 [0m4.036 ms - -[0m
+2016-10-17 18:27:18: [0mGET /javascripts/vue.js [36m304 [0m20.819 ms - -[0m
+2016-10-17 18:27:18: [0mGET /javascripts/socket.io.js [36m304 [0m10.696 ms - -[0m
+2016-10-17 18:27:87: undefined
+2016-10-17 18:27:89: [0mGET /room/1476692845234 [36m304 [0m30.677 ms - -[0m
+2016-10-17 18:27:93: [0mGET /stylesheets/style.css [36m304 [0m2.928 ms - -[0m
+2016-10-17 18:27:94: [0mGET /javascripts/socket.io.js [36m304 [0m3.114 ms - -[0m
+2016-10-17 18:27:95: [0mGET /javascripts/vue.js [36m304 [0m7.924 ms - -[0m
+2016-10-17 18:31:86: undefined
+2016-10-17 18:31:89: [0mGET /room/1476692845234 [32m200 [0m33.379 ms - 6429[0m
+2016-10-17 18:31:94: [0mGET /stylesheets/style.css [36m304 [0m6.834 ms - -[0m
+2016-10-17 18:31:00: [0mGET /javascripts/socket.io.js [36m304 [0m8.196 ms - -[0m
+2016-10-17 18:31:00: [0mGET /javascripts/vue.js [36m304 [0m23.539 ms - -[0m
+2016-10-17 19:00:68: undefined
+2016-10-17 19:00:71: [0mGET /room/1476692845234 [32m200 [0m33.116 ms - 6688[0m
+2016-10-17 19:00:75: [0mGET /stylesheets/style.css [36m304 [0m6.458 ms - -[0m
+2016-10-17 19:00:81: [0mGET /javascripts/vue.js [36m304 [0m12.849 ms - -[0m
+2016-10-17 19:00:81: [0mGET /javascripts/socket.io.js [36m304 [0m14.228 ms - -[0m
+2016-10-17 19:00:18: undefined
+2016-10-17 19:00:20: [0mGET /room/1476692845234 [36m304 [0m24.253 ms - -[0m
+2016-10-17 19:00:21: [0mGET /stylesheets/style.css [36m304 [0m1.036 ms - -[0m
+2016-10-17 19:00:22: [0mGET /javascripts/socket.io.js [36m304 [0m2.465 ms - -[0m
+2016-10-17 19:00:22: [0mGET /javascripts/vue.js [36m304 [0m1.929 ms - -[0m
+2016-10-17 19:00:75: undefined
+2016-10-17 19:00:76: [0mGET /room/1476692845234 [36m304 [0m11.156 ms - -[0m
+2016-10-17 19:00:79: [0mGET /stylesheets/style.css [36m304 [0m0.505 ms - -[0m
+2016-10-17 19:00:80: [0mGET /javascripts/vue.js [36m304 [0m4.110 ms - -[0m
+2016-10-17 19:00:80: [0mGET /javascripts/socket.io.js [36m304 [0m0.773 ms - -[0m
+2016-10-17 19:01:56: undefined
+2016-10-17 19:01:57: [0mGET /room/1476692845234 [36m304 [0m5.880 ms - -[0m
+2016-10-17 19:01:59: [0mGET /stylesheets/style.css [36m304 [0m0.459 ms - -[0m
+2016-10-17 19:01:59: [0mGET /javascripts/socket.io.js [36m304 [0m0.598 ms - -[0m
+2016-10-17 19:01:59: [0mGET /javascripts/vue.js [36m304 [0m0.587 ms - -[0m
+2016-10-17 19:02:11: undefined
+2016-10-17 19:02:15: [0mGET /room/1476692845234 [36m304 [0m34.012 ms - -[0m
+2016-10-17 19:02:22: [0mGET /stylesheets/style.css [36m304 [0m5.546 ms - -[0m
+2016-10-17 19:02:23: [0mGET /javascripts/vue.js [36m304 [0m11.403 ms - -[0m
+2016-10-17 19:02:22: [0mGET /javascripts/socket.io.js [36m304 [0m11.493 ms - -[0m
+2016-10-17 19:02:00: undefined
+2016-10-17 19:02:02: [0mGET /room/1476692845234 [36m304 [0m26.832 ms - -[0m
+2016-10-17 19:02:05: [0mGET /stylesheets/style.css [36m304 [0m1.751 ms - -[0m
+2016-10-17 19:02:05: [0mGET /javascripts/socket.io.js [36m304 [0m3.024 ms - -[0m
+2016-10-17 19:02:06: [0mGET /javascripts/vue.js [36m304 [0m2.786 ms - -[0m
+2016-10-17 19:04:09: undefined
+2016-10-17 19:04:11: [0mGET /room/1476692845234 [36m304 [0m27.313 ms - -[0m
+2016-10-17 19:04:14: [0mGET /javascripts/vue.js [36m304 [0m0.419 ms - -[0m
+2016-10-17 19:04:14: [0mGET /javascripts/socket.io.js [36m304 [0m0.367 ms - -[0m
+2016-10-17 19:04:14: [0mGET /stylesheets/style.css [36m304 [0m2.028 ms - -[0m
+2016-10-17 19:07:24: undefined
+2016-10-17 19:07:27: [0mGET /room/1476692845234 [32m200 [0m35.933 ms - 6688[0m
+2016-10-17 19:07:34: [0mGET /stylesheets/style.css [36m304 [0m6.041 ms - -[0m
+2016-10-17 19:07:39: [0mGET /javascripts/socket.io.js [36m304 [0m15.481 ms - -[0m
+2016-10-17 19:07:40: [0mGET /javascripts/vue.js [36m304 [0m10.723 ms - -[0m
+2016-10-17 19:07:62: undefined
+2016-10-17 19:07:64: [0mGET /room/1476692845234 [36m304 [0m25.769 ms - -[0m
+2016-10-17 19:07:67: [0mGET /stylesheets/style.css [36m304 [0m1.667 ms - -[0m
+2016-10-17 19:07:67: [0mGET /javascripts/socket.io.js [36m304 [0m0.991 ms - -[0m
+2016-10-17 19:07:67: [0mGET /javascripts/vue.js [36m304 [0m3.203 ms - -[0m
+2016-10-17 19:07:88: [0mGET /stylesheets/style.css [36m304 [0m1.258 ms - -[0m
+2016-10-17 19:08:73: undefined
+2016-10-17 19:08:76: [0mGET /room/1476692845234 [36m304 [0m28.485 ms - -[0m
+2016-10-17 19:08:80: [0mGET /stylesheets/style.css [36m304 [0m0.421 ms - -[0m
+2016-10-17 19:08:80: [0mGET /javascripts/vue.js [36m304 [0m0.383 ms - -[0m
+2016-10-17 19:08:80: [0mGET /javascripts/socket.io.js [36m304 [0m1.186 ms - -[0m
+2016-10-17 19:22:81: undefined
+2016-10-17 19:22:84: [0mGET /room/1476692845234 [32m200 [0m35.916 ms - 6467[0m
+2016-10-17 19:22:89: [0mGET /stylesheets/style.css [36m304 [0m11.985 ms - -[0m
+2016-10-17 19:22:93: [0mGET /javascripts/vue.js [36m304 [0m12.330 ms - -[0m
+2016-10-17 19:22:93: [0mGET /javascripts/socket.io.js [36m304 [0m13.461 ms - -[0m
+2016-10-17 19:22:86: undefined
+2016-10-17 19:22:88: [0mGET /room/1476692845234 [36m304 [0m24.134 ms - -[0m
+2016-10-17 19:22:91: [0mGET /stylesheets/style.css [36m304 [0m1.031 ms - -[0m
+2016-10-17 19:22:92: [0mGET /javascripts/vue.js [36m304 [0m2.209 ms - -[0m
+2016-10-17 19:22:93: [0mGET /javascripts/socket.io.js [36m304 [0m1.120 ms - -[0m
+2016-10-17 19:22:57: undefined
+2016-10-17 19:22:58: [0mGET /room/1476692845234 [36m304 [0m10.186 ms - -[0m
+2016-10-17 19:22:62: [0mGET /stylesheets/style.css [36m304 [0m0.551 ms - -[0m
+2016-10-17 19:22:62: [0mGET /javascripts/vue.js [36m304 [0m0.892 ms - -[0m
+2016-10-17 19:22:62: [0mGET /javascripts/socket.io.js [36m304 [0m0.365 ms - -[0m
+2016-10-17 19:22:99: undefined
+2016-10-17 19:22:99: [0mGET /room/1476692845234 [36m304 [0m8.994 ms - -[0m
+2016-10-17 19:23:03: [0mGET /stylesheets/style.css [36m304 [0m0.433 ms - -[0m
+2016-10-17 19:23:03: [0mGET /javascripts/vue.js [36m304 [0m0.445 ms - -[0m
+2016-10-17 19:23:03: [0mGET /javascripts/socket.io.js [36m304 [0m0.453 ms - -[0m
+2016-10-17 19:23:46: undefined
+2016-10-17 19:23:47: [0mGET /room/1476692845234 [36m304 [0m3.562 ms - -[0m
+2016-10-17 19:23:48: [0mGET /stylesheets/style.css [36m304 [0m0.558 ms - -[0m
+2016-10-17 19:23:48: [0mGET /javascripts/vue.js [36m304 [0m0.530 ms - -[0m
+2016-10-17 19:23:69: [0mGET /javascripts/socket.io.js [36m304 [0m0.415 ms - -[0m
+2016-10-17 19:24:83: undefined
+2016-10-17 19:24:86: [0mGET /room/1476692845234 [36m304 [0m36.893 ms - -[0m
+2016-10-17 19:24:92: [0mGET /stylesheets/style.css [36m304 [0m19.434 ms - -[0m
+2016-10-17 19:24:95: [0mGET /javascripts/vue.js [36m304 [0m13.713 ms - -[0m
+2016-10-17 19:24:96: [0mGET /javascripts/socket.io.js [36m304 [0m15.636 ms - -[0m
+2016-10-18 09:56:71: undefined
+2016-10-18 09:56:76: [0mGET /room/1476692845234 [32m200 [0m53.527 ms - 6507[0m
+2016-10-18 09:56:87: [0mGET /stylesheets/style.css [36m304 [0m13.165 ms - -[0m
+2016-10-18 09:56:88: [0mGET /javascripts/vue.js [36m304 [0m6.315 ms - -[0m
+2016-10-18 09:56:88: [0mGET /javascripts/socket.io.js [36m304 [0m21.651 ms - -[0m
+2016-10-18 09:57:47: undefined
+2016-10-18 09:57:50: [0mGET /room/1476692845234 [32m200 [0m31.785 ms - 6507[0m
+2016-10-18 09:57:57: [0mGET /stylesheets/style.css [36m304 [0m4.632 ms - -[0m
+2016-10-18 09:57:61: [0mGET /javascripts/vue.js [36m304 [0m29.666 ms - -[0m
+2016-10-18 09:57:62: [0mGET /javascripts/socket.io.js [36m304 [0m24.244 ms - -[0m
+2016-10-18 09:57:29: undefined
+2016-10-18 09:57:32: [0mGET /room/1476692845234 [36m304 [0m34.679 ms - -[0m
+2016-10-18 09:57:36: [0mGET /stylesheets/style.css [36m304 [0m5.535 ms - -[0m
+2016-10-18 09:57:42: [0mGET /javascripts/vue.js [36m304 [0m15.447 ms - -[0m
+2016-10-18 09:57:41: [0mGET /javascripts/socket.io.js [36m304 [0m18.752 ms - -[0m
+2016-10-18 09:57:49: undefined
+2016-10-18 09:57:52: [0mGET /room/1476692845234 [36m304 [0m28.026 ms - -[0m
+2016-10-18 09:57:57: [0mGET /javascripts/socket.io.js [36m304 [0m1.901 ms - -[0m
+2016-10-18 09:57:57: [0mGET /javascripts/vue.js [36m304 [0m4.643 ms - -[0m
+2016-10-18 09:57:55: [0mGET /stylesheets/style.css [36m304 [0m1.300 ms - -[0m
+2016-10-18 09:58:10: undefined
+2016-10-18 09:58:11: [0mGET /room/1476692845234 [36m304 [0m4.552 ms - -[0m
+2016-10-18 09:58:16: [0mGET /stylesheets/style.css [36m304 [0m0.532 ms - -[0m
+2016-10-18 09:58:16: [0mGET /javascripts/vue.js [36m304 [0m1.154 ms - -[0m
+2016-10-18 09:58:17: [0mGET /javascripts/socket.io.js [36m304 [0m4.430 ms - -[0m
+2016-10-18 09:59:30: undefined
+2016-10-18 09:59:31: [0mGET /room/1476692845234 [36m304 [0m6.833 ms - -[0m
+2016-10-18 09:59:32: [0mGET /stylesheets/style.css [36m304 [0m0.452 ms - -[0m
+2016-10-18 09:59:32: [0mGET /javascripts/vue.js [36m304 [0m0.385 ms - -[0m
+2016-10-18 09:59:50: [0mGET /javascripts/socket.io.js [36m304 [0m0.398 ms - -[0m
+2016-10-18 10:00:68: [0mGET /stylesheets/style.css [36m304 [0m0.378 ms - -[0m
+2016-10-18 10:00:35: undefined
+2016-10-18 10:00:38: [0mGET /room/1476692845234 [36m304 [0m30.942 ms - -[0m
+2016-10-18 10:00:42: [0mGET /stylesheets/style.css [36m304 [0m0.568 ms - -[0m
+2016-10-18 10:00:42: [0mGET /javascripts/vue.js [36m304 [0m0.775 ms - -[0m
+2016-10-18 10:00:49: [0mGET /javascripts/socket.io.js [36m304 [0m18.168 ms - -[0m
+2016-10-18 10:08:09: undefined
+2016-10-18 10:08:12: [0mGET /room/1476692845234 [36m304 [0m30.986 ms - -[0m
+2016-10-18 10:08:17: [0mGET /stylesheets/style.css [36m304 [0m6.678 ms - -[0m
+2016-10-18 10:08:22: [0mGET /javascripts/vue.js [36m304 [0m13.129 ms - -[0m
+2016-10-18 10:08:22: [0mGET /javascripts/socket.io.js [36m304 [0m13.352 ms - -[0m
+2016-10-18 10:08:56: undefined
+2016-10-18 10:08:59: [0mGET /room/1476692845234 [32m200 [0m32.348 ms - 6509[0m
+2016-10-18 10:08:63: [0mGET /stylesheets/style.css [36m304 [0m1.092 ms - -[0m
+2016-10-18 10:08:66: [0mGET /javascripts/vue.js [36m304 [0m5.837 ms - -[0m
+2016-10-18 10:08:75: [0mGET /javascripts/socket.io.js [36m304 [0m49.393 ms - -[0m
+2016-10-18 10:08:08: undefined
+2016-10-18 10:08:11: [0mGET /room/1476692845234 [36m304 [0m33.867 ms - -[0m
+2016-10-18 10:08:16: [0mGET /stylesheets/style.css [36m304 [0m6.092 ms - -[0m
+2016-10-18 10:08:20: [0mGET /javascripts/vue.js [36m304 [0m10.128 ms - -[0m
+2016-10-18 10:08:20: [0mGET /javascripts/socket.io.js [36m304 [0m14.491 ms - -[0m
+2016-10-18 10:33:46: undefined
+2016-10-18 10:33:49: [0mGET /room/1476692845234 [32m200 [0m41.832 ms - 6557[0m
+2016-10-18 10:33:57: [0mGET /stylesheets/style.css [36m304 [0m32.809 ms - -[0m
+2016-10-18 10:33:60: [0mGET /javascripts/socket.io.js [36m304 [0m21.748 ms - -[0m
+2016-10-18 10:33:62: [0mGET /javascripts/vue.js [36m304 [0m34.218 ms - -[0m
+2016-10-18 10:33:36: undefined
+2016-10-18 10:33:39: [0mGET /room/1476692845234 [36m304 [0m31.561 ms - -[0m
+2016-10-18 10:33:43: [0mGET /stylesheets/style.css [36m304 [0m1.225 ms - -[0m
+2016-10-18 10:33:44: [0mGET /javascripts/vue.js [36m304 [0m9.261 ms - -[0m
+2016-10-18 10:33:45: [0mGET /javascripts/socket.io.js [36m304 [0m1.308 ms - -[0m
+2016-10-18 10:33:41: undefined
+2016-10-18 10:33:44: [0mGET /room/1476692845234 [36m304 [0m32.383 ms - -[0m
+2016-10-18 10:33:51: [0mGET /stylesheets/style.css [36m304 [0m4.152 ms - -[0m
+2016-10-18 10:33:51: [0mGET /javascripts/socket.io.js [36m304 [0m18.281 ms - -[0m
+2016-10-18 10:33:53: [0mGET /javascripts/vue.js [36m304 [0m11.568 ms - -[0m
+2016-10-18 10:33:19: undefined
+2016-10-18 10:33:21: [0mGET /room/1476692845234 [36m304 [0m30.202 ms - -[0m
+2016-10-18 10:33:25: [0mGET /stylesheets/style.css [36m304 [0m1.416 ms - -[0m
+2016-10-18 10:33:26: [0mGET /javascripts/socket.io.js [36m304 [0m1.052 ms - -[0m
+2016-10-18 10:33:27: [0mGET /javascripts/vue.js [36m304 [0m7.171 ms - -[0m
+2016-10-18 11:33:91: undefined
+2016-10-18 11:33:95: [0mGET /room/1476692845234 [32m200 [0m38.350 ms - 6557[0m
+2016-10-18 11:33:02: [0mGET /stylesheets/style.css [36m304 [0m4.467 ms - -[0m
+2016-10-18 11:33:09: [0mGET /javascripts/vue.js [36m304 [0m44.398 ms - -[0m
+2016-10-18 11:33:11: [0mGET /javascripts/socket.io.js [36m304 [0m40.147 ms - -[0m
+2016-10-18 11:34:80: undefined
+2016-10-18 11:34:83: [0mGET /room/1476692845234 [36m304 [0m30.444 ms - -[0m
+2016-10-18 11:34:86: [0mGET /stylesheets/style.css [36m304 [0m1.124 ms - -[0m
+2016-10-18 11:34:87: [0mGET /javascripts/socket.io.js [36m304 [0m1.007 ms - -[0m
+2016-10-18 11:34:87: [0mGET /javascripts/vue.js [36m304 [0m4.507 ms - -[0m
+2016-10-18 11:43:12: undefined
+2016-10-18 11:43:15: [0mGET /room/1476692845234 [36m304 [0m35.255 ms - -[0m
+2016-10-18 11:43:22: [0mGET /stylesheets/style.css [36m304 [0m10.972 ms - -[0m
+2016-10-18 11:43:30: [0mGET /javascripts/socket.io.js [36m304 [0m19.063 ms - -[0m
+2016-10-18 11:43:30: [0mGET /javascripts/vue.js [36m304 [0m15.644 ms - -[0m
+2016-10-18 11:43:76: undefined
+2016-10-18 11:43:78: [0mGET /room/1476692845234 [36m304 [0m26.724 ms - -[0m
+2016-10-18 11:43:82: [0mGET /stylesheets/style.css [36m304 [0m1.467 ms - -[0m
+2016-10-18 11:43:83: [0mGET /javascripts/vue.js [36m304 [0m5.419 ms - -[0m
+2016-10-18 11:43:84: [0mGET /javascripts/socket.io.js [36m304 [0m9.731 ms - -[0m
+2016-10-18 11:45:29: undefined
+2016-10-18 11:45:32: [0mGET /room/1476692845234 [32m200 [0m34.621 ms - 6596[0m
+2016-10-18 11:45:36: [0mGET /stylesheets/style.css [36m304 [0m4.081 ms - -[0m
+2016-10-18 11:45:41: [0mGET /javascripts/socket.io.js [36m304 [0m10.224 ms - -[0m
+2016-10-18 11:45:41: [0mGET /javascripts/vue.js [36m304 [0m10.426 ms - -[0m
+2016-10-18 11:46:35: undefined
+2016-10-18 11:46:38: [0mGET /room/1476692845234 [32m200 [0m33.170 ms - 6673[0m
+2016-10-18 11:46:42: [0mGET /stylesheets/style.css [36m304 [0m1.318 ms - -[0m
+2016-10-18 11:46:51: [0mGET /javascripts/vue.js [36m304 [0m45.894 ms - -[0m
+2016-10-18 11:46:51: [0mGET /javascripts/socket.io.js [36m304 [0m29.987 ms - -[0m
+2016-10-18 11:47:10: undefined
+2016-10-18 11:47:13: [0mGET /room/1476692845234 [32m200 [0m33.826 ms - 6705[0m
+2016-10-18 11:47:24: [0mGET /javascripts/vue.js [36m304 [0m25.129 ms - -[0m
+2016-10-18 11:47:24: [0mGET /stylesheets/style.css [36m304 [0m4.568 ms - -[0m
+2016-10-18 11:47:25: [0mGET /javascripts/socket.io.js [36m304 [0m23.931 ms - -[0m
+2016-10-18 14:16:25: undefined
+2016-10-18 14:16:29: [0mGET /room/1476692845234 [36m304 [0m41.365 ms - -[0m
+2016-10-18 14:16:33: [0mGET /stylesheets/style.css [36m304 [0m6.058 ms - -[0m
+2016-10-18 14:16:37: [0mGET /javascripts/vue.js [36m304 [0m16.586 ms - -[0m
+2016-10-18 14:16:39: [0mGET /javascripts/socket.io.js [36m304 [0m12.568 ms - -[0m
+2016-10-18 14:17:85: undefined
+2016-10-18 14:17:88: [0mGET /room/1476692845234 [36m304 [0m32.369 ms - -[0m
+2016-10-18 14:17:91: [0mGET /stylesheets/style.css [36m304 [0m1.267 ms - -[0m
+2016-10-18 14:17:91: [0mGET /javascripts/socket.io.js [36m304 [0m5.037 ms - -[0m
+2016-10-18 14:17:92: [0mGET /javascripts/vue.js [36m304 [0m2.604 ms - -[0m
+2016-10-18 14:17:02: undefined
+2016-10-18 14:17:05: [0mGET /room/1476692845234 [36m304 [0m32.670 ms - -[0m
+2016-10-18 14:17:08: [0mGET /stylesheets/style.css [36m304 [0m0.758 ms - -[0m
+2016-10-18 14:17:09: [0mGET /javascripts/vue.js [36m304 [0m0.518 ms - -[0m
+2016-10-18 14:17:09: [0mGET /javascripts/socket.io.js [36m304 [0m4.176 ms - -[0m
+2016-10-18 14:17:75: undefined
+2016-10-18 14:17:76: [0mGET /room/1476692845234 [36m304 [0m10.056 ms - -[0m
+2016-10-18 14:17:82: [0mGET /javascripts/vue.js [36m304 [0m0.455 ms - -[0m
+2016-10-18 14:17:82: [0mGET /stylesheets/style.css [36m304 [0m2.211 ms - -[0m
+2016-10-18 14:17:82: [0mGET /javascripts/socket.io.js [36m304 [0m0.677 ms - -[0m
+2016-10-18 14:17:21: undefined
+2016-10-18 14:17:22: [0mGET /room/1476692845234 [32m200 [0m10.823 ms - 6709[0m
+2016-10-18 14:17:27: [0mGET /javascripts/vue.js [36m304 [0m0.678 ms - -[0m
+2016-10-18 14:17:28: [0mGET /stylesheets/style.css [36m304 [0m0.625 ms - -[0m
+2016-10-18 14:17:32: [0mGET /javascripts/socket.io.js [36m304 [0m14.712 ms - -[0m
+2016-10-18 14:20:71: undefined
+2016-10-18 14:20:73: [0mGET /room/1476692845234 [32m200 [0m35.054 ms - 6729[0m
+2016-10-18 14:20:78: [0mGET /stylesheets/style.css [36m304 [0m4.407 ms - -[0m
+2016-10-18 14:20:82: [0mGET /javascripts/vue.js [36m304 [0m9.601 ms - -[0m
+2016-10-18 14:20:83: [0mGET /javascripts/socket.io.js [36m304 [0m14.083 ms - -[0m
+2016-10-18 14:20:84: undefined
+2016-10-18 14:20:87: [0mGET /room/1476692845234 [32m200 [0m33.253 ms - 6684[0m
+2016-10-18 14:20:94: [0mGET /stylesheets/style.css [36m304 [0m16.932 ms - -[0m
+2016-10-18 14:20:99: [0mGET /javascripts/vue.js [36m304 [0m19.835 ms - -[0m
+2016-10-18 14:20:99: [0mGET /javascripts/socket.io.js [36m304 [0m25.344 ms - -[0m
+2016-10-18 14:20:96: undefined
+2016-10-18 14:20:99: [0mGET /room/1476692845234 [36m304 [0m29.465 ms - -[0m
+2016-10-18 14:21:02: [0mGET /stylesheets/style.css [36m304 [0m1.150 ms - -[0m
+2016-10-18 14:21:02: [0mGET /javascripts/socket.io.js [36m304 [0m0.997 ms - -[0m
+2016-10-18 14:21:03: [0mGET /javascripts/vue.js [36m304 [0m7.106 ms - -[0m
+2016-10-18 14:21:18: undefined
+2016-10-18 14:21:21: [0mGET /room/1476692845234 [36m304 [0m26.679 ms - -[0m
+2016-10-18 14:21:25: [0mGET /stylesheets/style.css [36m304 [0m0.662 ms - -[0m
+2016-10-18 14:21:26: [0mGET /javascripts/vue.js [36m304 [0m0.411 ms - -[0m
+2016-10-18 14:21:26: [0mGET /javascripts/socket.io.js [36m304 [0m0.508 ms - -[0m
+2016-10-18 14:21:19: undefined
+2016-10-18 14:21:20: [0mGET /room/1476692845234 [36m304 [0m11.349 ms - -[0m
+2016-10-18 14:21:24: [0mGET /stylesheets/style.css [36m304 [0m1.005 ms - -[0m
+2016-10-18 14:21:24: [0mGET /javascripts/vue.js [36m304 [0m0.624 ms - -[0m
+2016-10-18 14:21:24: [0mGET /javascripts/socket.io.js [36m304 [0m0.741 ms - -[0m
+2016-10-18 14:21:92: undefined
+2016-10-18 14:21:93: [0mGET /room/1476692845234 [36m304 [0m5.363 ms - -[0m
+2016-10-18 14:21:94: [0mGET /stylesheets/style.css [36m304 [0m1.565 ms - -[0m
+2016-10-18 14:21:94: [0mGET /javascripts/vue.js [36m304 [0m0.325 ms - -[0m
+2016-10-18 14:21:14: [0mGET /javascripts/socket.io.js [36m304 [0m0.442 ms - -[0m
+2016-10-18 14:21:34: [0mGET /stylesheets/style.css [36m304 [0m0.401 ms - -[0m
+2016-10-18 14:25:84: undefined
+2016-10-18 14:25:87: [0mGET /room/1476692845234 [32m200 [0m33.342 ms - 6713[0m
+2016-10-18 14:25:92: [0mGET /stylesheets/style.css [36m304 [0m5.202 ms - -[0m
+2016-10-18 14:25:98: [0mGET /javascripts/vue.js [36m304 [0m10.588 ms - -[0m
+2016-10-18 14:25:99: [0mGET /javascripts/socket.io.js [36m304 [0m10.628 ms - -[0m
+2016-10-18 14:25:36: undefined
+2016-10-18 14:25:38: [0mGET /room/1476692845234 [36m304 [0m29.601 ms - -[0m
+2016-10-18 14:25:42: [0mGET /javascripts/socket.io.js [36m304 [0m1.279 ms - -[0m
+2016-10-18 14:25:43: [0mGET /stylesheets/style.css [36m304 [0m5.952 ms - -[0m
+2016-10-18 14:25:43: [0mGET /javascripts/vue.js [36m304 [0m2.393 ms - -[0m
+2016-10-18 14:25:71: undefined
+2016-10-18 14:25:73: [0mGET /room/1476692845234 [36m304 [0m25.729 ms - -[0m
+2016-10-18 14:25:74: [0mGET /stylesheets/style.css [36m304 [0m0.473 ms - -[0m
+2016-10-18 14:25:74: [0mGET /javascripts/vue.js [36m304 [0m0.268 ms - -[0m
+2016-10-18 14:25:94: [0mGET /javascripts/socket.io.js [36m304 [0m0.498 ms - -[0m
+2016-10-18 14:28:94: undefined
+2016-10-18 14:28:97: [0mGET /room/1476692845234 [32m200 [0m35.016 ms - 6852[0m
+2016-10-18 14:28:00: [0mGET /stylesheets/style.css [36m304 [0m4.339 ms - -[0m
+2016-10-18 14:28:02: [0mGET /javascripts/vue.js [36m304 [0m13.883 ms - -[0m
+2016-10-18 14:28:02: [0mGET /javascripts/socket.io.js [36m304 [0m11.565 ms - -[0m
+2016-10-18 14:29:79: undefined
+2016-10-18 14:29:84: [0mGET /room/1476692845234 [36m304 [0m51.907 ms - -[0m
+2016-10-18 14:29:97: [0mGET /javascripts/socket.io.js [36m304 [0m1.327 ms - -[0m
+2016-10-18 14:29:97: [0mGET /javascripts/vue.js [36m304 [0m2.320 ms - -[0m
+2016-10-18 14:29:98: [0mGET /stylesheets/style.css [36m304 [0m2.040 ms - -[0m
+2016-10-18 14:29:27: undefined
+2016-10-18 14:29:28: [0mGET /room/1476692845234 [36m304 [0m11.572 ms - -[0m
+2016-10-18 14:29:29: [0mGET /stylesheets/style.css [36m304 [0m0.307 ms - -[0m
+2016-10-18 14:29:30: [0mGET /javascripts/vue.js [36m304 [0m0.524 ms - -[0m
+2016-10-18 14:29:47: [0mGET /javascripts/socket.io.js [36m304 [0m0.323 ms - -[0m
+2016-10-18 14:37:79: [0mGET /stylesheets/style.css [36m304 [0m0.949 ms - -[0m
+2016-10-18 14:38:68: undefined
+2016-10-18 14:38:69: [0mGET /room/1476692845234 [32m200 [0m8.708 ms - 6864[0m
+2016-10-18 14:38:86: [0mGET /stylesheets/style.css [36m304 [0m1.963 ms - -[0m
+2016-10-18 14:38:96: [0mGET /javascripts/vue.js [36m304 [0m147.892 ms - -[0m
+2016-10-18 14:38:97: [0mGET /javascripts/socket.io.js [36m304 [0m132.326 ms - -[0m
+2016-10-18 14:38:00: undefined
+2016-10-18 14:38:05: [0mGET /room/1476692845234 [36m304 [0m54.572 ms - -[0m
+2016-10-18 14:38:24: undefined
+2016-10-18 14:38:28: [0mGET /room/1476692845234 [32m200 [0m35.582 ms - 6864[0m
+2016-10-18 14:38:29: [0mGET /stylesheets/style.css [36m304 [0m3.595 ms - -[0m
+2016-10-18 14:38:31: [0mGET /javascripts/vue.js [36m304 [0m7.832 ms - -[0m
+2016-10-18 14:38:31: [0mGET /javascripts/socket.io.js [36m304 [0m9.747 ms - -[0m
+2016-10-18 14:40:82: undefined
+2016-10-18 14:40:86: [0mGET /room/1476692845234 [32m200 [0m41.238 ms - 6852[0m
+2016-10-18 14:40:00: [0mGET /stylesheets/style.css [36m304 [0m8.235 ms - -[0m
+2016-10-18 14:40:00: [0mGET /javascripts/vue.js [36m304 [0m28.318 ms - -[0m
+2016-10-18 14:40:00: [0mGET /javascripts/socket.io.js [36m304 [0m47.822 ms - -[0m
+2016-10-18 14:40:78: undefined
+2016-10-18 14:40:79: [0mGET /room/1476692845234 [36m304 [0m10.612 ms - -[0m
+2016-10-18 14:40:80: [0mGET /stylesheets/style.css [36m304 [0m0.711 ms - -[0m
+2016-10-18 14:40:81: [0mGET /javascripts/vue.js [36m304 [0m1.842 ms - -[0m
+2016-10-18 14:40:81: [0mGET /javascripts/socket.io.js [36m304 [0m2.170 ms - -[0m
+2016-10-18 14:41:78: [0mGET /stylesheets/style.css [36m304 [0m0.842 ms - -[0m
+2016-10-18 14:44:87: undefined
+2016-10-18 14:44:90: [0mGET /room/1476692845234 [36m304 [0m39.334 ms - -[0m
+2016-10-18 14:44:95: [0mGET /stylesheets/style.css [36m304 [0m4.468 ms - -[0m
+2016-10-18 14:44:06: [0mGET /javascripts/socket.io.js [36m304 [0m29.705 ms - -[0m
+2016-10-18 14:44:06: [0mGET /javascripts/vue.js [36m304 [0m37.989 ms - -[0m
+2016-10-18 14:49:21: undefined
+2016-10-18 14:49:24: [0mGET /room/1476692845234 [32m200 [0m38.560 ms - 6884[0m
+2016-10-18 14:49:29: [0mGET /stylesheets/style.css [36m304 [0m9.156 ms - -[0m
+2016-10-18 14:49:31: [0mGET /javascripts/socket.io.js [36m304 [0m1.045 ms - -[0m
+2016-10-18 14:49:35: [0mGET /javascripts/vue.js [36m304 [0m9.251 ms - -[0m
+2016-10-18 14:57:09: undefined
+2016-10-18 14:57:12: [0mGET /room/1476692845234 [32m200 [0m33.383 ms - 6654[0m
+2016-10-18 14:57:20: [0mGET /stylesheets/style.css [36m304 [0m34.949 ms - -[0m
+2016-10-18 14:57:23: [0mGET /javascripts/socket.io.js [36m304 [0m17.581 ms - -[0m
+2016-10-18 14:57:23: [0mGET /javascripts/vue.js [36m304 [0m32.092 ms - -[0m
+2016-10-18 15:26:56: undefined
+2016-10-18 15:26:59: [0mGET /room/1476692845234 [36m304 [0m42.095 ms - -[0m
+2016-10-18 15:26:65: [0mGET /stylesheets/style.css [36m304 [0m5.469 ms - -[0m
+2016-10-18 15:26:70: [0mGET /javascripts/socket.io.js [36m304 [0m14.483 ms - -[0m
+2016-10-18 15:26:75: [0mGET /javascripts/vue.js [36m304 [0m67.256 ms - -[0m
+2016-10-18 15:32:37: undefined
+2016-10-18 15:32:41: [0mGET /room/1476692845234 [36m304 [0m40.860 ms - -[0m
+2016-10-18 15:32:48: [0mGET /javascripts/socket.io.js [36m304 [0m1.780 ms - -[0m
+2016-10-18 15:32:46: [0mGET /stylesheets/style.css [36m304 [0m4.400 ms - -[0m
+2016-10-18 15:32:53: [0mGET /javascripts/vue.js [36m304 [0m24.933 ms - -[0m
+2016-10-18 15:51:18: undefined
+2016-10-18 15:51:21: [0mGET /room/1476692845234 [32m200 [0m33.856 ms - 6792[0m
+2016-10-18 15:51:35: [0mGET /javascripts/socket.io.js [36m304 [0m15.754 ms - -[0m
+2016-10-18 15:51:41: [0mGET /stylesheets/style.css [36m304 [0m37.058 ms - -[0m
+2016-10-18 15:51:36: [0mGET /javascripts/vue.js [36m304 [0m17.638 ms - -[0m
+2016-10-18 15:51:79: undefined
+2016-10-18 15:51:80: [0mGET /room/1476692845234 [36m304 [0m12.699 ms - -[0m
+2016-10-18 15:51:81: [0mGET /stylesheets/style.css [36m304 [0m0.743 ms - -[0m
+2016-10-18 15:51:81: [0mGET /javascripts/socket.io.js [36m304 [0m2.049 ms - -[0m
+2016-10-18 15:51:81: [0mGET /javascripts/vue.js [36m304 [0m2.084 ms - -[0m
+2016-10-18 15:51:00: [0mGET /stylesheets/style.css [36m304 [0m1.774 ms - -[0m
+2016-10-18 15:56:97: undefined
+2016-10-18 15:56:01: [0mGET /room/1476692845234 [32m200 [0m36.636 ms - 6824[0m
+2016-10-18 15:56:09: [0mGET /stylesheets/style.css [36m304 [0m14.551 ms - -[0m
+2016-10-18 15:56:12: [0mGET /javascripts/vue.js [36m304 [0m11.887 ms - -[0m
+2016-10-18 15:56:14: [0mGET /javascripts/socket.io.js [36m304 [0m26.363 ms - -[0m
+2016-10-18 16:32:19: undefined
+2016-10-18 16:32:22: [0mGET /room/1476692845234 [32m200 [0m34.405 ms - 6946[0m
+2016-10-18 16:32:30: [0mGET /stylesheets/style.css [36m304 [0m17.627 ms - -[0m
+2016-10-18 16:32:33: [0mGET /javascripts/socket.io.js [36m304 [0m12.336 ms - -[0m
+2016-10-18 16:32:34: [0mGET /javascripts/vue.js [36m304 [0m22.628 ms - -[0m
+2016-10-18 16:35:58: undefined
+2016-10-18 16:35:61: [0mGET /room/1476692845234 [32m200 [0m33.213 ms - 7017[0m
+2016-10-18 16:35:68: [0mGET /stylesheets/style.css [36m304 [0m18.174 ms - -[0m
+2016-10-18 16:35:71: [0mGET /javascripts/vue.js [36m304 [0m13.376 ms - -[0m
+2016-10-18 16:35:72: [0mGET /javascripts/socket.io.js [36m304 [0m12.806 ms - -[0m
+2016-10-18 16:35:42: undefined
+2016-10-18 16:35:45: [0mGET /room/1476692845234 [32m200 [0m32.808 ms - 7019[0m
+2016-10-18 16:35:50: [0mGET /javascripts/vue.js [36m304 [0m2.217 ms - -[0m
+2016-10-18 16:35:53: [0mGET /stylesheets/style.css [36m304 [0m3.829 ms - -[0m
+2016-10-18 16:35:56: [0mGET /javascripts/socket.io.js [36m304 [0m20.317 ms - -[0m
+2016-10-18 16:35:44: undefined
+2016-10-18 16:35:47: [0mGET /room/1476692845234 [36m304 [0m34.585 ms - -[0m
+2016-10-18 16:35:51: [0mGET /stylesheets/style.css [36m304 [0m4.008 ms - -[0m
+2016-10-18 16:35:55: [0mGET /javascripts/vue.js [36m304 [0m11.724 ms - -[0m
+2016-10-18 16:35:56: [0mGET /javascripts/socket.io.js [36m304 [0m11.635 ms - -[0m
+2016-10-18 16:47:02: undefined
+2016-10-18 16:47:06: [0mGET /room/1476692845234 [32m200 [0m38.394 ms - 7102[0m
+2016-10-18 16:47:10: [0mGET /stylesheets/style.css [36m304 [0m4.535 ms - -[0m
+2016-10-18 16:47:18: [0mGET /javascripts/vue.js [36m304 [0m17.294 ms - -[0m
+2016-10-18 16:47:18: [0mGET /javascripts/socket.io.js [36m304 [0m19.422 ms - -[0m
+2016-10-18 16:48:19: undefined
+2016-10-18 16:48:22: [0mGET /room/1476692845234 [32m200 [0m33.532 ms - 7130[0m
+2016-10-18 16:48:27: [0mGET /stylesheets/style.css [36m304 [0m5.503 ms - -[0m
+2016-10-18 16:48:31: [0mGET /javascripts/vue.js [36m304 [0m9.306 ms - -[0m
+2016-10-18 16:48:32: [0mGET /javascripts/socket.io.js [36m304 [0m11.032 ms - -[0m
+2016-10-18 16:48:50: undefined
+2016-10-18 16:48:53: [0mGET /room/1476692845234 [36m304 [0m28.364 ms - -[0m
+2016-10-18 16:48:56: [0mGET /javascripts/socket.io.js [36m304 [0m1.445 ms - -[0m
+2016-10-18 16:48:57: [0mGET /javascripts/vue.js [36m304 [0m2.213 ms - -[0m
+2016-10-18 16:48:58: [0mGET /stylesheets/style.css [36m304 [0m1.308 ms - -[0m
+2016-10-18 16:48:21: undefined
+2016-10-18 16:48:22: [0mGET /room/1476692845234 [36m304 [0m11.147 ms - -[0m
+2016-10-18 16:48:26: [0mGET /stylesheets/style.css [36m304 [0m1.114 ms - -[0m
+2016-10-18 16:48:26: [0mGET /javascripts/vue.js [36m304 [0m1.015 ms - -[0m
+2016-10-18 16:48:27: [0mGET /javascripts/socket.io.js [36m304 [0m0.482 ms - -[0m
+2016-10-18 16:48:28: undefined
+2016-10-18 16:48:29: [0mGET /room/1476692845234 [32m200 [0m5.101 ms - 7126[0m
+2016-10-18 16:48:44: [0mGET /javascripts/socket.io.js [36m304 [0m44.618 ms - -[0m
+2016-10-18 16:48:44: [0mGET /stylesheets/style.css [36m304 [0m51.816 ms - -[0m
+2016-10-18 16:48:45: [0mGET /javascripts/vue.js [36m304 [0m61.483 ms - -[0m
+2016-10-18 16:59:04: undefined
+2016-10-18 16:59:08: [0mGET /room/1476692845234 [36m304 [0m45.187 ms - -[0m
+2016-10-18 16:59:14: [0mGET /stylesheets/style.css [36m304 [0m4.313 ms - -[0m
+2016-10-18 16:59:22: [0mGET /javascripts/vue.js [36m304 [0m28.296 ms - -[0m
+2016-10-18 16:59:21: [0mGET /javascripts/socket.io.js [36m304 [0m25.312 ms - -[0m
+2016-10-18 17:00:22: undefined
+2016-10-18 17:00:30: [0mGET /room/1476692845234 [32m200 [0m78.531 ms - 7138[0m
+2016-10-18 17:00:41: [0mGET /javascripts/vue.js [36m304 [0m10.868 ms - -[0m
+2016-10-18 17:00:43: [0mGET /javascripts/socket.io.js [36m304 [0m33.564 ms - -[0m
+2016-10-18 17:00:49: [0mGET /stylesheets/style.css [36m304 [0m6.940 ms - -[0m
+2016-10-18 17:00:42: undefined
+2016-10-18 17:00:47: [0mGET /room/1476692845234 [32m200 [0m54.137 ms - 7150[0m
+2016-10-18 17:00:60: [0mGET /javascripts/vue.js [36m304 [0m13.486 ms - -[0m
+2016-10-18 17:00:61: [0mGET /javascripts/socket.io.js [36m304 [0m25.287 ms - -[0m
+2016-10-18 17:00:64: [0mGET /stylesheets/style.css [36m304 [0m8.687 ms - -[0m
+2016-10-18 17:02:60: undefined
+2016-10-18 17:02:60: [0mGET /room/1476692845234 [36m304 [0m8.842 ms - -[0m
+2016-10-18 17:02:62: [0mGET /stylesheets/style.css [36m304 [0m0.499 ms - -[0m
+2016-10-18 17:02:62: [0mGET /javascripts/vue.js [36m304 [0m0.292 ms - -[0m
+2016-10-18 17:02:79: [0mGET /javascripts/socket.io.js [36m304 [0m0.350 ms - -[0m
+2016-10-18 17:02:39: [0mGET /stylesheets/style.css [36m304 [0m1.019 ms - -[0m
+2016-10-18 17:02:36: undefined
+2016-10-18 17:02:39: [0mGET /room/1476692845234 [32m200 [0m33.535 ms - 7156[0m
+2016-10-18 17:02:44: [0mGET /stylesheets/style.css [36m304 [0m6.541 ms - -[0m
+2016-10-18 17:02:51: [0mGET /javascripts/vue.js [36m304 [0m31.457 ms - -[0m
+2016-10-18 17:02:52: [0mGET /javascripts/socket.io.js [36m304 [0m38.061 ms - -[0m
+2016-10-18 17:04:95: undefined
+2016-10-18 17:04:98: [0mGET /room/1476692845234 [32m200 [0m32.054 ms - 7219[0m
+2016-10-18 17:04:07: [0mGET /stylesheets/style.css [36m304 [0m17.013 ms - -[0m
+2016-10-18 17:04:11: [0mGET /javascripts/socket.io.js [36m304 [0m14.749 ms - -[0m
+2016-10-18 17:04:13: [0mGET /javascripts/vue.js [36m304 [0m46.686 ms - -[0m
+2016-10-18 17:04:54: undefined
+2016-10-18 17:04:56: [0mGET /room/1476692845234 [32m200 [0m29.423 ms - 7231[0m
+2016-10-18 17:04:59: [0mGET /stylesheets/style.css [36m304 [0m1.198 ms - -[0m
+2016-10-18 17:04:60: [0mGET /javascripts/vue.js [36m304 [0m2.335 ms - -[0m
+2016-10-18 17:04:64: [0mGET /javascripts/socket.io.js [36m304 [0m9.933 ms - -[0m
+2016-10-18 17:10:23: undefined
+2016-10-18 17:10:26: [0mGET /room/1476692845234 [32m200 [0m38.102 ms - 7350[0m
+2016-10-18 17:10:33: [0mGET /stylesheets/style.css [36m304 [0m4.093 ms - -[0m
+2016-10-18 17:10:39: [0mGET /javascripts/vue.js [36m304 [0m13.034 ms - -[0m
+2016-10-18 17:10:43: [0mGET /javascripts/socket.io.js [36m304 [0m18.927 ms - -[0m
+2016-10-18 17:14:95: undefined
+2016-10-18 17:14:98: [0mGET /room/1476692845234 [32m200 [0m35.785 ms - 7355[0m
+2016-10-18 17:14:03: [0mGET /stylesheets/style.css [36m304 [0m5.792 ms - -[0m
+2016-10-18 17:14:07: [0mGET /javascripts/vue.js [36m304 [0m16.313 ms - -[0m
+2016-10-18 17:14:08: [0mGET /javascripts/socket.io.js [36m304 [0m11.858 ms - -[0m
+2016-10-18 17:15:06: undefined
+2016-10-18 17:15:10: [0mGET /room/1476692845234 [32m200 [0m38.109 ms - 7381[0m
+2016-10-18 17:15:17: [0mGET /stylesheets/style.css [36m304 [0m4.171 ms - -[0m
+2016-10-18 17:15:24: [0mGET /javascripts/vue.js [36m304 [0m12.709 ms - -[0m
+2016-10-18 17:15:25: [0mGET /javascripts/socket.io.js [36m304 [0m30.975 ms - -[0m
+2016-10-18 17:24:41: undefined
+2016-10-18 17:24:45: [0mGET /room/1476692845234 [36m304 [0m42.097 ms - -[0m
+2016-10-18 17:24:52: [0mGET /stylesheets/style.css [36m304 [0m4.572 ms - -[0m
+2016-10-18 17:24:60: [0mGET /javascripts/socket.io.js [36m304 [0m33.656 ms - -[0m
+2016-10-18 17:24:60: [0mGET /javascripts/vue.js [36m304 [0m20.330 ms - -[0m
+2016-10-18 17:26:78: undefined
+2016-10-18 17:26:81: [0mGET /room/1476692845234 [32m200 [0m37.448 ms - 7385[0m
+2016-10-18 17:26:88: [0mGET /stylesheets/style.css [36m304 [0m7.497 ms - -[0m
+2016-10-18 17:26:91: [0mGET /javascripts/vue.js [36m304 [0m10.466 ms - -[0m
+2016-10-18 17:26:91: [0mGET /javascripts/socket.io.js [36m304 [0m9.767 ms - -[0m
+2016-10-18 17:29:82: undefined
+2016-10-18 17:29:87: [0mGET /room/1476692845234 [32m200 [0m42.708 ms - 7482[0m
+2016-10-18 17:29:97: [0mGET /stylesheets/style.css [36m304 [0m5.370 ms - -[0m
+2016-10-18 17:29:02: [0mGET /javascripts/socket.io.js [36m304 [0m31.399 ms - -[0m
+2016-10-18 17:29:00: [0mGET /javascripts/vue.js [36m304 [0m12.410 ms - -[0m
+2016-10-18 17:29:90: undefined
+2016-10-18 17:29:93: [0mGET /room/1476692845234 [36m304 [0m32.627 ms - -[0m
+2016-10-18 17:29:96: [0mGET /javascripts/socket.io.js [36m304 [0m1.243 ms - -[0m
+2016-10-18 17:29:97: [0mGET /javascripts/vue.js [36m304 [0m2.299 ms - -[0m
+2016-10-18 17:29:97: [0mGET /stylesheets/style.css [36m304 [0m1.315 ms - -[0m
+2016-10-18 17:30:85: undefined
+2016-10-18 17:30:88: [0mGET /room/1476692845234 [32m200 [0m36.396 ms - 7588[0m
+2016-10-18 17:30:94: [0mGET /stylesheets/style.css [36m304 [0m7.005 ms - -[0m
+2016-10-18 17:30:05: [0mGET /javascripts/socket.io.js [36m304 [0m38.306 ms - -[0m
+2016-10-18 17:30:06: [0mGET /javascripts/vue.js [36m304 [0m25.811 ms - -[0m
+2016-10-18 17:36:15: undefined
+2016-10-18 17:36:18: [0mGET /room/1476692845234 [32m200 [0m35.526 ms - 7681[0m
+2016-10-18 17:36:24: [0mGET /stylesheets/style.css [36m304 [0m7.737 ms - -[0m
+2016-10-18 17:36:30: [0mGET /javascripts/socket.io.js [36m304 [0m22.107 ms - -[0m
+2016-10-18 17:36:32: [0mGET /javascripts/vue.js [36m304 [0m18.045 ms - -[0m
+2016-10-18 17:40:70: undefined
+2016-10-18 17:40:74: [0mGET /room/1476692845234 [36m304 [0m40.538 ms - -[0m
+2016-10-18 17:40:82: [0mGET /stylesheets/style.css [36m304 [0m7.158 ms - -[0m
+2016-10-18 17:40:84: [0mGET /javascripts/vue.js [36m304 [0m23.605 ms - -[0m
+2016-10-18 17:40:86: [0mGET /javascripts/socket.io.js [36m304 [0m36.435 ms - -[0m
+2016-10-18 17:40:74: undefined
+2016-10-18 17:40:78: [0mGET /room/1476692845234 [36m304 [0m40.742 ms - -[0m
+2016-10-18 17:40:82: [0mGET /stylesheets/style.css [36m304 [0m3.598 ms - -[0m
+2016-10-18 17:40:83: [0mGET /javascripts/socket.io.js [36m304 [0m1.049 ms - -[0m
+2016-10-18 17:40:83: [0mGET /javascripts/vue.js [36m304 [0m4.252 ms - -[0m
+2016-10-18 17:47:98: undefined
+2016-10-18 17:48:03: [0mGET /room/1476692845234 [32m200 [0m40.691 ms - 7778[0m
+2016-10-18 17:48:14: [0mGET /javascripts/socket.io.js [36m304 [0m36.605 ms - -[0m
+2016-10-18 17:48:15: [0mGET /javascripts/vue.js [36m304 [0m37.555 ms - -[0m
+2016-10-18 17:48:17: [0mGET /stylesheets/style.css [36m304 [0m4.565 ms - -[0m
+2016-10-18 17:48:45: undefined
+2016-10-18 17:48:46: [0mGET /room/1476692845234 [36m304 [0m9.496 ms - -[0m
+2016-10-18 17:48:49: [0mGET /stylesheets/style.css [36m304 [0m3.024 ms - -[0m
+2016-10-18 17:48:49: [0mGET /javascripts/vue.js [36m304 [0m2.150 ms - -[0m
+2016-10-18 17:48:50: [0mGET /javascripts/socket.io.js [36m304 [0m1.843 ms - -[0m
+2016-10-18 17:49:82: undefined
+2016-10-18 17:49:85: [0mGET /room/1476692845234 [36m304 [0m34.457 ms - -[0m
+2016-10-18 17:49:90: [0mGET /stylesheets/style.css [36m304 [0m0.718 ms - -[0m
+2016-10-18 17:49:90: [0mGET /javascripts/vue.js [36m304 [0m1.528 ms - -[0m
+2016-10-18 17:49:91: [0mGET /javascripts/socket.io.js [36m304 [0m1.061 ms - -[0m
+2016-10-18 17:49:04: undefined
+2016-10-18 17:49:05: [0mGET /room/1476692845234 [36m304 [0m5.707 ms - -[0m
+2016-10-18 17:49:08: [0mGET /javascripts/vue.js [36m304 [0m0.418 ms - -[0m
+2016-10-18 17:49:08: [0mGET /stylesheets/style.css [36m304 [0m1.673 ms - -[0m
+2016-10-18 17:49:08: [0mGET /javascripts/socket.io.js [36m304 [0m0.705 ms - -[0m
+2016-10-18 17:49:55: undefined
+2016-10-18 17:49:55: [0mGET /room/1476692845234 [36m304 [0m7.494 ms - -[0m
+2016-10-18 17:49:56: [0mGET /stylesheets/style.css [36m304 [0m0.339 ms - -[0m
+2016-10-18 17:49:57: [0mGET /javascripts/vue.js [36m304 [0m0.312 ms - -[0m
+2016-10-18 17:49:78: [0mGET /javascripts/socket.io.js [36m304 [0m0.451 ms - -[0m
+2016-10-18 17:49:37: [0mGET /stylesheets/style.css [36m304 [0m0.619 ms - -[0m
+2016-10-18 17:51:68: undefined
+2016-10-18 17:51:68: [0mGET /room/1476692845234 [36m304 [0m3.873 ms - -[0m
+2016-10-18 17:51:72: [0mGET /javascripts/vue.js [36m304 [0m0.404 ms - -[0m
+2016-10-18 17:51:72: [0mGET /stylesheets/style.css [36m304 [0m0.643 ms - -[0m
+2016-10-18 17:51:72: [0mGET /javascripts/socket.io.js [36m304 [0m1.129 ms - -[0m
+2016-10-18 17:51:11: undefined
+2016-10-18 17:51:14: [0mGET /room/1476692845234 [36m304 [0m35.926 ms - -[0m
+2016-10-18 17:51:15: [0mGET /stylesheets/style.css [36m304 [0m0.447 ms - -[0m
+2016-10-18 17:51:16: [0mGET /javascripts/vue.js [36m304 [0m0.338 ms - -[0m
+2016-10-18 17:51:46: [0mGET /javascripts/socket.io.js [36m304 [0m0.487 ms - -[0m
+2016-10-18 17:51:34: [0mGET /stylesheets/style.css [36m304 [0m1.039 ms - -[0m
+2016-10-18 18:04:77: undefined
+2016-10-18 18:04:81: [0mGET /room/1476692845234 [32m200 [0m40.506 ms - 7847[0m
+2016-10-18 18:04:86: [0mGET /stylesheets/style.css [36m304 [0m4.649 ms - -[0m
+2016-10-18 18:04:90: [0mGET /javascripts/vue.js [36m304 [0m23.923 ms - -[0m
+2016-10-18 18:04:91: [0mGET /javascripts/socket.io.js [36m304 [0m14.978 ms - -[0m
+2016-10-18 18:05:44: undefined
+2016-10-18 18:05:50: [0mGET /room/1476692845234 [36m304 [0m68.904 ms - -[0m
+2016-10-18 18:05:52: [0mGET /stylesheets/style.css [36m304 [0m1.678 ms - -[0m
+2016-10-18 18:05:53: [0mGET /javascripts/vue.js [36m304 [0m1.812 ms - -[0m
+2016-10-18 18:05:72: [0mGET /javascripts/socket.io.js [36m304 [0m0.273 ms - -[0m
+2016-10-18 18:05:24: [0mGET /stylesheets/style.css [36m304 [0m0.957 ms - -[0m
+2016-10-18 18:10:96: undefined
+2016-10-18 18:10:99: [0mGET /room/1476692845234 [32m200 [0m34.660 ms - 7975[0m
+2016-10-18 18:10:05: [0mGET /stylesheets/style.css [36m304 [0m9.710 ms - -[0m
+2016-10-18 18:10:08: [0mGET /javascripts/vue.js [36m304 [0m9.941 ms - -[0m
+2016-10-18 18:10:09: [0mGET /javascripts/socket.io.js [36m304 [0m10.664 ms - -[0m
+2016-10-18 18:11:70: undefined
+2016-10-18 18:11:73: [0mGET /room/1476692845234 [36m304 [0m27.588 ms - -[0m
+2016-10-18 18:11:74: [0mGET /stylesheets/style.css [36m304 [0m1.571 ms - -[0m
+2016-10-18 18:11:75: [0mGET /javascripts/vue.js [36m304 [0m5.598 ms - -[0m
+2016-10-18 18:11:08: [0mGET /javascripts/socket.io.js [36m304 [0m0.979 ms - -[0m
+2016-10-18 18:11:37: [0mGET /stylesheets/style.css [36m304 [0m0.457 ms - -[0m
+2016-10-18 18:11:54: undefined
+2016-10-18 18:11:55: [0mGET /room/1476692845234 [36m304 [0m5.641 ms - -[0m
+2016-10-18 18:11:59: [0mGET /stylesheets/style.css [36m304 [0m0.465 ms - -[0m
+2016-10-18 18:11:59: [0mGET /javascripts/socket.io.js [36m304 [0m1.162 ms - -[0m
+2016-10-18 18:11:59: [0mGET /javascripts/vue.js [36m304 [0m2.114 ms - -[0m
+2016-10-18 18:11:30: undefined
+2016-10-18 18:11:33: [0mGET /room/1476692845234 [36m304 [0m31.237 ms - -[0m
+2016-10-18 18:11:36: [0mGET /stylesheets/style.css [36m304 [0m0.701 ms - -[0m
+2016-10-18 18:11:36: [0mGET /javascripts/vue.js [36m304 [0m0.463 ms - -[0m
+2016-10-18 18:11:37: [0mGET /javascripts/socket.io.js [36m304 [0m0.453 ms - -[0m
+2016-10-18 18:12:71: undefined
+2016-10-18 18:12:71: [0mGET /room/1476692845234 [36m304 [0m2.675 ms - -[0m
+2016-10-18 18:12:75: [0mGET /stylesheets/style.css [36m304 [0m0.416 ms - -[0m
+2016-10-18 18:12:75: [0mGET /javascripts/vue.js [36m304 [0m0.734 ms - -[0m
+2016-10-18 18:12:75: [0mGET /javascripts/socket.io.js [36m304 [0m0.720 ms - -[0m
+2016-10-18 18:12:80: undefined
+2016-10-18 18:12:81: [0mGET /room/1476692845234 [36m304 [0m6.457 ms - -[0m
+2016-10-18 18:12:86: [0mGET /stylesheets/style.css [36m304 [0m0.593 ms - -[0m
+2016-10-18 18:12:86: [0mGET /javascripts/vue.js [36m304 [0m1.557 ms - -[0m
+2016-10-18 18:12:86: [0mGET /javascripts/socket.io.js [36m304 [0m2.244 ms - -[0m
+2016-10-18 18:14:22: undefined
+2016-10-18 18:14:25: [0mGET /room/1476692845234 [32m200 [0m32.139 ms - 7991[0m
+2016-10-18 18:14:29: [0mGET /stylesheets/style.css [36m304 [0m4.692 ms - -[0m
+2016-10-18 18:14:36: [0mGET /javascripts/vue.js [36m304 [0m19.690 ms - -[0m
+2016-10-18 18:14:37: [0mGET /javascripts/socket.io.js [36m304 [0m39.209 ms - -[0m
+2016-10-18 18:14:75: undefined
+2016-10-18 18:14:78: [0mGET /room/1476692845234 [36m304 [0m30.451 ms - -[0m
+2016-10-18 18:14:79: [0mGET /stylesheets/style.css [36m304 [0m1.045 ms - -[0m
+2016-10-18 18:14:79: [0mGET /javascripts/socket.io.js [36m304 [0m1.921 ms - -[0m
+2016-10-18 18:14:79: [0mGET /javascripts/vue.js [36m304 [0m2.902 ms - -[0m
+2016-10-18 18:14:12: [0mGET /stylesheets/style.css [36m304 [0m1.031 ms - -[0m
+2016-10-18 18:15:80: undefined
+2016-10-18 18:15:83: [0mGET /room/1476692845234 [36m304 [0m46.645 ms - -[0m
+2016-10-18 18:15:87: [0mGET /stylesheets/style.css [36m304 [0m0.576 ms - -[0m
+2016-10-18 18:15:87: [0mGET /javascripts/vue.js [36m304 [0m0.623 ms - -[0m
+2016-10-18 18:15:87: [0mGET /javascripts/socket.io.js [36m304 [0m1.305 ms - -[0m
+2016-10-18 18:15:37: undefined
+2016-10-18 18:15:38: [0mGET /room/1476692845234 [36m304 [0m6.511 ms - -[0m
+2016-10-18 18:15:41: [0mGET /javascripts/socket.io.js [36m304 [0m0.486 ms - -[0m
+2016-10-18 18:15:42: [0mGET /javascripts/vue.js [36m304 [0m5.241 ms - -[0m
+2016-10-18 18:15:42: [0mGET /stylesheets/style.css [36m304 [0m4.781 ms - -[0m
+2016-10-18 18:16:58: undefined
+2016-10-18 18:16:59: [0mGET /room/1476692845234 [36m304 [0m13.631 ms - -[0m
+2016-10-18 18:16:63: [0mGET /stylesheets/style.css [36m304 [0m0.524 ms - -[0m
+2016-10-18 18:16:63: [0mGET /javascripts/vue.js [36m304 [0m0.482 ms - -[0m
+2016-10-18 18:16:63: [0mGET /javascripts/socket.io.js [36m304 [0m1.117 ms - -[0m
+2016-10-18 18:22:06: undefined
+2016-10-18 18:22:09: [0mGET /room/1476692845234 [32m200 [0m33.322 ms - 7975[0m
+2016-10-18 18:22:13: [0mGET /stylesheets/style.css [36m304 [0m4.141 ms - -[0m
+2016-10-18 18:22:17: [0mGET /javascripts/socket.io.js [36m304 [0m12.358 ms - -[0m
+2016-10-18 18:22:17: [0mGET /javascripts/vue.js [36m304 [0m13.031 ms - -[0m
+2016-10-18 18:23:26: undefined
+2016-10-18 18:23:28: [0mGET /room/1476692845234 [36m304 [0m29.194 ms - -[0m
+2016-10-18 18:23:32: [0mGET /javascripts/vue.js [36m304 [0m1.973 ms - -[0m
+2016-10-18 18:23:32: [0mGET /javascripts/socket.io.js [36m304 [0m1.042 ms - -[0m
+2016-10-18 18:23:34: [0mGET /stylesheets/style.css [36m304 [0m3.904 ms - -[0m
+2016-10-18 18:28:79: undefined
+2016-10-18 18:28:84: [0mGET /room/1476692845234 [32m200 [0m57.740 ms - 7923[0m
+2016-10-18 18:28:89: [0mGET /stylesheets/style.css [36m304 [0m4.445 ms - -[0m
+2016-10-18 18:28:94: [0mGET /javascripts/vue.js [36m304 [0m15.512 ms - -[0m
+2016-10-18 18:28:95: [0mGET /javascripts/socket.io.js [36m304 [0m10.887 ms - -[0m
+2016-10-18 18:28:37: undefined
+2016-10-18 18:28:40: [0mGET /room/1476692845234 [36m304 [0m37.300 ms - -[0m
+2016-10-18 18:28:40: [0mGET /stylesheets/style.css [36m304 [0m0.975 ms - -[0m
+2016-10-18 18:28:41: [0mGET /javascripts/vue.js [36m304 [0m5.402 ms - -[0m
+2016-10-18 18:28:57: [0mGET /javascripts/socket.io.js [36m304 [0m0.633 ms - -[0m
+2016-10-18 18:28:67: [0mGET /stylesheets/style.css [36m304 [0m0.448 ms - -[0m
+2016-10-18 18:29:44: undefined
+2016-10-18 18:29:47: [0mGET /room/1476692845234 [36m304 [0m28.114 ms - -[0m
+2016-10-18 18:29:53: [0mGET /stylesheets/style.css [36m304 [0m0.572 ms - -[0m
+2016-10-18 18:29:53: [0mGET /javascripts/vue.js [36m304 [0m0.853 ms - -[0m
+2016-10-18 18:29:54: [0mGET /javascripts/socket.io.js [36m304 [0m1.880 ms - -[0m
+2016-10-18 18:31:30: undefined
+2016-10-18 18:31:33: [0mGET /room/1476692845234 [32m200 [0m33.541 ms - 7975[0m
+2016-10-18 18:31:40: [0mGET /stylesheets/style.css [36m304 [0m13.488 ms - -[0m
+2016-10-18 18:31:42: [0mGET /javascripts/vue.js [36m304 [0m17.614 ms - -[0m
+2016-10-18 18:31:42: [0mGET /javascripts/socket.io.js [36m304 [0m13.034 ms - -[0m
+2016-10-18 18:32:76: undefined
+2016-10-18 18:32:81: [0mGET /room/1476692845234 [32m200 [0m49.400 ms - 8074[0m
+2016-10-18 18:32:90: [0mGET /javascripts/vue.js [36m304 [0m17.121 ms - -[0m
+2016-10-18 18:32:92: [0mGET /stylesheets/style.css [36m304 [0m28.660 ms - -[0m
+2016-10-18 18:32:92: [0mGET /javascripts/socket.io.js [36m304 [0m26.798 ms - -[0m
+2016-10-18 18:32:86: undefined
+2016-10-18 18:32:89: [0mGET /room/1476692845234 [32m200 [0m31.632 ms - 8026[0m
+2016-10-18 18:32:94: [0mGET /stylesheets/style.css [36m304 [0m1.033 ms - -[0m
+2016-10-18 18:32:96: [0mGET /javascripts/vue.js [36m304 [0m8.337 ms - -[0m
+2016-10-18 18:32:99: [0mGET /javascripts/socket.io.js [36m304 [0m10.044 ms - -[0m
+2016-10-18 18:33:86: undefined
+2016-10-18 18:33:89: [0mGET /room/1476692845234 [32m200 [0m34.938 ms - 8060[0m
+2016-10-18 18:33:94: [0mGET /stylesheets/style.css [36m304 [0m13.014 ms - -[0m
+2016-10-18 18:33:97: [0mGET /javascripts/socket.io.js [36m304 [0m10.349 ms - -[0m
+2016-10-18 18:33:97: [0mGET /javascripts/vue.js [36m304 [0m12.017 ms - -[0m
+2016-10-18 18:33:16: undefined
+2016-10-18 18:33:18: [0mGET /room/1476692845234 [36m304 [0m27.533 ms - -[0m
+2016-10-18 18:33:22: [0mGET /stylesheets/style.css [36m304 [0m1.113 ms - -[0m
+2016-10-18 18:33:22: [0mGET /javascripts/socket.io.js [36m304 [0m1.377 ms - -[0m
+2016-10-18 18:33:22: [0mGET /javascripts/vue.js [36m304 [0m1.998 ms - -[0m
+2016-10-18 18:33:77: undefined
+2016-10-18 18:33:80: [0mGET /room/1476692845234 [36m304 [0m25.657 ms - -[0m
+2016-10-18 18:33:80: [0mGET /javascripts/socket.io.js [36m304 [0m0.423 ms - -[0m
+2016-10-18 18:33:80: [0mGET /javascripts/vue.js [36m304 [0m0.491 ms - -[0m
+2016-10-18 18:33:80: [0mGET /stylesheets/style.css [36m304 [0m0.695 ms - -[0m
+2016-10-19 14:55:19: undefined
+2016-10-19 14:55:22: [0mGET /room/1476692845234 [32m200 [0m38.704 ms - 8318[0m
+2016-10-19 14:55:30: [0mGET /stylesheets/style.css [36m304 [0m5.717 ms - -[0m
+2016-10-19 14:55:33: [0mGET /javascripts/socket.io.js [36m304 [0m15.701 ms - -[0m
+2016-10-19 14:55:35: [0mGET /javascripts/vue.js [36m304 [0m31.694 ms - -[0m
+2016-10-19 14:56:20: undefined
+2016-10-19 14:56:25: [0mGET /room/1476692845234 [36m304 [0m51.030 ms - -[0m
+2016-10-19 14:56:26: [0mGET /stylesheets/style.css [36m304 [0m1.319 ms - -[0m
+2016-10-19 14:56:27: [0mGET /javascripts/vue.js [36m304 [0m2.621 ms - -[0m
+2016-10-19 14:56:49: [0mGET /javascripts/socket.io.js [36m304 [0m0.797 ms - -[0m
+2016-10-19 17:39:53: [0mGET / [36m304 [0m29.157 ms - -[0m
+2016-10-19 17:39:54: [0mGET /javascripts/vue.js [36m304 [0m3.602 ms - -[0m
+2016-10-19 17:39:55: [0mGET /images/draw.png [36m304 [0m0.990 ms - -[0m
+2016-10-19 17:39:56: [0mGET /stylesheets/style.css [36m304 [0m11.091 ms - -[0m
+2016-10-19 17:39:19: [0mGET /stylesheets/style.css [36m304 [0m1.289 ms - -[0m
+2016-10-19 17:41:03: [0mGET / [32m200 [0m33.316 ms - 719[0m
+2016-10-19 17:41:11: [0mGET /javascripts/vue.js [36m304 [0m13.469 ms - -[0m
+2016-10-19 17:41:13: [0mGET /images/draw.png [36m304 [0m2.268 ms - -[0m
+2016-10-19 17:41:14: [0mGET /stylesheets/style.css [32m200 [0m11.720 ms - 143[0m
+2016-10-19 17:42:22: [0mGET / [32m200 [0m43.490 ms - 719[0m
+2016-10-19 17:42:27: [0mGET /javascripts/vue.js [36m304 [0m26.272 ms - -[0m
+2016-10-19 17:42:30: [0mGET /images/draw.png [36m304 [0m7.500 ms - -[0m
+2016-10-19 17:42:34: [0mGET /stylesheets/style.css [36m304 [0m50.032 ms - -[0m
+2016-10-19 17:43:97: [0mGET / [32m200 [0m26.717 ms - 719[0m
+2016-10-19 17:43:04: [0mGET /stylesheets/style.css [32m200 [0m27.018 ms - 143[0m
+2016-10-19 17:43:05: [0mGET /javascripts/vue.js [32m200 [0m36.259 ms - 63200[0m
+2016-10-19 17:43:24: [0mGET /images/draw.png [32m200 [0m7.966 ms - 2061[0m
+2016-10-19 17:43:75: [0mGET /favicon.ico [33m404 [0m48.529 ms - 1308[0m
+2016-10-19 17:45:95: [0mGET / [36m304 [0m8.127 ms - -[0m
+2016-10-19 17:45:98: [0mGET /javascripts/vue.js [36m304 [0m2.766 ms - -[0m
+2016-10-19 17:45:99: [0mGET /stylesheets/style.css [36m304 [0m7.497 ms - -[0m
+2016-10-19 17:45:99: [0mGET /images/draw.png [36m304 [0m2.418 ms - -[0m
+2016-10-19 17:45:40: [0mGET / [32m200 [0m22.294 ms - 719[0m
+2016-10-19 17:45:44: [0mGET /stylesheets/style.css [32m200 [0m5.129 ms - 143[0m
+2016-10-19 17:45:46: [0mGET /javascripts/vue.js [32m200 [0m7.145 ms - 63200[0m
+2016-10-19 17:45:49: [0mGET /images/draw.png [32m200 [0m3.021 ms - 2061[0m
+2016-10-19 17:46:15: undefined
+2016-10-19 17:46:17: [0mGET /room/1476870358490 [32m200 [0m15.420 ms - 8318[0m
+2016-10-19 17:46:19: [0mGET /stylesheets/style.css [36m304 [0m2.500 ms - -[0m
+2016-10-19 17:46:20: [0mGET /javascripts/vue.js [36m304 [0m2.597 ms - -[0m
+2016-10-19 17:46:24: [0mGET /javascripts/socket.io.js [32m200 [0m4.040 ms - 184656[0m
+2016-10-19 18:01:82: undefined
+2016-10-19 18:01:87: [0mGET /room/1476870358490 [32m200 [0m51.938 ms - 8412[0m
+2016-10-19 18:01:90: [0mGET /stylesheets/style.css [36m304 [0m2.919 ms - -[0m
+2016-10-19 18:01:94: [0mGET /javascripts/vue.js [36m304 [0m15.676 ms - -[0m
+2016-10-19 18:01:94: [0mGET /javascripts/socket.io.js [36m304 [0m11.206 ms - -[0m
+2016-10-19 18:01:95: [0mGET /javascripts/vueTouch.js [32m200 [0m14.907 ms - 4813[0m
+2016-10-19 18:01:95: [0mGET /javascripts/hammer.js [32m200 [0m13.362 ms - 20765[0m
+2016-10-19 18:05:97: undefined
+2016-10-19 18:05:00: [0mGET /room/1476870358490 [32m200 [0m32.561 ms - 8418[0m
+2016-10-19 18:05:03: [0mGET /stylesheets/style.css [36m304 [0m2.524 ms - -[0m
+2016-10-19 18:05:04: [0mGET /javascripts/hammer.js [36m304 [0m1.026 ms - -[0m
+2016-10-19 18:05:05: [0mGET /javascripts/vue.js [36m304 [0m8.225 ms - -[0m
+2016-10-19 18:05:06: [0mGET /javascripts/socket.io.js [36m304 [0m7.203 ms - -[0m
+2016-10-19 18:05:07: [0mGET /javascripts/vueTouch.js [36m304 [0m5.820 ms - -[0m
+2016-10-19 18:05:60: undefined
+2016-10-19 18:05:62: [0mGET /room/1476870358490 [32m200 [0m32.727 ms - 8418[0m
+2016-10-19 18:05:70: [0mGET /stylesheets/style.css [32m200 [0m5.154 ms - 143[0m
+2016-10-19 18:05:72: [0mGET /javascripts/vueTouch.js [32m200 [0m2.339 ms - 4813[0m
+2016-10-19 18:05:74: [0mGET /javascripts/vue.js [32m200 [0m8.392 ms - 63200[0m
+2016-10-19 18:05:74: [0mGET /javascripts/hammer.js [32m200 [0m9.408 ms - 20765[0m
+2016-10-19 18:05:83: [0mGET /javascripts/socket.io.js [32m200 [0m9.656 ms - 184656[0m
+2016-10-19 18:06:48: [0mGET /apple-touch-icon-120x120-precomposed.png [33m404 [0m8.488 ms - 1308[0m
+2016-10-19 18:06:56: [0mGET /apple-touch-icon-120x120.png [33m404 [0m3.840 ms - 1308[0m
+2016-10-19 18:06:57: [0mGET /apple-touch-icon.png [33m404 [0m4.410 ms - 1308[0m
+2016-10-19 18:06:59: [0mGET /apple-touch-icon.png [33m404 [0m7.653 ms - 1308[0m
+2016-10-19 18:06:88: undefined
+2016-10-19 18:06:91: [0mGET /room/1476692845234 [32m200 [0m30.349 ms - 8418[0m
+2016-10-19 18:06:97: [0mGET /javascripts/socket.io.js [36m304 [0m3.442 ms - -[0m
+2016-10-19 18:06:98: [0mGET /javascripts/vueTouch.js [32m200 [0m14.713 ms - 4813[0m
+2016-10-19 18:06:99: [0mGET /stylesheets/style.css [32m200 [0m29.896 ms - 143[0m
+2016-10-19 18:06:01: [0mGET /javascripts/vue.js [36m304 [0m4.093 ms - -[0m
+2016-10-19 18:06:02: [0mGET /javascripts/hammer.js [32m200 [0m9.541 ms - 20765[0m
+2016-10-19 18:06:26: [0mGET /javascripts/hammer.min.js.map [33m404 [0m12.029 ms - 1308[0m
+2016-10-19 18:08:81: undefined
+2016-10-19 18:08:83: [0mGET /room/1476692845234 [32m200 [0m29.042 ms - 8418[0m
+2016-10-19 18:08:91: [0mGET /stylesheets/style.css [36m304 [0m0.708 ms - -[0m
+2016-10-19 18:08:91: [0mGET /javascripts/vue.js [36m304 [0m1.030 ms - -[0m
+2016-10-19 18:08:91: [0mGET /javascripts/socket.io.js [36m304 [0m0.673 ms - -[0m
+2016-10-19 18:08:92: [0mGET /javascripts/hammer.js [36m304 [0m4.157 ms - -[0m
+2016-10-19 18:08:93: [0mGET /javascripts/vueTouch.js [36m304 [0m6.467 ms - -[0m
+2016-10-19 18:08:22: [0mGET /javascripts/hammer.min.js.map [33m404 [0m37.466 ms - 1308[0m
+2016-10-19 18:11:06: undefined
+2016-10-19 18:11:09: [0mGET /room/1476692845234 [36m304 [0m37.023 ms - -[0m
+2016-10-19 18:11:13: [0mGET /stylesheets/style.css [36m304 [0m4.200 ms - -[0m
+2016-10-19 18:11:14: [0mGET /javascripts/vue.js [36m304 [0m1.163 ms - -[0m
+2016-10-19 18:11:20: [0mGET /javascripts/hammer.js [36m304 [0m21.098 ms - -[0m
+2016-10-19 18:11:20: [0mGET /javascripts/socket.io.js [36m304 [0m15.172 ms - -[0m
+2016-10-19 18:11:22: [0mGET /javascripts/vueTouch.js [36m304 [0m28.618 ms - -[0m
+2016-10-19 18:11:46: [0mGET /javascripts/hammer.min.js.map [33m404 [0m48.865 ms - 1308[0m
+2016-10-19 18:18:36: undefined
+2016-10-19 18:18:39: [0mGET /room/1476870358490 [32m200 [0m32.291 ms - 8497[0m
+2016-10-19 18:18:44: [0mGET /stylesheets/style.css [36m304 [0m2.774 ms - -[0m
+2016-10-19 18:18:48: [0mGET /javascripts/socket.io.js [36m304 [0m8.907 ms - -[0m
+2016-10-19 18:18:48: [0mGET /javascripts/vue.js [36m304 [0m11.381 ms - -[0m
+2016-10-19 18:18:49: [0mGET /javascripts/hammer.js [36m304 [0m15.086 ms - -[0m
+2016-10-19 18:18:49: [0mGET /javascripts/vueTouch.js [36m304 [0m12.384 ms - -[0m
+2016-10-19 18:18:19: undefined
+2016-10-19 18:18:20: [0mGET /room/1476870358490 [32m200 [0m10.129 ms - 8497[0m
+2016-10-19 18:18:23: [0mGET /stylesheets/style.css [36m304 [0m0.755 ms - -[0m
+2016-10-19 18:18:23: [0mGET /javascripts/vue.js [36m304 [0m1.229 ms - -[0m
+2016-10-19 18:18:24: [0mGET /javascripts/hammer.js [36m304 [0m0.443 ms - -[0m
+2016-10-19 18:18:24: [0mGET /javascripts/socket.io.js [36m304 [0m1.314 ms - -[0m
+2016-10-19 18:18:24: [0mGET /javascripts/vueTouch.js [36m304 [0m1.326 ms - -[0m
+2016-10-20 14:49:78: [0mGET / [32m200 [0m51.987 ms - 876[0m
+2016-10-20 14:49:81: [0mGET /stylesheets/style.css [32m200 [0m5.277 ms - 143[0m
+2016-10-20 14:49:86: [0mGET /javascripts/vue.js [32m200 [0m13.415 ms - 63200[0m
+2016-10-20 14:49:86: [0mGET /images/draw.png [32m200 [0m13.082 ms - 2061[0m
+2016-10-20 14:50:67: undefined
+2016-10-20 14:50:69: [0mGET /room/1476946199360 [32m200 [0m17.121 ms - 8654[0m
+2016-10-20 14:50:72: [0mGET /javascripts/vue.js [36m304 [0m4.162 ms - -[0m
+2016-10-20 14:50:72: [0mGET /stylesheets/style.css [36m304 [0m3.580 ms - -[0m
+2016-10-20 14:50:79: [0mGET /javascripts/vueTouch.js [32m200 [0m16.663 ms - 4813[0m
+2016-10-20 14:50:79: [0mGET /javascripts/hammer.js [32m200 [0m15.875 ms - 20765[0m
+2016-10-20 14:50:87: [0mGET /javascripts/socket.io.js [32m200 [0m17.183 ms - 184656[0m
+2016-10-20 14:51:85: undefined
+2016-10-20 14:51:92: [0mGET /room/1476946199360 [32m200 [0m70.931 ms - 8654[0m
+2016-10-20 14:51:07: [0mGET /stylesheets/style.css [32m200 [0m11.497 ms - 166[0m
+2016-10-20 14:51:12: [0mGET /javascripts/vue.js [36m304 [0m12.882 ms - -[0m
+2016-10-20 14:51:12: [0mGET /javascripts/hammer.js [36m304 [0m16.740 ms - -[0m
+2016-10-20 14:51:13: [0mGET /javascripts/vueTouch.js [36m304 [0m12.208 ms - -[0m
+2016-10-20 14:51:14: [0mGET /javascripts/socket.io.js [36m304 [0m29.241 ms - -[0m
+2016-10-20 14:51:54: undefined
+2016-10-20 14:51:58: [0mGET /room/1476946199360 [32m200 [0m40.162 ms - 8654[0m
+2016-10-20 14:51:67: [0mGET /javascripts/vue.js [36m304 [0m2.606 ms - -[0m
+2016-10-20 14:51:67: [0mGET /javascripts/socket.io.js [36m304 [0m3.033 ms - -[0m
+2016-10-20 14:51:67: [0mGET /stylesheets/style.css [32m200 [0m10.893 ms - 166[0m
+2016-10-20 14:51:76: [0mGET /javascripts/vueTouch.js [36m304 [0m9.029 ms - -[0m
+2016-10-20 14:51:77: [0mGET /javascripts/hammer.js [36m304 [0m11.672 ms - -[0m
+2016-10-20 14:51:17: undefined
+2016-10-20 14:51:21: [0mGET /room/1476946199360 [32m200 [0m50.267 ms - 8654[0m
+2016-10-20 14:51:34: [0mGET /javascripts/vue.js [36m304 [0m28.752 ms - -[0m
+2016-10-20 14:51:36: [0mGET /javascripts/vueTouch.js [36m304 [0m40.604 ms - -[0m
+2016-10-20 14:51:36: [0mGET /javascripts/hammer.js [36m304 [0m30.675 ms - -[0m
+2016-10-20 14:51:36: [0mGET /javascripts/socket.io.js [36m304 [0m23.201 ms - -[0m
+2016-10-20 14:51:38: [0mGET /stylesheets/style.css [32m200 [0m41.635 ms - 166[0m
+2016-10-20 14:52:14: undefined
+2016-10-20 14:52:19: [0mGET /room/1476946199360 [32m200 [0m49.083 ms - 8654[0m
+2016-10-20 14:52:24: [0mGET /stylesheets/style.css [32m200 [0m1.751 ms - 166[0m
+2016-10-20 14:52:25: [0mGET /javascripts/vue.js [36m304 [0m1.771 ms - -[0m
+2016-10-20 14:52:25: [0mGET /javascripts/socket.io.js [36m304 [0m2.770 ms - -[0m
+2016-10-20 14:52:25: [0mGET /javascripts/vueTouch.js [36m304 [0m2.949 ms - -[0m
+2016-10-20 14:52:26: [0mGET /javascripts/hammer.js [36m304 [0m2.433 ms - -[0m
+2016-10-20 14:52:26: undefined
+2016-10-20 14:52:31: [0mGET /room/1476946199360 [32m200 [0m54.745 ms - 8654[0m
+2016-10-20 14:52:37: [0mGET /stylesheets/style.css [32m200 [0m6.595 ms - 166[0m
+2016-10-20 14:52:43: [0mGET /javascripts/socket.io.js [36m304 [0m1.727 ms - -[0m
+2016-10-20 14:52:43: [0mGET /javascripts/vueTouch.js [36m304 [0m1.559 ms - -[0m
+2016-10-20 14:52:45: [0mGET /javascripts/vue.js [36m304 [0m11.885 ms - -[0m
+2016-10-20 14:52:47: [0mGET /javascripts/hammer.js [36m304 [0m1.919 ms - -[0m
+2016-10-20 14:53:13: undefined
+2016-10-20 14:53:16: [0mGET /room/1476946199360 [32m200 [0m28.724 ms - 8654[0m
+2016-10-20 14:53:20: [0mGET /javascripts/vueTouch.js [36m304 [0m0.519 ms - -[0m
+2016-10-20 14:53:24: [0mGET /javascripts/vue.js [36m304 [0m8.922 ms - -[0m
+2016-10-20 14:53:24: [0mGET /javascripts/socket.io.js [36m304 [0m8.605 ms - -[0m
+2016-10-20 14:53:24: [0mGET /javascripts/hammer.js [36m304 [0m8.387 ms - -[0m
+2016-10-20 14:53:25: [0mGET /stylesheets/style.css [32m200 [0m10.885 ms - 187[0m
+2016-10-20 14:53:11: undefined
+2016-10-20 14:53:16: [0mGET /room/1476946199360 [32m200 [0m46.030 ms - 8654[0m
+2016-10-20 14:53:20: [0mGET /stylesheets/style.css [32m200 [0m8.014 ms - 185[0m
+2016-10-20 14:53:25: [0mGET /javascripts/vue.js [36m304 [0m14.261 ms - -[0m
+2016-10-20 14:53:27: [0mGET /javascripts/socket.io.js [36m304 [0m26.439 ms - -[0m
+2016-10-20 14:53:26: [0mGET /javascripts/vueTouch.js [36m304 [0m18.724 ms - -[0m
+2016-10-20 14:53:27: [0mGET /javascripts/hammer.js [36m304 [0m30.715 ms - -[0m
+2016-10-20 14:54:44: undefined
+2016-10-20 14:54:46: [0mGET /room/1476946199360 [32m200 [0m30.527 ms - 8670[0m
+2016-10-20 14:54:50: [0mGET /stylesheets/style.css [32m200 [0m5.014 ms - 216[0m
+2016-10-20 14:54:53: [0mGET /javascripts/vue.js [36m304 [0m8.609 ms - -[0m
+2016-10-20 14:54:53: [0mGET /javascripts/socket.io.js [36m304 [0m8.783 ms - -[0m
+2016-10-20 14:54:54: [0mGET /javascripts/hammer.js [36m304 [0m11.662 ms - -[0m
+2016-10-20 14:54:54: [0mGET /javascripts/vueTouch.js [36m304 [0m9.538 ms - -[0m
+2016-10-20 14:55:56: undefined
+2016-10-20 14:55:59: [0mGET /room/1476946199360 [32m200 [0m32.361 ms - 8670[0m
+2016-10-20 14:55:61: [0mGET /stylesheets/style.css [36m304 [0m2.888 ms - -[0m
+2016-10-20 14:55:66: [0mGET /javascripts/hammer.js [36m304 [0m8.459 ms - -[0m
+2016-10-20 14:55:66: [0mGET /javascripts/vue.js [36m304 [0m8.514 ms - -[0m
+2016-10-20 14:55:66: [0mGET /javascripts/socket.io.js [36m304 [0m8.291 ms - -[0m
+2016-10-20 14:55:67: [0mGET /javascripts/vueTouch.js [36m304 [0m12.146 ms - -[0m
+2016-10-20 14:55:98: undefined
+2016-10-20 14:55:00: [0mGET /room/1476946199360 [32m200 [0m24.475 ms - 8669[0m
+2016-10-20 14:55:04: [0mGET /stylesheets/style.css [36m304 [0m1.025 ms - -[0m
+2016-10-20 14:55:05: [0mGET /javascripts/vue.js [36m304 [0m1.706 ms - -[0m
+2016-10-20 14:55:05: [0mGET /javascripts/socket.io.js [36m304 [0m1.800 ms - -[0m
+2016-10-20 14:55:06: [0mGET /javascripts/vueTouch.js [36m304 [0m1.578 ms - -[0m
+2016-10-20 14:55:11: [0mGET /javascripts/hammer.js [36m304 [0m5.805 ms - -[0m
+2016-10-20 14:56:50: undefined
+2016-10-20 14:56:53: [0mGET /room/1476946199360 [32m200 [0m31.020 ms - 8691[0m
+2016-10-20 14:56:57: [0mGET /stylesheets/style.css [36m304 [0m2.489 ms - -[0m
+2016-10-20 14:56:58: [0mGET /javascripts/hammer.js [36m304 [0m1.296 ms - -[0m
+2016-10-20 14:56:61: [0mGET /javascripts/vue.js [36m304 [0m9.220 ms - -[0m
+2016-10-20 14:56:61: [0mGET /javascripts/socket.io.js [36m304 [0m12.145 ms - -[0m
+2016-10-20 14:56:62: [0mGET /javascripts/vueTouch.js [36m304 [0m8.548 ms - -[0m
+2016-10-20 14:57:89: undefined
+2016-10-20 14:57:91: [0mGET /room/1476946199360 [32m200 [0m24.299 ms - 8668[0m
+2016-10-20 14:57:96: [0mGET /stylesheets/style.css [36m304 [0m1.876 ms - -[0m
+2016-10-20 14:57:97: [0mGET /javascripts/vue.js [36m304 [0m1.880 ms - -[0m
+2016-10-20 14:57:97: [0mGET /javascripts/socket.io.js [36m304 [0m1.200 ms - -[0m
+2016-10-20 14:57:99: [0mGET /javascripts/hammer.js [36m304 [0m5.376 ms - -[0m
+2016-10-20 14:57:99: [0mGET /javascripts/vueTouch.js [36m304 [0m5.708 ms - -[0m
+2016-10-20 14:57:52: undefined
+2016-10-20 14:57:55: [0mGET /room/1476946199360 [32m200 [0m30.155 ms - 8667[0m
+2016-10-20 14:57:62: [0mGET /stylesheets/style.css [36m304 [0m2.348 ms - -[0m
+2016-10-20 14:57:63: [0mGET /javascripts/vueTouch.js [36m304 [0m1.057 ms - -[0m
+2016-10-20 14:57:65: [0mGET /javascripts/vue.js [36m304 [0m7.641 ms - -[0m
+2016-10-20 14:57:65: [0mGET /javascripts/socket.io.js [36m304 [0m6.893 ms - -[0m
+2016-10-20 14:57:66: [0mGET /javascripts/hammer.js [36m304 [0m7.855 ms - -[0m
+2016-10-20 14:59:99: undefined
+2016-10-20 14:59:01: [0mGET /room/1476946199360 [32m200 [0m31.777 ms - 8649[0m
+2016-10-20 14:59:04: [0mGET /stylesheets/style.css [36m304 [0m2.562 ms - -[0m
+2016-10-20 14:59:08: [0mGET /javascripts/vue.js [36m304 [0m8.544 ms - -[0m
+2016-10-20 14:59:08: [0mGET /javascripts/socket.io.js [36m304 [0m8.541 ms - -[0m
+2016-10-20 14:59:09: [0mGET /javascripts/hammer.js [36m304 [0m8.964 ms - -[0m
+2016-10-20 14:59:09: [0mGET /javascripts/vueTouch.js [36m304 [0m9.013 ms - -[0m
+2016-10-20 15:00:48: undefined
+2016-10-20 15:00:51: [0mGET /room/1476946199360 [32m200 [0m33.987 ms - 8724[0m
+2016-10-20 15:00:54: [0mGET /stylesheets/style.css [36m304 [0m3.749 ms - -[0m
+2016-10-20 15:00:57: [0mGET /javascripts/socket.io.js [36m304 [0m9.054 ms - -[0m
+2016-10-20 15:00:57: [0mGET /javascripts/vue.js [36m304 [0m11.968 ms - -[0m
+2016-10-20 15:00:57: [0mGET /javascripts/hammer.js [36m304 [0m9.102 ms - -[0m
+2016-10-20 15:00:58: [0mGET /javascripts/vueTouch.js [36m304 [0m8.154 ms - -[0m
+2016-10-20 15:01:34: undefined
+2016-10-20 15:01:37: [0mGET /room/1476946199360 [32m200 [0m33.264 ms - 8724[0m
+2016-10-20 15:01:41: [0mGET /stylesheets/style.css [36m304 [0m2.928 ms - -[0m
+2016-10-20 15:01:45: [0mGET /javascripts/hammer.js [36m304 [0m1.226 ms - -[0m
+2016-10-20 15:01:45: [0mGET /javascripts/vueTouch.js [36m304 [0m1.167 ms - -[0m
+2016-10-20 15:01:45: [0mGET /javascripts/vue.js [36m304 [0m5.980 ms - -[0m
+2016-10-20 15:01:46: [0mGET /javascripts/socket.io.js [36m304 [0m8.172 ms - -[0m
+2016-10-20 15:01:15: undefined
+2016-10-20 15:01:16: [0mGET /room/1476946199360 [32m200 [0m6.595 ms - 8724[0m
+2016-10-20 15:01:29: [0mGET /stylesheets/style.css [36m304 [0m0.573 ms - -[0m
+2016-10-20 15:01:30: [0mGET /javascripts/vue.js [36m304 [0m1.182 ms - -[0m
+2016-10-20 15:01:30: [0mGET /javascripts/hammer.js [36m304 [0m0.364 ms - -[0m
+2016-10-20 15:01:30: [0mGET /javascripts/vueTouch.js [36m304 [0m1.109 ms - -[0m
+2016-10-20 15:01:31: [0mGET /javascripts/socket.io.js [36m304 [0m1.155 ms - -[0m
+2016-10-20 15:02:22: undefined
+2016-10-20 15:02:26: [0mGET /room/1476946199360 [32m200 [0m37.860 ms - 8759[0m
+2016-10-20 15:02:31: [0mGET /stylesheets/style.css [36m304 [0m0.549 ms - -[0m
+2016-10-20 15:02:35: [0mGET /javascripts/vue.js [36m304 [0m8.934 ms - -[0m
+2016-10-20 15:02:35: [0mGET /javascripts/socket.io.js [36m304 [0m8.829 ms - -[0m
+2016-10-20 15:02:36: [0mGET /javascripts/hammer.js [36m304 [0m11.174 ms - -[0m
+2016-10-20 15:02:38: [0mGET /javascripts/vueTouch.js [36m304 [0m9.660 ms - -[0m
+2016-10-20 15:03:22: undefined
+2016-10-20 15:03:27: [0mGET /room/1476946199360 [32m200 [0m52.172 ms - 8767[0m
+2016-10-20 15:03:33: [0mGET /stylesheets/style.css [36m304 [0m4.333 ms - -[0m
+2016-10-20 15:03:37: [0mGET /javascripts/vue.js [36m304 [0m12.494 ms - -[0m
+2016-10-20 15:03:37: [0mGET /javascripts/socket.io.js [36m304 [0m12.985 ms - -[0m
+2016-10-20 15:03:37: [0mGET /javascripts/hammer.js [36m304 [0m9.759 ms - -[0m
+2016-10-20 15:03:38: [0mGET /javascripts/vueTouch.js [36m304 [0m13.243 ms - -[0m
+2016-10-20 15:05:21: undefined
+2016-10-20 15:05:24: [0mGET /room/1476946199360 [32m200 [0m35.913 ms - 8778[0m
+2016-10-20 15:05:27: [0mGET /stylesheets/style.css [36m304 [0m3.299 ms - -[0m
+2016-10-20 15:05:29: [0mGET /javascripts/vue.js [36m304 [0m6.149 ms - -[0m
+2016-10-20 15:05:31: [0mGET /javascripts/socket.io.js [36m304 [0m7.299 ms - -[0m
+2016-10-20 15:05:31: [0mGET /javascripts/hammer.js [36m304 [0m5.699 ms - -[0m
+2016-10-20 15:05:32: [0mGET /javascripts/vueTouch.js [36m304 [0m9.034 ms - -[0m
+2016-10-20 15:06:91: undefined
+2016-10-20 15:06:94: [0mGET /room/1476946199360 [32m200 [0m33.259 ms - 8834[0m
+2016-10-20 15:06:98: [0mGET /stylesheets/style.css [36m304 [0m2.479 ms - -[0m
+2016-10-20 15:06:03: [0mGET /javascripts/vue.js [36m304 [0m8.668 ms - -[0m
+2016-10-20 15:06:04: [0mGET /javascripts/socket.io.js [36m304 [0m10.587 ms - -[0m
+2016-10-20 15:06:06: [0mGET /javascripts/hammer.js [36m304 [0m7.446 ms - -[0m
+2016-10-20 15:06:06: [0mGET /javascripts/vueTouch.js [36m304 [0m8.237 ms - -[0m
+2016-10-20 15:06:50: undefined
+2016-10-20 15:06:53: [0mGET /room/1476946199360 [32m200 [0m32.390 ms - 8787[0m
+2016-10-20 15:06:55: [0mGET /stylesheets/style.css [36m304 [0m3.623 ms - -[0m
+2016-10-20 15:06:59: [0mGET /javascripts/vue.js [36m304 [0m12.676 ms - -[0m
+2016-10-20 15:06:59: [0mGET /javascripts/socket.io.js [36m304 [0m14.226 ms - -[0m
+2016-10-20 15:06:59: [0mGET /javascripts/hammer.js [36m304 [0m10.109 ms - -[0m
+2016-10-20 15:06:60: [0mGET /javascripts/vueTouch.js [36m304 [0m17.107 ms - -[0m
+2016-10-20 15:07:63: undefined
+2016-10-20 15:07:66: [0mGET /room/1476692845234 [32m200 [0m33.160 ms - 8787[0m
+2016-10-20 15:07:74: [0mGET /javascripts/vueTouch.js [36m304 [0m2.786 ms - -[0m
+2016-10-20 15:07:76: [0mGET /javascripts/vue.js [36m304 [0m2.669 ms - -[0m
+2016-10-20 15:07:77: [0mGET /stylesheets/style.css [32m200 [0m8.412 ms - 216[0m
+2016-10-20 15:07:78: [0mGET /javascripts/hammer.js [36m304 [0m13.139 ms - -[0m
+2016-10-20 15:07:82: [0mGET /javascripts/socket.io.js [36m304 [0m22.698 ms - -[0m
+2016-10-20 15:07:21: [0mGET /javascripts/hammer.min.js.map [33m404 [0m78.709 ms - 1465[0m
+2016-10-20 15:07:92: undefined
+2016-10-20 15:07:95: [0mGET /room/1476946199360 [32m200 [0m31.654 ms - 8787[0m
+2016-10-20 15:07:01: [0mGET /stylesheets/style.css [32m200 [0m6.829 ms - 216[0m
+2016-10-20 15:07:02: [0mGET /javascripts/hammer.js [32m200 [0m3.778 ms - 20765[0m
+2016-10-20 15:07:02: [0mGET /javascripts/vueTouch.js [32m200 [0m2.032 ms - 4813[0m
+2016-10-20 15:07:03: [0mGET /javascripts/vue.js [32m200 [0m9.499 ms - 63200[0m
+2016-10-20 15:07:13: [0mGET /javascripts/socket.io.js [32m200 [0m7.948 ms - 184656[0m
+2016-10-20 15:08:40: undefined
+2016-10-20 15:08:41: [0mGET /room/1476946199360 [32m200 [0m7.414 ms - 8787[0m
+2016-10-20 15:08:45: [0mGET /stylesheets/style.css [36m304 [0m0.776 ms - -[0m
+2016-10-20 15:08:45: [0mGET /javascripts/socket.io.js [36m304 [0m1.702 ms - -[0m
+2016-10-20 15:08:45: [0mGET /javascripts/hammer.js [36m304 [0m0.880 ms - -[0m
+2016-10-20 15:08:45: [0mGET /javascripts/vueTouch.js [36m304 [0m0.847 ms - -[0m
+2016-10-20 15:08:45: [0mGET /javascripts/vue.js [36m304 [0m1.881 ms - -[0m
+2016-10-20 15:08:77: [0mGET /javascripts/hammer.min.js.map [33m404 [0m35.975 ms - 1465[0m
+2016-10-20 15:11:66: undefined
+2016-10-20 15:11:68: [0mGET /room/1476946199360 [32m200 [0m30.374 ms - 8914[0m
+2016-10-20 15:11:79: [0mGET /stylesheets/style.css [36m304 [0m11.570 ms - -[0m
+2016-10-20 15:11:79: [0mGET /javascripts/hammer.js [36m304 [0m8.918 ms - -[0m
+2016-10-20 15:11:79: [0mGET /javascripts/vue.js [36m304 [0m9.970 ms - -[0m
+2016-10-20 15:11:79: [0mGET /javascripts/vueTouch.js [36m304 [0m9.975 ms - -[0m
+2016-10-20 15:11:79: [0mGET /javascripts/socket.io.js [36m304 [0m15.399 ms - -[0m
+2016-10-20 15:12:11: undefined
+2016-10-20 15:12:15: [0mGET /room/1476946199360 [32m200 [0m46.183 ms - 8910[0m
+2016-10-20 15:12:20: [0mGET /stylesheets/style.css [36m304 [0m3.814 ms - -[0m
+2016-10-20 15:12:25: [0mGET /javascripts/hammer.js [36m304 [0m9.801 ms - -[0m
+2016-10-20 15:12:25: [0mGET /javascripts/vue.js [36m304 [0m8.952 ms - -[0m
+2016-10-20 15:12:26: [0mGET /javascripts/socket.io.js [36m304 [0m9.642 ms - -[0m
+2016-10-20 15:12:27: [0mGET /javascripts/vueTouch.js [36m304 [0m17.638 ms - -[0m
+2016-10-20 15:13:18: undefined
+2016-10-20 15:13:22: [0mGET /room/1476946199360 [32m200 [0m40.684 ms - 8860[0m
+2016-10-20 15:13:26: [0mGET /stylesheets/style.css [36m304 [0m2.569 ms - -[0m
+2016-10-20 15:13:27: [0mGET /javascripts/vueTouch.js [36m304 [0m0.733 ms - -[0m
+2016-10-20 15:13:30: [0mGET /javascripts/vue.js [36m304 [0m9.169 ms - -[0m
+2016-10-20 15:13:30: [0mGET /javascripts/socket.io.js [36m304 [0m7.562 ms - -[0m
+2016-10-20 15:13:31: [0mGET /javascripts/hammer.js [36m304 [0m9.091 ms - -[0m
+2016-10-20 15:13:70: undefined
+2016-10-20 15:13:72: [0mGET /room/1476946199360 [32m200 [0m29.211 ms - 8862[0m
+2016-10-20 15:13:77: [0mGET /stylesheets/style.css [36m304 [0m0.840 ms - -[0m
+2016-10-20 15:13:78: [0mGET /javascripts/vue.js [36m304 [0m1.236 ms - -[0m
+2016-10-20 15:13:79: [0mGET /javascripts/hammer.js [36m304 [0m0.282 ms - -[0m
+2016-10-20 15:13:82: [0mGET /javascripts/socket.io.js [36m304 [0m8.630 ms - -[0m
+2016-10-20 15:13:82: [0mGET /javascripts/vueTouch.js [36m304 [0m6.208 ms - -[0m
+2016-10-20 15:14:01: undefined
+2016-10-20 15:14:04: [0mGET /room/1476946199360 [32m200 [0m32.115 ms - 8886[0m
+2016-10-20 15:14:08: [0mGET /stylesheets/style.css [36m304 [0m2.667 ms - -[0m
+2016-10-20 15:14:09: [0mGET /javascripts/vueTouch.js [36m304 [0m0.691 ms - -[0m
+2016-10-20 15:14:10: [0mGET /javascripts/vue.js [36m304 [0m6.099 ms - -[0m
+2016-10-20 15:14:12: [0mGET /javascripts/socket.io.js [36m304 [0m6.058 ms - -[0m
+2016-10-20 15:14:12: [0mGET /javascripts/hammer.js [36m304 [0m5.899 ms - -[0m
+2016-10-20 15:14:20: undefined
+2016-10-20 15:14:23: [0mGET /room/1476946199360 [32m200 [0m25.054 ms - 8891[0m
+2016-10-20 15:14:26: [0mGET /stylesheets/style.css [36m304 [0m1.230 ms - -[0m
+2016-10-20 15:14:27: [0mGET /javascripts/vue.js [36m304 [0m1.178 ms - -[0m
+2016-10-20 15:14:28: [0mGET /javascripts/socket.io.js [36m304 [0m1.116 ms - -[0m
+2016-10-20 15:14:32: [0mGET /javascripts/hammer.js [36m304 [0m5.893 ms - -[0m
+2016-10-20 15:14:33: [0mGET /javascripts/vueTouch.js [36m304 [0m5.712 ms - -[0m
+2016-10-20 15:15:80: undefined
+2016-10-20 15:15:83: [0mGET /room/1476946199360 [32m200 [0m30.216 ms - 8865[0m
+2016-10-20 15:15:87: [0mGET /stylesheets/style.css [36m304 [0m2.981 ms - -[0m
+2016-10-20 15:15:91: [0mGET /javascripts/vue.js [36m304 [0m8.744 ms - -[0m
+2016-10-20 15:15:92: [0mGET /javascripts/hammer.js [36m304 [0m8.438 ms - -[0m
+2016-10-20 15:15:92: [0mGET /javascripts/socket.io.js [36m304 [0m8.396 ms - -[0m
+2016-10-20 15:15:92: [0mGET /javascripts/vueTouch.js [36m304 [0m8.460 ms - -[0m
+2016-10-20 15:16:43: undefined
+2016-10-20 15:16:46: [0mGET /room/1476946199360 [32m200 [0m32.584 ms - 8869[0m
+2016-10-20 15:16:52: [0mGET /stylesheets/style.css [36m304 [0m2.228 ms - -[0m
+2016-10-20 15:16:55: [0mGET /javascripts/vue.js [36m304 [0m8.902 ms - -[0m
+2016-10-20 15:16:56: [0mGET /javascripts/socket.io.js [36m304 [0m9.373 ms - -[0m
+2016-10-20 15:16:56: [0mGET /javascripts/hammer.js [36m304 [0m10.043 ms - -[0m
+2016-10-20 15:16:57: [0mGET /javascripts/vueTouch.js [36m304 [0m6.349 ms - -[0m
+2016-10-20 15:16:77: undefined
+2016-10-20 15:16:78: [0mGET /room/1476946199360 [32m200 [0m10.976 ms - 8869[0m
+2016-10-20 15:16:90: [0mGET /stylesheets/style.css [36m304 [0m1.511 ms - -[0m
+2016-10-20 15:16:91: [0mGET /javascripts/vue.js [36m304 [0m1.845 ms - -[0m
+2016-10-20 15:16:91: [0mGET /javascripts/hammer.js [36m304 [0m1.888 ms - -[0m
+2016-10-20 15:16:91: [0mGET /javascripts/socket.io.js [36m304 [0m1.983 ms - -[0m
+2016-10-20 15:16:91: [0mGET /javascripts/vueTouch.js [36m304 [0m1.873 ms - -[0m
+2016-10-20 15:16:10: [0mGET / [32m200 [0m23.630 ms - 876[0m
+2016-10-20 15:16:12: [0mGET /stylesheets/style.css [32m200 [0m8.464 ms - 216[0m
+2016-10-20 15:16:14: [0mGET /javascripts/vue.js [36m304 [0m11.287 ms - -[0m
+2016-10-20 15:16:33: [0mGET /images/draw.png [36m304 [0m1.134 ms - -[0m
+2016-10-20 15:16:72: undefined
+2016-10-20 15:16:74: [0mGET /room/1476947817350 [32m200 [0m26.181 ms - 8869[0m
+2016-10-20 15:16:77: [0mGET /stylesheets/style.css [36m304 [0m0.464 ms - -[0m
+2016-10-20 15:16:77: [0mGET /javascripts/hammer.js [32m200 [0m6.667 ms - 20765[0m
+2016-10-20 15:16:78: [0mGET /javascripts/vue.js [36m304 [0m14.605 ms - -[0m
+2016-10-20 15:16:80: [0mGET /javascripts/socket.io.js [32m200 [0m6.096 ms - 184656[0m
+2016-10-20 15:16:81: [0mGET /javascripts/vueTouch.js [32m200 [0m20.682 ms - 4813[0m
+2016-10-20 15:17:48: undefined
+2016-10-20 15:17:50: [0mGET /room/1476946199360 [32m200 [0m30.543 ms - 8869[0m
+2016-10-20 15:17:51: [0mGET /javascripts/vue.js [36m304 [0m0.415 ms - -[0m
+2016-10-20 15:17:52: [0mGET /stylesheets/style.css [36m304 [0m6.591 ms - -[0m
+2016-10-20 15:17:69: [0mGET /javascripts/socket.io.js [36m304 [0m0.978 ms - -[0m
+2016-10-20 15:17:69: [0mGET /javascripts/vueTouch.js [36m304 [0m0.516 ms - -[0m
+2016-10-20 15:17:69: [0mGET /javascripts/hammer.js [36m304 [0m0.822 ms - -[0m
+2016-10-20 15:18:02: undefined
+2016-10-20 15:18:05: [0mGET /room/1476946199360 [32m200 [0m27.011 ms - 8869[0m
+2016-10-20 15:18:08: [0mGET /stylesheets/style.css [36m304 [0m0.675 ms - -[0m
+2016-10-20 15:18:09: [0mGET /javascripts/hammer.js [36m304 [0m0.536 ms - -[0m
+2016-10-20 15:18:09: [0mGET /javascripts/vue.js [36m304 [0m1.070 ms - -[0m
+2016-10-20 15:18:10: [0mGET /javascripts/vueTouch.js [36m304 [0m0.317 ms - -[0m
+2016-10-20 15:18:10: [0mGET /javascripts/socket.io.js [36m304 [0m0.287 ms - -[0m
+2016-10-20 15:18:08: undefined
+2016-10-20 15:18:09: [0mGET /room/1476946199360 [32m200 [0m9.232 ms - 8869[0m
+2016-10-20 15:18:12: [0mGET /stylesheets/style.css [36m304 [0m0.361 ms - -[0m
+2016-10-20 15:18:12: [0mGET /javascripts/vue.js [36m304 [0m0.502 ms - -[0m
+2016-10-20 15:18:12: [0mGET /javascripts/socket.io.js [36m304 [0m0.275 ms - -[0m
+2016-10-20 15:18:13: [0mGET /javascripts/hammer.js [36m304 [0m0.277 ms - -[0m
+2016-10-20 15:18:14: [0mGET /javascripts/vueTouch.js [36m304 [0m2.067 ms - -[0m
+2016-10-20 15:18:43: undefined
+2016-10-20 15:18:44: [0mGET /room/1476946199360 [36m304 [0m7.480 ms - -[0m
+2016-10-20 15:18:44: [0mGET /javascripts/vue.js [36m304 [0m0.444 ms - -[0m
+2016-10-20 15:18:44: [0mGET /stylesheets/style.css [36m304 [0m1.709 ms - -[0m
+2016-10-20 15:18:45: [0mGET /javascripts/socket.io.js [36m304 [0m0.725 ms - -[0m
+2016-10-20 15:18:63: [0mGET /javascripts/hammer.js [36m304 [0m0.410 ms - -[0m
+2016-10-20 15:18:63: [0mGET /javascripts/vueTouch.js [36m304 [0m0.595 ms - -[0m
+2016-10-20 15:24:62: undefined
+2016-10-20 15:24:65: [0mGET /room/1476946199360 [32m200 [0m34.418 ms - 8933[0m
+2016-10-20 15:24:72: [0mGET /javascripts/vue.js [36m304 [0m10.845 ms - -[0m
+2016-10-20 15:24:74: [0mGET /stylesheets/style.css [36m304 [0m4.570 ms - -[0m
+2016-10-20 15:24:75: [0mGET /javascripts/hammer.js [36m304 [0m53.891 ms - -[0m
+2016-10-20 15:24:76: [0mGET /javascripts/socket.io.js [36m304 [0m10.455 ms - -[0m
+2016-10-20 15:24:76: [0mGET /javascripts/vueTouch.js [36m304 [0m22.376 ms - -[0m
+2016-10-20 15:24:42: undefined
+2016-10-20 15:24:45: [0mGET /room/1476946199360 [32m200 [0m36.501 ms - 8933[0m
+2016-10-20 15:24:53: [0mGET /javascripts/vue.js [36m304 [0m1.147 ms - -[0m
+2016-10-20 15:24:54: [0mGET /javascripts/socket.io.js [36m304 [0m2.650 ms - -[0m
+2016-10-20 15:24:54: [0mGET /javascripts/hammer.js [36m304 [0m1.957 ms - -[0m
+2016-10-20 15:24:54: [0mGET /javascripts/vueTouch.js [36m304 [0m1.909 ms - -[0m
+2016-10-20 15:24:55: [0mGET /stylesheets/style.css [36m304 [0m5.459 ms - -[0m
+2016-10-20 15:25:95: undefined
+2016-10-20 15:25:98: [0mGET /room/1476946199360 [32m200 [0m30.836 ms - 8935[0m
+2016-10-20 15:25:04: [0mGET /stylesheets/style.css [36m304 [0m2.951 ms - -[0m
+2016-10-20 15:25:06: [0mGET /javascripts/vue.js [36m304 [0m5.272 ms - -[0m
+2016-10-20 15:25:08: [0mGET /javascripts/vueTouch.js [36m304 [0m5.431 ms - -[0m
+2016-10-20 15:25:08: [0mGET /javascripts/socket.io.js [36m304 [0m7.175 ms - -[0m
+2016-10-20 15:25:09: [0mGET /javascripts/hammer.js [36m304 [0m8.382 ms - -[0m
+2016-10-20 15:26:16: undefined
+2016-10-20 15:26:21: [0mGET /room/1476946199360 [32m200 [0m58.485 ms - 8932[0m
+2016-10-20 15:26:31: [0mGET /stylesheets/style.css [36m304 [0m6.317 ms - -[0m
+2016-10-20 15:26:34: [0mGET /javascripts/vue.js [36m304 [0m10.619 ms - -[0m
+2016-10-20 15:26:35: [0mGET /javascripts/socket.io.js [36m304 [0m10.070 ms - -[0m
+2016-10-20 15:26:35: [0mGET /javascripts/hammer.js [36m304 [0m9.718 ms - -[0m
+2016-10-20 15:26:39: [0mGET /javascripts/vueTouch.js [36m304 [0m9.588 ms - -[0m
+2016-10-20 15:26:78: undefined
+2016-10-20 15:26:81: [0mGET /room/1476946199360 [32m200 [0m30.771 ms - 8932[0m
+2016-10-20 15:26:84: [0mGET /javascripts/vue.js [36m304 [0m1.896 ms - -[0m
+2016-10-20 15:26:84: [0mGET /stylesheets/style.css [36m304 [0m4.242 ms - -[0m
+2016-10-20 15:26:84: [0mGET /javascripts/socket.io.js [36m304 [0m2.083 ms - -[0m
+2016-10-20 15:26:85: [0mGET /javascripts/hammer.js [36m304 [0m2.584 ms - -[0m
+2016-10-20 15:26:88: [0mGET /javascripts/vueTouch.js [36m304 [0m9.936 ms - -[0m
+2016-10-20 15:26:57: [0mGET /stylesheets/style.css [36m304 [0m1.708 ms - -[0m
+2016-10-20 15:26:68: [0mGET /javascripts/hammer.min.js.map [33m404 [0m26.076 ms - 1465[0m
+2016-10-20 15:27:10: undefined
+2016-10-20 15:27:13: [0mGET /room/1476946199360 [32m200 [0m36.166 ms - 8931[0m
+2016-10-20 15:27:29: [0mGET /javascripts/vue.js [36m304 [0m8.635 ms - -[0m
+2016-10-20 15:27:30: [0mGET /javascripts/socket.io.js [36m304 [0m10.153 ms - -[0m
+2016-10-20 15:27:30: [0mGET /stylesheets/style.css [36m304 [0m15.868 ms - -[0m
+2016-10-20 15:27:31: [0mGET /javascripts/hammer.js [36m304 [0m11.125 ms - -[0m
+2016-10-20 15:27:31: [0mGET /javascripts/vueTouch.js [36m304 [0m13.962 ms - -[0m
+2016-10-20 15:29:93: undefined
+2016-10-20 15:29:96: [0mGET /room/1476946199360 [32m200 [0m38.243 ms - 8931[0m
+2016-10-20 15:29:04: [0mGET /stylesheets/style.css [32m200 [0m4.455 ms - 253[0m
+2016-10-20 15:29:06: [0mGET /javascripts/vue.js [36m304 [0m5.741 ms - -[0m
+2016-10-20 15:29:09: [0mGET /javascripts/hammer.js [36m304 [0m5.464 ms - -[0m
+2016-10-20 15:29:09: [0mGET /javascripts/socket.io.js [36m304 [0m8.177 ms - -[0m
+2016-10-20 15:29:10: [0mGET /javascripts/vueTouch.js [36m304 [0m6.743 ms - -[0m
+2016-10-20 15:29:50: undefined
+2016-10-20 15:29:50: [0mGET /room/1476946199360 [32m200 [0m8.610 ms - 8931[0m
+2016-10-20 15:29:55: [0mGET /stylesheets/style.css [36m304 [0m1.017 ms - -[0m
+2016-10-20 15:29:56: [0mGET /javascripts/vue.js [36m304 [0m1.128 ms - -[0m
+2016-10-20 15:29:56: [0mGET /javascripts/socket.io.js [36m304 [0m1.590 ms - -[0m
+2016-10-20 15:29:57: [0mGET /javascripts/hammer.js [36m304 [0m1.545 ms - -[0m
+2016-10-20 15:29:57: [0mGET /javascripts/vueTouch.js [36m304 [0m1.525 ms - -[0m
+2016-10-20 15:29:10: undefined
+2016-10-20 15:29:12: [0mGET /room/1476946199360 [32m200 [0m25.200 ms - 8931[0m
+2016-10-20 15:29:15: [0mGET /stylesheets/style.css [32m200 [0m3.277 ms - 244[0m
+2016-10-20 15:29:16: [0mGET /javascripts/vue.js [36m304 [0m0.949 ms - -[0m
+2016-10-20 15:29:16: [0mGET /javascripts/socket.io.js [36m304 [0m0.596 ms - -[0m
+2016-10-20 15:29:20: [0mGET /javascripts/hammer.js [36m304 [0m5.664 ms - -[0m
+2016-10-20 15:29:20: [0mGET /javascripts/vueTouch.js [36m304 [0m5.648 ms - -[0m
+2016-10-20 15:30:31: undefined
+2016-10-20 15:30:34: [0mGET /room/1476946199360 [32m200 [0m30.022 ms - 8931[0m
+2016-10-20 15:30:46: [0mGET /javascripts/vue.js [36m304 [0m3.218 ms - -[0m
+2016-10-20 15:30:55: [0mGET /javascripts/socket.io.js [36m304 [0m5.590 ms - -[0m
+2016-10-20 15:30:55: [0mGET /stylesheets/style.css [32m200 [0m7.188 ms - 266[0m
+2016-10-20 15:30:57: [0mGET /javascripts/hammer.js [36m304 [0m5.535 ms - -[0m
+2016-10-20 15:30:57: [0mGET /javascripts/vueTouch.js [36m304 [0m5.546 ms - -[0m
+2016-10-20 15:30:54: undefined
+2016-10-20 15:30:58: [0mGET /room/1476946199360 [32m200 [0m39.796 ms - 8931[0m
+2016-10-20 15:30:62: [0mGET /stylesheets/style.css [32m200 [0m2.674 ms - 267[0m
+2016-10-20 15:30:62: [0mGET /javascripts/vue.js [36m304 [0m1.374 ms - -[0m
+2016-10-20 15:30:66: [0mGET /javascripts/socket.io.js [36m304 [0m10.837 ms - -[0m
+2016-10-20 15:30:67: [0mGET /javascripts/vueTouch.js [36m304 [0m8.539 ms - -[0m
+2016-10-20 15:30:67: [0mGET /javascripts/hammer.js [36m304 [0m9.148 ms - -[0m
+2016-10-20 15:31:06: undefined
+2016-10-20 15:31:09: [0mGET /room/1476946199360 [32m200 [0m29.762 ms - 8931[0m
+2016-10-20 15:31:14: [0mGET /stylesheets/style.css [32m200 [0m4.611 ms - 267[0m
+2016-10-20 15:31:16: [0mGET /javascripts/vue.js [36m304 [0m6.195 ms - -[0m
+2016-10-20 15:31:17: [0mGET /javascripts/socket.io.js [36m304 [0m5.600 ms - -[0m
+2016-10-20 15:31:19: [0mGET /javascripts/hammer.js [36m304 [0m5.502 ms - -[0m
+2016-10-20 15:31:20: [0mGET /javascripts/vueTouch.js [36m304 [0m5.480 ms - -[0m
+2016-10-20 15:31:41: undefined
+2016-10-20 15:31:44: [0mGET /room/1476946199360 [32m200 [0m31.069 ms - 8931[0m
+2016-10-20 15:31:50: [0mGET /stylesheets/style.css [32m200 [0m5.673 ms - 267[0m
+2016-10-20 15:31:58: [0mGET /javascripts/hammer.js [36m304 [0m6.323 ms - -[0m
+2016-10-20 15:31:58: [0mGET /javascripts/socket.io.js [36m304 [0m8.403 ms - -[0m
+2016-10-20 15:31:58: [0mGET /javascripts/vue.js [36m304 [0m9.315 ms - -[0m
+2016-10-20 15:31:60: [0mGET /javascripts/vueTouch.js [36m304 [0m6.757 ms - -[0m
+2016-10-20 15:32:55: undefined
+2016-10-20 15:32:60: [0mGET /room/1476946199360 [32m200 [0m44.723 ms - 8931[0m
+2016-10-20 15:32:65: [0mGET /javascripts/socket.io.js [36m304 [0m4.265 ms - -[0m
+2016-10-20 15:32:70: [0mGET /javascripts/vue.js [36m304 [0m9.150 ms - -[0m
+2016-10-20 15:32:70: [0mGET /stylesheets/style.css [32m200 [0m13.347 ms - 267[0m
+2016-10-20 15:32:71: [0mGET /javascripts/hammer.js [36m304 [0m10.819 ms - -[0m
+2016-10-20 15:32:73: [0mGET /javascripts/vueTouch.js [36m304 [0m10.533 ms - -[0m
+2016-10-20 15:41:62: undefined
+2016-10-20 15:41:64: [0mGET /room/1476946199360 [32m200 [0m34.059 ms - 8931[0m
+2016-10-20 15:41:73: [0mGET /javascripts/vue.js [36m304 [0m17.578 ms - -[0m
+2016-10-20 15:41:74: [0mGET /javascripts/socket.io.js [36m304 [0m11.817 ms - -[0m
+2016-10-20 15:41:75: [0mGET /stylesheets/style.css [32m200 [0m19.030 ms - 287[0m
+2016-10-20 15:41:75: [0mGET /javascripts/hammer.js [36m304 [0m20.058 ms - -[0m
+2016-10-20 15:41:76: [0mGET /javascripts/vueTouch.js [36m304 [0m13.968 ms - -[0m
+2016-10-20 15:42:59: undefined
+2016-10-20 15:42:64: [0mGET /room/1476946199360 [32m200 [0m63.371 ms - 8931[0m
+2016-10-20 15:42:74: [0mGET /javascripts/socket.io.js [36m304 [0m13.020 ms - -[0m
+2016-10-20 15:42:75: [0mGET /javascripts/vue.js [36m304 [0m15.464 ms - -[0m
+2016-10-20 15:42:75: [0mGET /javascripts/hammer.js [36m304 [0m12.591 ms - -[0m
+2016-10-20 15:42:76: [0mGET /stylesheets/style.css [32m200 [0m20.575 ms - 314[0m
+2016-10-20 15:42:79: [0mGET /javascripts/vueTouch.js [36m304 [0m9.865 ms - -[0m
+2016-10-20 15:43:49: undefined
+2016-10-20 15:43:53: [0mGET /room/1476946199360 [32m200 [0m48.935 ms - 8931[0m
+2016-10-20 15:43:56: [0mGET /stylesheets/style.css [36m304 [0m0.776 ms - -[0m
+2016-10-20 15:43:57: [0mGET /javascripts/socket.io.js [36m304 [0m0.490 ms - -[0m
+2016-10-20 15:43:59: [0mGET /javascripts/vue.js [36m304 [0m3.183 ms - -[0m
+2016-10-20 15:43:60: [0mGET /javascripts/hammer.js [36m304 [0m3.807 ms - -[0m
+2016-10-20 15:43:62: [0mGET /javascripts/vueTouch.js [36m304 [0m7.298 ms - -[0m
+2016-10-20 15:43:37: undefined
+2016-10-20 15:43:41: [0mGET /room/1476946199360 [32m200 [0m41.184 ms - 8931[0m
+2016-10-20 15:43:50: [0mGET /stylesheets/style.css [32m200 [0m2.859 ms - 314[0m
+2016-10-20 15:43:51: [0mGET /javascripts/vue.js [36m304 [0m1.297 ms - -[0m
+2016-10-20 15:43:55: [0mGET /javascripts/socket.io.js [36m304 [0m11.791 ms - -[0m
+2016-10-20 15:43:59: [0mGET /javascripts/vueTouch.js [36m304 [0m11.201 ms - -[0m
+2016-10-20 15:43:59: [0mGET /javascripts/hammer.js [36m304 [0m13.386 ms - -[0m
+2016-10-20 15:44:68: undefined
+2016-10-20 15:44:71: [0mGET /room/1476946199360 [32m200 [0m32.740 ms - 8931[0m
+2016-10-20 15:44:79: [0mGET /stylesheets/style.css [32m200 [0m9.779 ms - 314[0m
+2016-10-20 15:44:87: [0mGET /javascripts/vue.js [36m304 [0m19.857 ms - -[0m
+2016-10-20 15:44:88: [0mGET /javascripts/hammer.js [36m304 [0m9.497 ms - -[0m
+2016-10-20 15:44:88: [0mGET /javascripts/socket.io.js [36m304 [0m13.110 ms - -[0m
+2016-10-20 15:44:89: [0mGET /javascripts/vueTouch.js [36m304 [0m12.692 ms - -[0m
+2016-10-20 15:44:19: [0mGET /javascripts/hammer.min.js.map [33m404 [0m61.391 ms - 1465[0m
+2016-10-20 15:44:79: undefined
+2016-10-20 15:44:81: [0mGET /room/1476946199360 [32m200 [0m26.768 ms - 8867[0m
+2016-10-20 15:44:86: [0mGET /javascripts/vue.js [36m304 [0m5.194 ms - -[0m
+2016-10-20 15:44:91: [0mGET /stylesheets/style.css [36m304 [0m2.213 ms - -[0m
+2016-10-20 15:44:98: [0mGET /javascripts/socket.io.js [36m304 [0m13.479 ms - -[0m
+2016-10-20 15:44:98: [0mGET /javascripts/vueTouch.js [36m304 [0m12.754 ms - -[0m
+2016-10-20 15:44:97: [0mGET /javascripts/hammer.js [36m304 [0m54.090 ms - -[0m
+2016-10-20 15:44:27: [0mGET /javascripts/hammer.min.js.map [33m404 [0m40.033 ms - 1465[0m
+2016-10-20 15:45:83: undefined
+2016-10-20 15:45:86: [0mGET /room/1476946199360 [32m200 [0m34.118 ms - 8867[0m
+2016-10-20 15:45:89: [0mGET /stylesheets/style.css [32m200 [0m4.500 ms - 314[0m
+2016-10-20 15:45:93: [0mGET /javascripts/vue.js [36m304 [0m8.889 ms - -[0m
+2016-10-20 15:45:96: [0mGET /javascripts/hammer.js [36m304 [0m9.201 ms - -[0m
+2016-10-20 15:45:96: [0mGET /javascripts/vueTouch.js [36m304 [0m9.617 ms - -[0m
+2016-10-20 15:45:96: [0mGET /javascripts/socket.io.js [36m304 [0m11.624 ms - -[0m
+2016-10-20 15:46:30: undefined
+2016-10-20 15:46:34: [0mGET /room/1476946199360 [32m200 [0m42.766 ms - 8867[0m
+2016-10-20 15:46:42: [0mGET /stylesheets/style.css [36m304 [0m8.514 ms - -[0m
+2016-10-20 15:46:44: [0mGET /javascripts/vue.js [36m304 [0m8.465 ms - -[0m
+2016-10-20 15:46:44: [0mGET /javascripts/socket.io.js [36m304 [0m9.036 ms - -[0m
+2016-10-20 15:46:44: [0mGET /javascripts/hammer.js [36m304 [0m8.594 ms - -[0m
+2016-10-20 15:46:45: [0mGET /javascripts/vueTouch.js [36m304 [0m7.649 ms - -[0m
+2016-10-20 15:46:36: undefined
+2016-10-20 15:46:37: [0mGET /room/1476946199360 [32m200 [0m8.336 ms - 8867[0m
+2016-10-20 15:46:41: [0mGET /stylesheets/style.css [36m304 [0m3.680 ms - -[0m
+2016-10-20 15:46:42: [0mGET /javascripts/vue.js [36m304 [0m1.369 ms - -[0m
+2016-10-20 15:46:42: [0mGET /javascripts/socket.io.js [36m304 [0m1.447 ms - -[0m
+2016-10-20 15:46:42: [0mGET /javascripts/hammer.js [36m304 [0m1.233 ms - -[0m
+2016-10-20 15:46:43: [0mGET /javascripts/vueTouch.js [36m304 [0m1.368 ms - -[0m
+2016-10-20 15:47:40: undefined
+2016-10-20 15:47:40: [0mGET /room/1476946199360 [32m200 [0m5.072 ms - 8867[0m
+2016-10-20 15:47:52: [0mGET /stylesheets/style.css [36m304 [0m0.756 ms - -[0m
+2016-10-20 15:47:53: [0mGET /javascripts/vue.js [36m304 [0m1.021 ms - -[0m
+2016-10-20 15:47:53: [0mGET /javascripts/socket.io.js [36m304 [0m0.588 ms - -[0m
+2016-10-20 15:47:55: [0mGET /javascripts/hammer.js [36m304 [0m0.305 ms - -[0m
+2016-10-20 15:47:55: [0mGET /javascripts/vueTouch.js [36m304 [0m0.231 ms - -[0m
+2016-10-20 15:47:69: undefined
+2016-10-20 15:47:75: [0mGET /room/1476946199360 [32m200 [0m64.542 ms - 8867[0m
+2016-10-20 15:47:81: [0mGET /stylesheets/style.css [36m304 [0m8.005 ms - -[0m
+2016-10-20 15:47:83: [0mGET /javascripts/vue.js [36m304 [0m9.090 ms - -[0m
+2016-10-20 15:47:83: [0mGET /javascripts/socket.io.js [36m304 [0m9.265 ms - -[0m
+2016-10-20 15:47:84: [0mGET /javascripts/hammer.js [36m304 [0m9.362 ms - -[0m
+2016-10-20 15:47:86: [0mGET /javascripts/vueTouch.js [36m304 [0m9.961 ms - -[0m
+2016-10-20 15:52:33: undefined
+2016-10-20 15:52:36: [0mGET /room/1476946199360 [32m200 [0m33.609 ms - 8896[0m
+2016-10-20 15:52:39: [0mGET /stylesheets/style.css [36m304 [0m2.341 ms - -[0m
+2016-10-20 15:52:44: [0mGET /javascripts/vue.js [36m304 [0m9.326 ms - -[0m
+2016-10-20 15:52:44: [0mGET /javascripts/hammer.js [36m304 [0m10.293 ms - -[0m
+2016-10-20 15:52:44: [0mGET /javascripts/vueTouch.js [36m304 [0m9.784 ms - -[0m
+2016-10-20 15:52:45: [0mGET /javascripts/socket.io.js [36m304 [0m10.605 ms - -[0m
+2016-10-20 15:53:38: [0mGET / [32m200 [0m26.212 ms - 876[0m
+2016-10-20 15:53:40: [0mGET /stylesheets/style.css [32m200 [0m11.202 ms - 314[0m
+2016-10-20 15:53:40: [0mGET /javascripts/vue.js [36m304 [0m8.434 ms - -[0m
+2016-10-20 15:53:41: [0mGET /images/draw.png [36m304 [0m3.831 ms - -[0m
+2016-10-20 15:53:21: undefined
+2016-10-20 15:53:22: [0mGET /room/1476950023606 [32m200 [0m11.938 ms - 8896[0m
+2016-10-20 15:53:24: [0mGET /stylesheets/style.css [36m304 [0m0.808 ms - -[0m
+2016-10-20 15:53:25: [0mGET /javascripts/vue.js [36m304 [0m2.224 ms - -[0m
+2016-10-20 15:53:26: [0mGET /javascripts/hammer.js [36m304 [0m1.977 ms - -[0m
+2016-10-20 15:53:28: [0mGET /javascripts/vueTouch.js [36m304 [0m4.148 ms - -[0m
+2016-10-20 15:53:31: [0mGET /javascripts/socket.io.js [36m304 [0m46.119 ms - -[0m
+2016-10-20 15:53:46: [0mGET /stylesheets/style.css [36m304 [0m2.027 ms - -[0m
+2016-10-20 15:53:65: [0mGET /javascripts/hammer.min.js.map [33m404 [0m69.749 ms - 1465[0m
+2016-10-20 15:56:79: undefined
+2016-10-20 15:56:83: [0mGET /room/1476946199360 [32m200 [0m32.448 ms - 8896[0m
+2016-10-20 15:56:85: [0mGET /stylesheets/style.css [32m200 [0m3.927 ms - 327[0m
+2016-10-20 15:56:88: [0mGET /javascripts/vue.js [36m304 [0m10.284 ms - -[0m
+2016-10-20 15:56:89: [0mGET /javascripts/socket.io.js [36m304 [0m11.460 ms - -[0m
+2016-10-20 15:56:90: [0mGET /javascripts/hammer.js [36m304 [0m16.365 ms - -[0m
+2016-10-20 15:56:90: [0mGET /javascripts/vueTouch.js [36m304 [0m11.846 ms - -[0m
+2016-10-20 15:57:51: undefined
+2016-10-20 15:57:54: [0mGET /room/1476946199360 [32m200 [0m36.295 ms - 8902[0m
+2016-10-20 15:57:57: [0mGET /stylesheets/style.css [36m304 [0m2.977 ms - -[0m
+2016-10-20 15:57:60: [0mGET /javascripts/vue.js [36m304 [0m8.581 ms - -[0m
+2016-10-20 15:57:60: [0mGET /javascripts/socket.io.js [36m304 [0m8.421 ms - -[0m
+2016-10-20 15:57:61: [0mGET /javascripts/vueTouch.js [36m304 [0m8.412 ms - -[0m
+2016-10-20 15:57:61: [0mGET /javascripts/hammer.js [36m304 [0m9.126 ms - -[0m
+2016-10-20 15:58:28: undefined
+2016-10-20 15:58:32: [0mGET /room/1476946199360 [32m200 [0m37.367 ms - 8902[0m
+2016-10-20 15:58:36: [0mGET /stylesheets/style.css [32m200 [0m4.037 ms - 341[0m
+2016-10-20 15:58:40: [0mGET /javascripts/socket.io.js [36m304 [0m8.955 ms - -[0m
+2016-10-20 15:58:40: [0mGET /javascripts/hammer.js [36m304 [0m10.382 ms - -[0m
+2016-10-20 15:58:41: [0mGET /javascripts/vue.js [36m304 [0m10.439 ms - -[0m
+2016-10-20 15:58:41: [0mGET /javascripts/vueTouch.js [36m304 [0m17.659 ms - -[0m
+2016-10-20 15:58:07: undefined
+2016-10-20 15:58:10: [0mGET /room/1476946199360 [32m200 [0m32.125 ms - 8902[0m
+2016-10-20 15:58:15: [0mGET /stylesheets/style.css [32m200 [0m4.406 ms - 327[0m
+2016-10-20 15:58:17: [0mGET /javascripts/vue.js [36m304 [0m9.021 ms - -[0m
+2016-10-20 15:58:18: [0mGET /javascripts/socket.io.js [36m304 [0m8.657 ms - -[0m
+2016-10-20 15:58:18: [0mGET /javascripts/hammer.js [36m304 [0m9.081 ms - -[0m
+2016-10-20 15:58:19: [0mGET /javascripts/vueTouch.js [36m304 [0m9.094 ms - -[0m
+2016-10-20 15:59:63: undefined
+2016-10-20 15:59:68: [0mGET /room/1476946199360 [32m200 [0m55.032 ms - 8926[0m
+2016-10-20 15:59:82: [0mGET /javascripts/hammer.js [36m304 [0m9.750 ms - -[0m
+2016-10-20 15:59:82: [0mGET /javascripts/vue.js [36m304 [0m10.276 ms - -[0m
+2016-10-20 15:59:82: [0mGET /javascripts/socket.io.js [36m304 [0m9.079 ms - -[0m
+2016-10-20 15:59:83: [0mGET /stylesheets/style.css [36m304 [0m42.646 ms - -[0m
+2016-10-20 15:59:84: [0mGET /javascripts/vueTouch.js [36m304 [0m8.322 ms - -[0m
+2016-10-20 16:00:07: undefined
+2016-10-20 16:00:13: [0mGET /room/1476946199360 [32m200 [0m55.303 ms - 8902[0m
+2016-10-20 16:00:17: [0mGET /javascripts/socket.io.js [36m304 [0m3.912 ms - -[0m
+2016-10-20 16:00:19: [0mGET /stylesheets/style.css [36m304 [0m8.967 ms - -[0m
+2016-10-20 16:00:19: [0mGET /javascripts/vue.js [36m304 [0m9.021 ms - -[0m
+2016-10-20 16:00:21: [0mGET /javascripts/hammer.js [36m304 [0m9.635 ms - -[0m
+2016-10-20 16:00:21: [0mGET /javascripts/vueTouch.js [36m304 [0m11.269 ms - -[0m
+2016-10-20 16:00:03: undefined
+2016-10-20 16:00:08: [0mGET /room/1476946199360 [32m200 [0m57.062 ms - 8902[0m
+2016-10-20 16:00:15: [0mGET /javascripts/vue.js [36m304 [0m9.489 ms - -[0m
+2016-10-20 16:00:15: [0mGET /javascripts/socket.io.js [36m304 [0m8.920 ms - -[0m
+2016-10-20 16:00:16: [0mGET /javascripts/hammer.js [36m304 [0m11.964 ms - -[0m
+2016-10-20 16:00:16: [0mGET /stylesheets/style.css [32m200 [0m11.846 ms - 358[0m
+2016-10-20 16:00:18: [0mGET /javascripts/vueTouch.js [36m304 [0m11.451 ms - -[0m
+2016-10-20 16:06:10: undefined
+2016-10-20 16:06:14: [0mGET /room/1476946199360 [32m200 [0m40.256 ms - 8884[0m
+2016-10-20 16:06:17: [0mGET /stylesheets/style.css [36m304 [0m3.602 ms - -[0m
+2016-10-20 16:06:23: [0mGET /javascripts/vue.js [36m304 [0m16.396 ms - -[0m
+2016-10-20 16:06:24: [0mGET /javascripts/hammer.js [36m304 [0m17.069 ms - -[0m
+2016-10-20 16:06:25: [0mGET /javascripts/socket.io.js [36m304 [0m19.950 ms - -[0m
+2016-10-20 16:06:24: [0mGET /javascripts/vueTouch.js [36m304 [0m18.256 ms - -[0m
+2016-10-20 16:11:28: undefined
+2016-10-20 16:11:33: [0mGET /room/1476946199360 [32m200 [0m48.352 ms - 8884[0m
+2016-10-20 16:11:38: [0mGET /stylesheets/style.css [32m200 [0m3.620 ms - 369[0m
+2016-10-20 16:11:44: [0mGET /javascripts/socket.io.js [36m304 [0m23.441 ms - -[0m
+2016-10-20 16:11:44: [0mGET /javascripts/hammer.js [36m304 [0m22.501 ms - -[0m
+2016-10-20 16:11:43: [0mGET /javascripts/vue.js [36m304 [0m11.003 ms - -[0m
+2016-10-20 16:11:45: [0mGET /javascripts/vueTouch.js [36m304 [0m17.725 ms - -[0m
+2016-10-20 16:12:42: undefined
+2016-10-20 16:12:45: [0mGET /room/1476946199360 [32m200 [0m32.782 ms - 8884[0m
+2016-10-20 16:12:50: [0mGET /stylesheets/style.css [32m200 [0m5.076 ms - 387[0m
+2016-10-20 16:12:53: [0mGET /javascripts/vue.js [36m304 [0m11.248 ms - -[0m
+2016-10-20 16:12:54: [0mGET /javascripts/socket.io.js [36m304 [0m9.087 ms - -[0m
+2016-10-20 16:12:54: [0mGET /javascripts/hammer.js [36m304 [0m8.944 ms - -[0m
+2016-10-20 16:12:54: [0mGET /javascripts/vueTouch.js [36m304 [0m10.537 ms - -[0m
+2016-10-20 16:14:09: undefined
+2016-10-20 16:14:13: [0mGET /room/1476946199360 [32m200 [0m38.751 ms - 8884[0m
+2016-10-20 16:14:16: [0mGET /stylesheets/style.css [32m200 [0m4.927 ms - 409[0m
+2016-10-20 16:14:20: [0mGET /javascripts/vue.js [36m304 [0m9.601 ms - -[0m
+2016-10-20 16:14:20: [0mGET /javascripts/socket.io.js [36m304 [0m8.721 ms - -[0m
+2016-10-20 16:14:20: [0mGET /javascripts/hammer.js [36m304 [0m8.542 ms - -[0m
+2016-10-20 16:14:21: [0mGET /javascripts/vueTouch.js [36m304 [0m13.079 ms - -[0m
+2016-10-20 16:14:20: undefined
+2016-10-20 16:14:21: [0mGET /room/1476946199360 [32m200 [0m9.213 ms - 8884[0m
+2016-10-20 16:14:34: [0mGET /stylesheets/style.css [32m200 [0m1.594 ms - 434[0m
+2016-10-20 16:14:34: [0mGET /javascripts/vue.js [36m304 [0m1.204 ms - -[0m
+2016-10-20 16:14:35: [0mGET /javascripts/socket.io.js [36m304 [0m1.193 ms - -[0m
+2016-10-20 16:14:36: [0mGET /javascripts/hammer.js [36m304 [0m1.133 ms - -[0m
+2016-10-20 16:14:38: [0mGET /javascripts/vueTouch.js [36m304 [0m1.402 ms - -[0m
+2016-10-20 16:15:76: undefined
+2016-10-20 16:15:80: [0mGET /room/1476946199360 [32m200 [0m51.731 ms - 8884[0m
+2016-10-20 16:15:86: [0mGET /stylesheets/style.css [32m200 [0m6.199 ms - 434[0m
+2016-10-20 16:15:89: [0mGET /javascripts/socket.io.js [36m304 [0m10.247 ms - -[0m
+2016-10-20 16:15:89: [0mGET /javascripts/vue.js [36m304 [0m10.564 ms - -[0m
+2016-10-20 16:15:91: [0mGET /javascripts/hammer.js [36m304 [0m9.830 ms - -[0m
+2016-10-20 16:15:93: [0mGET /javascripts/vueTouch.js [36m304 [0m11.033 ms - -[0m
+2016-10-20 16:16:66: undefined
+2016-10-20 16:16:71: [0mGET /room/1476946199360 [32m200 [0m52.771 ms - 8910[0m
+2016-10-20 16:16:75: [0mGET /stylesheets/style.css [32m200 [0m7.295 ms - 446[0m
+2016-10-20 16:16:80: [0mGET /javascripts/socket.io.js [36m304 [0m9.501 ms - -[0m
+2016-10-20 16:16:80: [0mGET /javascripts/vue.js [36m304 [0m13.069 ms - -[0m
+2016-10-20 16:16:82: [0mGET /javascripts/hammer.js [36m304 [0m12.606 ms - -[0m
+2016-10-20 16:16:85: [0mGET /javascripts/vueTouch.js [36m304 [0m9.642 ms - -[0m
+2016-10-20 16:16:10: undefined
+2016-10-20 16:16:12: [0mGET /room/1476946199360 [32m200 [0m28.382 ms - 8910[0m
+2016-10-20 16:16:15: [0mGET /javascripts/vue.js [36m304 [0m1.177 ms - -[0m
+2016-10-20 16:16:15: [0mGET /stylesheets/style.css [32m200 [0m3.229 ms - 464[0m
+2016-10-20 16:16:18: [0mGET /javascripts/socket.io.js [36m304 [0m0.764 ms - -[0m
+2016-10-20 16:16:18: [0mGET /javascripts/hammer.js [36m304 [0m0.629 ms - -[0m
+2016-10-20 16:16:20: [0mGET /javascripts/vueTouch.js [36m304 [0m7.676 ms - -[0m
+2016-10-20 16:16:09: undefined
+2016-10-20 16:16:14: [0mGET /room/1476946199360 [32m200 [0m47.752 ms - 8910[0m
+2016-10-20 16:16:18: [0mGET /stylesheets/style.css [32m200 [0m7.443 ms - 464[0m
+2016-10-20 16:16:21: [0mGET /javascripts/vue.js [36m304 [0m9.084 ms - -[0m
+2016-10-20 16:16:22: [0mGET /javascripts/hammer.js [36m304 [0m9.055 ms - -[0m
+2016-10-20 16:16:22: [0mGET /javascripts/socket.io.js [36m304 [0m9.586 ms - -[0m
+2016-10-20 16:16:25: [0mGET /javascripts/vueTouch.js [36m304 [0m11.348 ms - -[0m
+2016-10-20 16:17:08: undefined
+2016-10-20 16:17:11: [0mGET /room/1476946199360 [32m200 [0m25.507 ms - 8910[0m
+2016-10-20 16:17:14: [0mGET /stylesheets/style.css [32m200 [0m3.430 ms - 464[0m
+2016-10-20 16:17:17: [0mGET /javascripts/socket.io.js [36m304 [0m1.056 ms - -[0m
+2016-10-20 16:17:17: [0mGET /javascripts/hammer.js [36m304 [0m0.991 ms - -[0m
+2016-10-20 16:17:20: [0mGET /javascripts/vue.js [36m304 [0m8.098 ms - -[0m
+2016-10-20 16:17:20: [0mGET /javascripts/vueTouch.js [36m304 [0m6.808 ms - -[0m
+2016-10-20 16:17:63: undefined
+2016-10-20 16:17:67: [0mGET /room/1476946199360 [32m200 [0m46.983 ms - 8910[0m
+2016-10-20 16:17:73: [0mGET /stylesheets/style.css [32m200 [0m6.681 ms - 476[0m
+2016-10-20 16:17:75: [0mGET /javascripts/socket.io.js [36m304 [0m9.161 ms - -[0m
+2016-10-20 16:17:75: [0mGET /javascripts/vue.js [36m304 [0m9.907 ms - -[0m
+2016-10-20 16:17:77: [0mGET /javascripts/hammer.js [36m304 [0m13.717 ms - -[0m
+2016-10-20 16:17:79: [0mGET /javascripts/vueTouch.js [36m304 [0m9.893 ms - -[0m
+2016-10-20 16:18:67: undefined
+2016-10-20 16:18:72: [0mGET /room/1476946199360 [32m200 [0m59.682 ms - 8910[0m
+2016-10-20 16:18:77: [0mGET /stylesheets/style.css [32m200 [0m6.743 ms - 495[0m
+2016-10-20 16:18:79: [0mGET /javascripts/vue.js [36m304 [0m9.319 ms - -[0m
+2016-10-20 16:18:81: [0mGET /javascripts/socket.io.js [36m304 [0m15.491 ms - -[0m
+2016-10-20 16:18:82: [0mGET /javascripts/hammer.js [36m304 [0m12.879 ms - -[0m
+2016-10-20 16:18:86: [0mGET /javascripts/vueTouch.js [36m304 [0m12.255 ms - -[0m
+2016-10-20 16:23:91: undefined
+2016-10-20 16:23:94: [0mGET /room/1476946199360 [32m200 [0m32.694 ms - 8910[0m
+2016-10-20 16:23:01: [0mGET /javascripts/vueTouch.js [36m304 [0m3.605 ms - -[0m
+2016-10-20 16:23:04: [0mGET /javascripts/vue.js [36m304 [0m18.024 ms - -[0m
+2016-10-20 16:23:05: [0mGET /stylesheets/style.css [32m200 [0m14.855 ms - 535[0m
+2016-10-20 16:23:04: [0mGET /javascripts/socket.io.js [36m304 [0m12.518 ms - -[0m
+2016-10-20 16:23:05: [0mGET /javascripts/hammer.js [36m304 [0m11.361 ms - -[0m
+2016-10-20 16:26:29: undefined
+2016-10-20 16:26:32: [0mGET /room/1476946199360 [32m200 [0m35.911 ms - 8971[0m
+2016-10-20 16:26:37: [0mGET /stylesheets/style.css [36m304 [0m2.817 ms - -[0m
+2016-10-20 16:26:46: [0mGET /javascripts/hammer.js [36m304 [0m8.630 ms - -[0m
+2016-10-20 16:26:47: [0mGET /javascripts/vueTouch.js [36m304 [0m8.289 ms - -[0m
+2016-10-20 16:26:47: [0mGET /javascripts/vue.js [36m304 [0m9.126 ms - -[0m
+2016-10-20 16:26:47: [0mGET /javascripts/socket.io.js [36m304 [0m8.629 ms - -[0m
+2016-10-20 16:27:95: undefined
+2016-10-20 16:27:98: [0mGET /room/1476946199360 [32m200 [0m38.244 ms - 8971[0m
+2016-10-20 16:27:01: [0mGET /stylesheets/style.css [32m200 [0m9.650 ms - 535[0m
+2016-10-20 16:27:02: [0mGET /javascripts/vue.js [36m304 [0m10.400 ms - -[0m
+2016-10-20 16:27:17: [0mGET /javascripts/socket.io.js [36m304 [0m3.432 ms - -[0m
+2016-10-20 16:27:18: [0mGET /javascripts/hammer.js [36m304 [0m1.157 ms - -[0m
+2016-10-20 16:27:19: [0mGET /javascripts/vueTouch.js [36m304 [0m10.876 ms - -[0m
+2016-10-20 16:27:92: [0mGET /stylesheets/style.css [36m304 [0m4.920 ms - -[0m
+2016-10-20 16:27:03: [0mGET /javascripts/hammer.min.js.map [33m404 [0m25.239 ms - 1465[0m
+2016-10-20 16:28:56: undefined
+2016-10-20 16:28:57: [0mGET /room/1476946199360 [32m200 [0m9.792 ms - 8871[0m
+2016-10-20 16:28:60: [0mGET /stylesheets/style.css [36m304 [0m0.654 ms - -[0m
+2016-10-20 16:28:62: [0mGET /javascripts/socket.io.js [36m304 [0m0.506 ms - -[0m
+2016-10-20 16:28:63: [0mGET /javascripts/vue.js [36m304 [0m2.692 ms - -[0m
+2016-10-20 16:28:36: undefined
+2016-10-20 16:28:39: [0mGET /room/1476946199360 [36m304 [0m33.459 ms - -[0m
+2016-10-20 16:28:44: [0mGET /stylesheets/style.css [36m304 [0m8.817 ms - -[0m
+2016-10-20 16:28:48: [0mGET /javascripts/vue.js [36m304 [0m13.763 ms - -[0m
+2016-10-20 16:28:48: [0mGET /javascripts/socket.io.js [36m304 [0m11.322 ms - -[0m
+2016-10-20 16:32:96: undefined
+2016-10-20 16:32:00: [0mGET /room/1476946199360 [32m200 [0m35.347 ms - 8871[0m
+2016-10-20 16:32:03: [0mGET /stylesheets/style.css [36m304 [0m2.698 ms - -[0m
+2016-10-20 16:32:07: [0mGET /javascripts/socket.io.js [36m304 [0m5.906 ms - -[0m
+2016-10-20 16:32:07: [0mGET /javascripts/vue.js [36m304 [0m5.913 ms - -[0m
+2016-10-20 16:32:45: undefined
+2016-10-20 16:32:46: [0mGET /room/1476946199360 [32m200 [0m7.801 ms - 8871[0m
+2016-10-20 16:32:58: [0mGET /stylesheets/style.css [36m304 [0m0.668 ms - -[0m
+2016-10-20 16:32:58: [0mGET /javascripts/vue.js [36m304 [0m1.567 ms - -[0m
+2016-10-20 16:32:59: [0mGET /javascripts/socket.io.js [36m304 [0m1.171 ms - -[0m
+2016-10-20 16:32:64: undefined
+2016-10-20 16:32:68: [0mGET /room/1476946199360 [36m304 [0m33.413 ms - -[0m
+2016-10-20 16:32:68: [0mGET /javascripts/socket.io.js [36m304 [0m0.976 ms - -[0m
+2016-10-20 16:32:69: [0mGET /stylesheets/style.css [36m304 [0m4.906 ms - -[0m
+2016-10-20 16:32:70: [0mGET /javascripts/vue.js [36m304 [0m9.001 ms - -[0m
+2016-10-20 16:33:11: [0mGET /stylesheets/style.css [36m304 [0m3.066 ms - -[0m
+2016-10-20 16:42:66: undefined
+2016-10-20 16:42:68: [0mGET /room/1476946199360 [32m200 [0m28.071 ms - 8871[0m
+2016-10-20 16:42:74: [0mGET /stylesheets/style.css [32m200 [0m5.300 ms - 535[0m
+2016-10-20 16:42:76: [0mGET /javascripts/vue.js [36m304 [0m1.753 ms - -[0m
+2016-10-20 16:42:76: [0mGET /javascripts/socket.io.js [36m304 [0m1.619 ms - -[0m
+2016-10-20 17:00:18: undefined
+2016-10-20 17:00:22: [0mGET /room/1476946199360 [32m200 [0m33.372 ms - 8903[0m
+2016-10-20 17:00:26: [0mGET /stylesheets/style.css [36m304 [0m4.190 ms - -[0m
+2016-10-20 17:00:28: [0mGET /javascripts/vue.js [36m304 [0m5.558 ms - -[0m
+2016-10-20 17:00:28: [0mGET /javascripts/socket.io.js [36m304 [0m5.426 ms - -[0m
+2016-10-20 17:01:13: undefined
+2016-10-20 17:01:18: [0mGET /room/1476946199360 [32m200 [0m54.183 ms - 8903[0m
+2016-10-20 17:01:24: [0mGET /stylesheets/style.css [32m200 [0m6.182 ms - 602[0m
+2016-10-20 17:01:26: [0mGET /javascripts/vue.js [36m304 [0m8.922 ms - -[0m
+2016-10-20 17:01:26: [0mGET /javascripts/socket.io.js [36m304 [0m10.258 ms - -[0m
+2016-10-20 17:01:09: undefined
+2016-10-20 17:01:13: [0mGET /room/1476946199360 [32m200 [0m37.966 ms - 8870[0m
+2016-10-20 17:01:17: [0mGET /stylesheets/style.css [36m304 [0m2.620 ms - -[0m
+2016-10-20 17:01:20: [0mGET /javascripts/vue.js [36m304 [0m9.553 ms - -[0m
+2016-10-20 17:01:20: [0mGET /javascripts/socket.io.js [36m304 [0m9.219 ms - -[0m
+2016-10-20 17:02:51: undefined
+2016-10-20 17:02:54: [0mGET /room/1476946199360 [32m200 [0m34.661 ms - 8885[0m
+2016-10-20 17:02:61: [0mGET /javascripts/vue.js [36m304 [0m7.948 ms - -[0m
+2016-10-20 17:02:61: [0mGET /stylesheets/style.css [32m200 [0m7.574 ms - 637[0m
+2016-10-20 17:02:62: [0mGET /javascripts/socket.io.js [36m304 [0m8.836 ms - -[0m
+2016-10-20 17:03:59: undefined
+2016-10-20 17:03:61: [0mGET /room/1476946199360 [32m200 [0m26.624 ms - 8885[0m
+2016-10-20 17:03:64: [0mGET /stylesheets/style.css [32m200 [0m4.134 ms - 639[0m
+2016-10-20 17:03:64: [0mGET /javascripts/vue.js [36m304 [0m1.393 ms - -[0m
+2016-10-20 17:03:69: [0mGET /javascripts/socket.io.js [36m304 [0m6.432 ms - -[0m
+2016-10-20 17:03:75: undefined
+2016-10-20 17:03:80: [0mGET /room/1476946199360 [32m200 [0m53.855 ms - 8885[0m
+2016-10-20 17:03:84: [0mGET /stylesheets/style.css [32m200 [0m9.642 ms - 639[0m
+2016-10-20 17:03:88: [0mGET /javascripts/vue.js [36m304 [0m12.084 ms - -[0m
+2016-10-20 17:03:89: [0mGET /javascripts/socket.io.js [36m304 [0m10.770 ms - -[0m
+2016-10-20 17:03:47: undefined
+2016-10-20 17:03:49: [0mGET /room/1476946199360 [32m200 [0m29.562 ms - 8864[0m
+2016-10-20 17:03:54: [0mGET /stylesheets/style.css [36m304 [0m2.476 ms - -[0m
+2016-10-20 17:03:57: [0mGET /javascripts/vue.js [36m304 [0m5.346 ms - -[0m
+2016-10-20 17:03:58: [0mGET /javascripts/socket.io.js [36m304 [0m7.481 ms - -[0m
+2016-10-20 17:04:05: undefined
+2016-10-20 17:04:10: [0mGET /room/1476946199360 [32m200 [0m55.500 ms - 8864[0m
+2016-10-20 17:04:19: [0mGET /stylesheets/style.css [32m200 [0m5.836 ms - 639[0m
+2016-10-20 17:04:21: [0mGET /javascripts/vue.js [36m304 [0m9.326 ms - -[0m
+2016-10-20 17:04:21: [0mGET /javascripts/socket.io.js [36m304 [0m10.117 ms - -[0m
+2016-10-20 17:04:05: undefined
+2016-10-20 17:04:10: [0mGET /room/1476946199360 [32m200 [0m56.608 ms - 8864[0m
+2016-10-20 17:04:20: [0mGET /stylesheets/style.css [32m200 [0m7.997 ms - 659[0m
+2016-10-20 17:04:20: [0mGET /javascripts/vue.js [36m304 [0m9.377 ms - -[0m
+2016-10-20 17:04:19: [0mGET /javascripts/socket.io.js [36m304 [0m9.597 ms - -[0m
+2016-10-20 17:05:26: undefined
+2016-10-20 17:05:30: [0mGET /room/1476946199360 [32m200 [0m37.129 ms - 8864[0m
+2016-10-20 17:05:33: [0mGET /stylesheets/style.css [32m200 [0m2.892 ms - 683[0m
+2016-10-20 17:05:37: [0mGET /javascripts/vue.js [36m304 [0m9.421 ms - -[0m
+2016-10-20 17:05:37: [0mGET /javascripts/socket.io.js [36m304 [0m9.536 ms - -[0m
+2016-10-20 17:05:55: undefined
+2016-10-20 17:05:60: [0mGET /room/1476946199360 [32m200 [0m59.539 ms - 8864[0m
+2016-10-20 17:05:65: [0mGET /stylesheets/style.css [32m200 [0m5.983 ms - 685[0m
+2016-10-20 17:05:68: [0mGET /javascripts/socket.io.js [36m304 [0m8.732 ms - -[0m
+2016-10-20 17:05:68: [0mGET /javascripts/vue.js [36m304 [0m8.928 ms - -[0m
+2016-10-20 17:05:70: undefined
+2016-10-20 17:05:73: [0mGET /room/1476946199360 [32m200 [0m26.442 ms - 8864[0m
+2016-10-20 17:05:76: [0mGET /stylesheets/style.css [32m200 [0m4.008 ms - 683[0m
+2016-10-20 17:05:78: [0mGET /javascripts/vue.js [36m304 [0m5.916 ms - -[0m
+2016-10-20 17:05:78: [0mGET /javascripts/socket.io.js [36m304 [0m7.147 ms - -[0m
+2016-10-20 17:06:32: undefined
+2016-10-20 17:06:34: [0mGET /room/1476946199360 [32m200 [0m31.365 ms - 8885[0m
+2016-10-20 17:06:38: [0mGET /stylesheets/style.css [36m304 [0m3.192 ms - -[0m
+2016-10-20 17:06:41: [0mGET /javascripts/vue.js [36m304 [0m5.698 ms - -[0m
+2016-10-20 17:06:41: [0mGET /javascripts/socket.io.js [36m304 [0m5.613 ms - -[0m
+2016-10-20 17:06:98: undefined
+2016-10-20 17:06:03: [0mGET /room/1476946199360 [32m200 [0m47.983 ms - 8885[0m
+2016-10-20 17:06:15: [0mGET /stylesheets/style.css [32m200 [0m3.206 ms - 816[0m
+2016-10-20 17:06:15: [0mGET /javascripts/vue.js [36m304 [0m1.988 ms - -[0m
+2016-10-20 17:06:18: [0mGET /javascripts/socket.io.js [36m304 [0m5.879 ms - -[0m
+2016-10-20 17:07:41: undefined
+2016-10-20 17:07:46: [0mGET /room/1476946199360 [32m200 [0m56.903 ms - 8885[0m
+2016-10-20 17:07:53: [0mGET /stylesheets/style.css [32m200 [0m6.313 ms - 816[0m
+2016-10-20 17:07:56: [0mGET /javascripts/vue.js [36m304 [0m11.451 ms - -[0m
+2016-10-20 17:07:56: [0mGET /javascripts/socket.io.js [36m304 [0m9.362 ms - -[0m
+2016-10-20 17:07:64: undefined
+2016-10-20 17:07:69: [0mGET /room/1476946199360 [32m200 [0m47.388 ms - 8885[0m
+2016-10-20 17:07:73: [0mGET /stylesheets/style.css [32m200 [0m3.934 ms - 816[0m
+2016-10-20 17:07:75: [0mGET /javascripts/vue.js [36m304 [0m8.006 ms - -[0m
+2016-10-20 17:07:75: [0mGET /javascripts/socket.io.js [36m304 [0m8.791 ms - -[0m
+2016-10-20 17:07:60: undefined
+2016-10-20 17:07:63: [0mGET /room/1476946199360 [32m200 [0m26.833 ms - 8885[0m
+2016-10-20 17:07:66: [0mGET /stylesheets/style.css [32m200 [0m2.550 ms - 818[0m
+2016-10-20 17:07:67: [0mGET /javascripts/vue.js [36m304 [0m1.272 ms - -[0m
+2016-10-20 17:07:69: [0mGET /javascripts/socket.io.js [36m304 [0m5.139 ms - -[0m
+2016-10-20 17:07:28: undefined
+2016-10-20 17:07:34: [0mGET /room/1476946199360 [32m200 [0m51.248 ms - 8885[0m
+2016-10-20 17:07:42: [0mGET /stylesheets/style.css [32m200 [0m11.973 ms - 818[0m
+2016-10-20 17:07:42: [0mGET /javascripts/vue.js [36m304 [0m8.744 ms - -[0m
+2016-10-20 17:07:44: [0mGET /javascripts/socket.io.js [36m304 [0m11.911 ms - -[0m
+2016-10-20 17:08:95: undefined
+2016-10-20 17:08:00: [0mGET /room/1476946199360 [32m200 [0m50.636 ms - 8885[0m
+2016-10-20 17:08:05: [0mGET /stylesheets/style.css [32m200 [0m6.168 ms - 840[0m
+2016-10-20 17:08:06: [0mGET /javascripts/vue.js [36m304 [0m8.880 ms - -[0m
+2016-10-20 17:08:07: [0mGET /javascripts/socket.io.js [36m304 [0m9.364 ms - -[0m
+2016-10-20 17:08:89: undefined
+2016-10-20 17:08:94: [0mGET /room/1476946199360 [32m200 [0m54.629 ms - 8885[0m
+2016-10-20 17:08:02: [0mGET /stylesheets/style.css [32m200 [0m11.849 ms - 840[0m
+2016-10-20 17:08:02: [0mGET /javascripts/vue.js [36m304 [0m9.051 ms - -[0m
+2016-10-20 17:08:03: [0mGET /javascripts/socket.io.js [36m304 [0m9.985 ms - -[0m
+2016-10-20 17:08:10: undefined
+2016-10-20 17:08:15: [0mGET /room/1476946199360 [32m200 [0m61.060 ms - 8885[0m
+2016-10-20 17:08:19: [0mGET /stylesheets/style.css [32m200 [0m5.230 ms - 841[0m
+2016-10-20 17:08:22: [0mGET /javascripts/vue.js [36m304 [0m9.421 ms - -[0m
+2016-10-20 17:08:22: [0mGET /javascripts/socket.io.js [36m304 [0m8.792 ms - -[0m
+2016-10-20 17:09:06: undefined
+2016-10-20 17:09:11: [0mGET /room/1476946199360 [32m200 [0m50.976 ms - 8885[0m
+2016-10-20 17:09:14: [0mGET /stylesheets/style.css [32m200 [0m6.201 ms - 858[0m
+2016-10-20 17:09:17: [0mGET /javascripts/vue.js [36m304 [0m8.793 ms - -[0m
+2016-10-20 17:09:17: [0mGET /javascripts/socket.io.js [36m304 [0m8.446 ms - -[0m
+2016-10-20 17:09:28: undefined
+2016-10-20 17:09:33: [0mGET /room/1476946199360 [32m200 [0m52.280 ms - 8885[0m
+2016-10-20 17:09:39: [0mGET /javascripts/vue.js [36m304 [0m3.815 ms - -[0m
+2016-10-20 17:09:42: [0mGET /javascripts/socket.io.js [36m304 [0m6.509 ms - -[0m
+2016-10-20 17:09:43: [0mGET /stylesheets/style.css [32m200 [0m11.476 ms - 858[0m
+2016-10-20 17:10:26: undefined
+2016-10-20 17:10:28: [0mGET /room/1476946199360 [32m200 [0m27.310 ms - 8885[0m
+2016-10-20 17:10:39: [0mGET /stylesheets/style.css [32m200 [0m2.365 ms - 837[0m
+2016-10-20 17:10:42: [0mGET /javascripts/vue.js [36m304 [0m9.398 ms - -[0m
+2016-10-20 17:10:43: [0mGET /javascripts/socket.io.js [36m304 [0m8.616 ms - -[0m
+2016-10-20 17:10:80: undefined
+2016-10-20 17:10:84: [0mGET /room/1476946199360 [32m200 [0m47.782 ms - 8885[0m
+2016-10-20 17:10:89: [0mGET /stylesheets/style.css [32m200 [0m5.873 ms - 837[0m
+2016-10-20 17:10:92: [0mGET /javascripts/vue.js [36m304 [0m10.661 ms - -[0m
+2016-10-20 17:10:96: [0mGET /javascripts/socket.io.js [36m304 [0m10.744 ms - -[0m
+2016-10-20 17:10:87: undefined
+2016-10-20 17:10:89: [0mGET /room/1476946199360 [32m200 [0m23.765 ms - 8885[0m
+2016-10-20 17:10:92: [0mGET /stylesheets/style.css [32m200 [0m2.407 ms - 837[0m
+2016-10-20 17:10:96: [0mGET /javascripts/vue.js [36m304 [0m8.502 ms - -[0m
+2016-10-20 17:10:96: [0mGET /javascripts/socket.io.js [36m304 [0m7.729 ms - -[0m
+2016-10-20 17:11:64: undefined
+2016-10-20 17:11:69: [0mGET /room/1476946199360 [32m200 [0m53.539 ms - 8885[0m
+2016-10-20 17:11:73: [0mGET /stylesheets/style.css [32m200 [0m7.949 ms - 855[0m
+2016-10-20 17:11:76: [0mGET /javascripts/vue.js [36m304 [0m9.320 ms - -[0m
+2016-10-20 17:11:76: [0mGET /javascripts/socket.io.js [36m304 [0m9.375 ms - -[0m

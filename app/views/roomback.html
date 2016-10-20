@@ -1,0 +1,187 @@
+
+  <div id="app">
+
+    <h1>\{{ greeting }}</h1>
+    
+    {{#if drawOrShow}}
+    <draw_component></draw_component>
+    {{else}}
+    <show_component></show_component>
+    {{/if}}
+  </div>
+  <script src="/javascripts/socket.io.js"></script>
+  <script>
+    var globalInfo = {{{globalInfo}}};
+
+    Vue.component('draw_component', {
+      template: '\
+        <div class="drawBox">\
+          <canvas id="canvas" v-on:mousedown="drawStart" v-on:mouseup="drawEnd" v-on:mouseout="drawEnd" width="520" height="350" style="border: 1px solid #999;"></canvas>\
+          <div id="keyword-box">\
+              <span>Keyword: </span>\
+              <span id="keyword"></span>\
+          </div>\
+          <button id="btn" v-on:click="clearCanvas">清空画布</button>\
+        </div>\
+      ',
+      data: function () {
+        return {
+          path: {
+            beginX: 0,
+            beginY: 0,
+            endX: 0,
+            endY: 0
+          },
+          socket : null
+        }
+      },
+      mounted:function(){
+        this.socket = this.webSocket();
+
+      },
+      methods: {
+        drawStart:function(){
+          console.log('start draw');
+          var cxt = event.target.getContext('2d');
+          var stage_info = canvas.getBoundingClientRect();
+          
+          window.getSelection() ? window.getSelection().removeAllRanges() : document.selection.empty();
+          cxt.strokeStyle = "#000";
+          cxt.beginPath();
+          cxt.moveTo(
+              event.clientX - stage_info.left,
+              event.clientY - stage_info.top
+          );
+          this.path.beginX = event.clientX - stage_info.left;
+          this.path.beginY = event.clientY - stage_info.top;
+          this.drawing();
+          document.onmousemove = this.drawing;
+        },
+        drawing:function(){
+          console.log('drawing');
+          var cxt = event.target.getContext('2d');
+          var stage_info = canvas.getBoundingClientRect();
+          cxt.lineTo(
+              event.clientX - stage_info.left,
+              event.clientY - stage_info.top
+          );
+          this.path.endX = event.clientX - stage_info.left;
+          this.path.endY = event.clientY - stage_info.top;
+          var drawData = parseInt(this.path.beginX) + '.' + parseInt(this.path.beginY) + '.' + parseInt(this.path.endX) + '.' + parseInt(this.path.endY);
+          var msg = {'order':'draw','data':drawData};
+          this.socket.emit('newMessage', msg);
+          cxt.stroke();
+        },
+        drawEnd:function(){
+          console.log('draw end');
+          document.onmousemove = document.onmouseup = null;
+          var msg = {'order':'stop','data':''};
+          this.socket.emit('newMessage', msg);
+        },
+        clearCanvas:function(){
+          var canvas = document.getElementById('canvas');
+          var cxt = canvas.getContext('2d');
+          cxt.clearRect(0, 0, 500, 500);
+          var msg = {'order':'clear','data':''};
+          this.socket.emit('newMessage', msg);
+        },
+        webSocket:function(){
+          
+          var url = 'http://localhost:8081';
+          var info = {
+            'userName' : 'user'+new Date().getTime(),
+            'roomId' : globalInfo.roomId
+          };
+          var socket = io.connect(url);
+          console.log('connected');
+          socket.emit('addUser', info);
+          socket.on("login",function(data){
+            console.log(data);
+          });
+          socket.on("userJoined",function(data) {
+            console.log(data);
+            
+          });
+          socket.on('newMessage', function (data) {
+            console.log(data);
+            
+          });
+          return socket;
+        }
+      }
+    });
+
+    Vue.component('show_component', {
+      template: '\
+        <div class="showBox">\
+          <canvas id="showCanvas" width="520" height="350" style="border: 1px solid #999;"></canvas>\
+          <div id="answer-box">\
+              <span>Answer: </span>\
+              <input id="answer" type="text">\
+              <button id="submit">提交</button>\
+          </div>\
+        </div>\
+      ',
+      data: function () {
+        return {
+          socket : null
+        }
+      },
+      mounted:function(){
+        this.socket = this.webSocket();
+
+      },
+      methods: {
+        webSocket:function(){
+          
+          var url = 'http://localhost:8081';
+          var info = {
+            'userName' : 'user'+new Date().getTime(),
+            'roomId' : globalInfo.roomId
+          };
+          var socket = io.connect(url);
+          var canvas = document.getElementById('showCanvas');
+          var cxt = canvas.getContext('2d');
+          var moveToSwitch = 1;
+          console.log('connected');
+          socket.emit('addUser', info);
+          socket.on("login",function(data){
+            console.log(data);
+          });
+          socket.on("userJoined",function(data) {
+            console.log(data);
+            
+          });
+
+          socket.on('newMessage', function (data) {
+            console.log(data);
+            var pathObj = data.msg.data.split('.');
+
+            if (moveToSwitch && data.msg.order != 'stop' && data.msg.order != 'clear') {
+                  cxt.beginPath();
+                  cxt.moveTo(pathObj[0], pathObj[1]);
+                  moveToSwitch = 0;
+              } else if (!moveToSwitch && data.msg.order == 'stop') {
+                  cxt.beginPath();
+                  cxt.moveTo(pathObj[0], pathObj[1]);
+                  moveToSwitch = 1;
+              } else if (moveToSwitch && data.msg.order == 'clear') {
+                  cxt.clearRect(0, 0, 500, 500);
+              } 
+              cxt.lineTo(pathObj[2], pathObj[3]);
+              cxt.stroke();
+
+          });
+          return socket;
+        }
+      }
+    });
+
+    new Vue({
+      el: '#app',
+      data: {
+        greeting: '开始画画吧!',
+      }
+    });
+
+  </script>

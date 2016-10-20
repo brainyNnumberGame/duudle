@@ -10,7 +10,7 @@ router.get('/:roomId(\\d+)', function(req, res, next) {
 		'roomId' : roomId
     };
 	globalInfo = JSON.stringify(globalInfo);
-  	res.render('room', { title: 'duudle',globalInfo:globalInfo,drawOrShow:drawOrShow});
+  	res.render('room', { title: '你画我猜',globalInfo:globalInfo,drawOrShow:drawOrShow});
 });
 
 module.exports = router;
