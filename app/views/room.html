@@ -23,6 +23,7 @@
                 <span id="keyword" v-html="drawWord"></span>\
             </div>\
             <button class="clearCanvasButton" id="btn" v-on:touchstart="clearCanvas">重画</button>\
+            <button class="changeWordButton" id="changebtn" v-on:touchstart="changeWord">换词</button>\
           </div>\
           <div class="showBox" v-bind:style="showDisplay">\
             <canvas id="showCanvas" width="300" height="300"></canvas>\
@@ -54,10 +55,7 @@
           drawWord : '',
           guessWord : '',
           words : [
-            '大象',
-            '狗',
-            '鱼',
-            '猫'
+            '大象','狗','鱼','猫','老虎','狼','老鼠','熊猫','羊','牛','马','兔','龙','蛇','猴子','猪','鸡','企鹅','青蛙','蝴蝶','蜻蜓','蜈蚣','恐龙','水母','海星','老鹰','啄木鸟','鸵鸟','乌龟','蜥蜴'
           ]
         }
       },
@@ -164,10 +162,15 @@
         },
         getDrawWords:function(){
           
-            this.drawWord = this.words[Math.floor(Math.random()*this.words.length)];
+          this.drawWord = this.words[Math.floor(Math.random()*this.words.length)];
         },
         guessWordInput:function(){
           this.guessWord = event.target.value;
+        },
+        changeWord:function(){
+          this.clearCanvas();
+          this.getDrawWords();
+          this.judgeUserRole();
         },
         submitMyGuess:function(){
           console.log(this.guessWord);

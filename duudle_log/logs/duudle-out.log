@@ -2167,3 +2167,60 @@
 2016-10-20 17:11:73: [0mGET /stylesheets/style.css [32m200 [0m7.949 ms - 855[0m
 2016-10-20 17:11:76: [0mGET /javascripts/vue.js [36m304 [0m9.320 ms - -[0m
 2016-10-20 17:11:76: [0mGET /javascripts/socket.io.js [36m304 [0m9.375 ms - -[0m
+2016-10-20 17:57:08: [0mGET / [32m200 [0m39.799 ms - 882[0m
+2016-10-20 17:57:13: [0mGET /images/draw.png [32m200 [0m4.707 ms - 2061[0m
+2016-10-20 18:44:22: [0mGET / [32m200 [0m43.522 ms - 882[0m
+2016-10-20 18:44:26: [0mGET /stylesheets/style.css [32m200 [0m8.378 ms - 855[0m
+2016-10-20 18:44:29: [0mGET /javascripts/vue.js [36m304 [0m24.179 ms - -[0m
+2016-10-20 18:44:50: [0mGET /images/draw.png [36m304 [0m2.081 ms - -[0m
+2016-10-20 18:44:74: undefined
+2016-10-20 18:44:77: [0mGET /room/1476960292517 [32m200 [0m30.508 ms - 8885[0m
+2016-10-20 18:44:78: [0mGET /stylesheets/style.css [36m304 [0m0.601 ms - -[0m
+2016-10-20 18:44:79: [0mGET /javascripts/vue.js [36m304 [0m1.295 ms - -[0m
+2016-10-20 18:44:80: [0mGET /javascripts/socket.io.js [36m304 [0m4.568 ms - -[0m
+2016-10-20 18:46:53: undefined
+2016-10-20 18:46:58: [0mGET /room/1476960292517 [32m200 [0m54.533 ms - 8991[0m
+2016-10-20 18:46:67: [0mGET /javascripts/socket.io.js [36m304 [0m24.761 ms - -[0m
+2016-10-20 18:46:67: [0mGET /javascripts/vue.js [36m304 [0m20.444 ms - -[0m
+2016-10-20 18:46:70: [0mGET /stylesheets/style.css [32m200 [0m15.477 ms - 992[0m
+2016-10-20 18:46:68: [0mGET /stylesheets/style.css [36m304 [0m1.202 ms - -[0m
+2016-10-20 19:03:67: undefined
+2016-10-20 19:03:70: [0mGET /room/1476960292517 [32m200 [0m32.406 ms - 9295[0m
+2016-10-20 19:03:75: [0mGET /stylesheets/style.css [36m304 [0m4.057 ms - -[0m
+2016-10-20 19:03:79: [0mGET /javascripts/socket.io.js [36m304 [0m10.868 ms - -[0m
+2016-10-20 19:03:80: [0mGET /javascripts/vue.js [36m304 [0m13.101 ms - -[0m
+2016-10-20 19:19:31: undefined
+2016-10-20 19:19:34: [0mGET /room/1476960292517 [36m304 [0m37.149 ms - -[0m
+2016-10-20 19:19:39: [0mGET /stylesheets/style.css [36m304 [0m4.172 ms - -[0m
+2016-10-20 19:19:44: [0mGET /javascripts/vue.js [36m304 [0m14.684 ms - -[0m
+2016-10-20 19:19:45: [0mGET /javascripts/socket.io.js [36m304 [0m17.415 ms - -[0m
+2016-10-20 19:19:19: undefined
+2016-10-20 19:19:22: [0mGET /room/1476960292517 [36m304 [0m34.938 ms - -[0m
+2016-10-20 19:19:26: [0mGET /stylesheets/style.css [36m304 [0m1.247 ms - -[0m
+2016-10-20 19:19:26: [0mGET /javascripts/socket.io.js [36m304 [0m1.080 ms - -[0m
+2016-10-20 19:19:27: [0mGET /javascripts/vue.js [36m304 [0m3.409 ms - -[0m
+2016-10-20 19:19:67: undefined
+2016-10-20 19:19:69: [0mGET /room/1476960292517 [36m304 [0m26.688 ms - -[0m
+2016-10-20 19:19:72: [0mGET /stylesheets/style.css [36m304 [0m0.897 ms - -[0m
+2016-10-20 19:19:72: [0mGET /javascripts/vue.js [36m304 [0m2.630 ms - -[0m
+2016-10-20 19:19:73: [0mGET /javascripts/socket.io.js [36m304 [0m2.533 ms - -[0m
+2016-10-20 19:19:02: undefined
+2016-10-20 19:19:03: [0mGET /room/1476960292517 [36m304 [0m8.681 ms - -[0m
+2016-10-20 19:19:06: [0mGET /javascripts/socket.io.js [36m304 [0m0.648 ms - -[0m
+2016-10-20 19:19:06: [0mGET /stylesheets/style.css [36m304 [0m0.685 ms - -[0m
+2016-10-20 19:19:06: [0mGET /javascripts/vue.js [36m304 [0m3.946 ms - -[0m
+2016-10-20 19:19:25: undefined
+2016-10-20 19:19:25: [0mGET /room/1476960292517 [36m304 [0m6.748 ms - -[0m
+2016-10-20 19:19:28: [0mGET /javascripts/vue.js [36m304 [0m0.415 ms - -[0m
+2016-10-20 19:19:29: [0mGET /javascripts/socket.io.js [36m304 [0m0.536 ms - -[0m
+2016-10-20 19:19:29: [0mGET /stylesheets/style.css [36m304 [0m0.468 ms - -[0m
+2016-10-20 19:19:58: undefined
+2016-10-20 19:19:58: [0mGET /room/1476960292517 [36m304 [0m2.670 ms - -[0m
+2016-10-20 19:19:63: [0mGET /javascripts/vue.js [36m304 [0m0.491 ms - -[0m
+2016-10-20 19:19:63: [0mGET /javascripts/socket.io.js [36m304 [0m0.762 ms - -[0m
+2016-10-20 19:19:63: [0mGET /stylesheets/style.css [36m304 [0m0.645 ms - -[0m
+2016-10-20 19:19:92: undefined
+2016-10-20 19:19:92: [0mGET /room/1476960292517 [36m304 [0m5.743 ms - -[0m
+2016-10-20 19:19:95: [0mGET /javascripts/vue.js [36m304 [0m0.776 ms - -[0m
+2016-10-20 19:19:95: [0mGET /stylesheets/style.css [36m304 [0m0.472 ms - -[0m
+2016-10-20 19:19:95: [0mGET /javascripts/socket.io.js [36m304 [0m0.391 ms - -[0m
