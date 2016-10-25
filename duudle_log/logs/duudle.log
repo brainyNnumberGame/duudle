@@ -12256,3 +12256,33 @@ TypeError: Cannot read property 'use' of undefined
 2016-10-20 19:19:95: [0mGET /javascripts/vue.js [36m304 [0m0.776 ms - -[0m
 2016-10-20 19:19:95: [0mGET /stylesheets/style.css [36m304 [0m0.472 ms - -[0m
 2016-10-20 19:19:95: [0mGET /javascripts/socket.io.js [36m304 [0m0.391 ms - -[0m
+2016-10-20 21:45:46: [0mGET / [32m200 [0m28.114 ms - 882[0m
+2016-10-20 21:45:55: [0mGET / [32m200 [0m23.097 ms - 882[0m
+2016-10-20 21:45:59: [0mGET /stylesheets/style.css [32m200 [0m6.192 ms - 992[0m
+2016-10-20 21:45:60: [0mGET /javascripts/vue.js [32m200 [0m7.026 ms - 63200[0m
+2016-10-20 21:45:60: [0mGET /images/draw.png [32m200 [0m7.151 ms - 2061[0m
+2016-10-20 21:45:26: undefined
+2016-10-20 21:45:26: [0mGET /room/1476971145659 [32m200 [0m14.045 ms - 9296[0m
+2016-10-20 21:45:28: [0mGET /stylesheets/style.css [36m304 [0m2.197 ms - -[0m
+2016-10-20 21:45:29: [0mGET /javascripts/vue.js [36m304 [0m2.248 ms - -[0m
+2016-10-20 21:45:32: [0mGET /javascripts/socket.io.js [32m200 [0m2.228 ms - 184656[0m
+2016-10-20 21:46:38: undefined
+2016-10-20 21:46:40: [0mGET /room/1476971145659?from=singlemessage&isappinstalled=0 [32m200 [0m30.749 ms - 9296[0m
+2016-10-20 21:46:45: [0mGET /stylesheets/style.css [32m200 [0m4.859 ms - 992[0m
+2016-10-20 21:46:48: [0mGET /javascripts/vue.js [32m200 [0m6.756 ms - 63200[0m
+2016-10-20 21:46:54: [0mGET /javascripts/socket.io.js [32m200 [0m7.164 ms - 184656[0m
+2016-10-20 21:46:31: undefined
+2016-10-20 21:46:34: [0mGET /room/1476971145659?from=singlemessage&isappinstalled=0 [32m200 [0m33.842 ms - 9296[0m
+2016-10-20 21:46:38: [0mGET /stylesheets/style.css [36m304 [0m3.008 ms - -[0m
+2016-10-20 21:46:38: [0mGET /javascripts/vue.js [36m304 [0m2.597 ms - -[0m
+2016-10-20 21:46:41: [0mGET /javascripts/socket.io.js [36m304 [0m0.616 ms - -[0m
+2016-10-20 21:50:13: undefined
+2016-10-20 21:50:15: [0mGET /room/1476971145659?from=singlemessage&isappinstalled=0 [32m200 [0m27.874 ms - 9296[0m
+2016-10-20 21:50:20: [0mGET /stylesheets/style.css [36m304 [0m0.744 ms - -[0m
+2016-10-20 21:50:21: [0mGET /javascripts/socket.io.js [36m304 [0m0.316 ms - -[0m
+2016-10-20 21:50:21: [0mGET /javascripts/vue.js [36m304 [0m2.561 ms - -[0m
+2016-10-20 21:57:44: undefined
+2016-10-20 21:57:45: [0mGET /room/1476971145659?from=singlemessage&isappinstalled=0 [32m200 [0m7.241 ms - 9296[0m
+2016-10-20 21:57:47: [0mGET /stylesheets/style.css [36m304 [0m2.337 ms - -[0m
+2016-10-20 21:57:48: [0mGET /javascripts/vue.js [36m304 [0m2.490 ms - -[0m
+2016-10-20 21:57:48: [0mGET /javascripts/socket.io.js [36m304 [0m2.378 ms - -[0m
